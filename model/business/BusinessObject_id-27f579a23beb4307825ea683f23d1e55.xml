@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tablet Press"
-    id="id-27f579a23beb4307825ea683f23d1e55"/>
+    id="id-27f579a23beb4307825ea683f23d1e55"
+    documentation="A Tablet Press is atype of Equipment that compresses a powder blend to produce tablets.&#xA;"/>

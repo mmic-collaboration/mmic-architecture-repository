@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LiW Feeder"
-    id="id-05315acb62584406b24a8d7be242f704"/>
+    id="id-05315acb62584406b24a8d7be242f704"
+    documentation="An LiW Feeder is a type of Equipment that doses a pre-set mass of powder into another piece of Equipment by measuring the loss in weight."/>

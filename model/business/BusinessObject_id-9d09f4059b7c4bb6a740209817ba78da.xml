@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipment Location"
-    id="id-9d09f4059b7c4bb6a740209817ba78da"/>
+    id="id-9d09f4059b7c4bb6a740209817ba78da"
+    documentation="The Equipment Location is a physical geographic site that hosts the Equipment."/>

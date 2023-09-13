@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Production Line"
-    id="id-0e12acf103cc4c44b3fdd8a8f055036d"/>
+    id="id-0e12acf103cc4c44b3fdd8a8f055036d"
+    documentation="A Production Line is group of Equipment that is used to manufacture medicines. "/>

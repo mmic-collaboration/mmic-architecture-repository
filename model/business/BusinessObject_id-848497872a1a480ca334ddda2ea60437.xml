@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Blender"
-    id="id-848497872a1a480ca334ddda2ea60437"/>
+    id="id-848497872a1a480ca334ddda2ea60437"
+    documentation="A Blender is a type of Equipment that mixes powders together to produce a blend."/>

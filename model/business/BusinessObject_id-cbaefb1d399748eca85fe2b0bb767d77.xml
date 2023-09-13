@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lab"
-    id="id-cbaefb1d399748eca85fe2b0bb767d77"/>
+    name="Quality Control Laboratory"
+    id="id-cbaefb1d399748eca85fe2b0bb767d77"
+    documentation="Aka QC Lab. A Quality Control Laboratory is a group of Equipment that is used to characterise medicines manufactured on the Production Line for the purpose of quality control."/>

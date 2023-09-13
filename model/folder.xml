@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MMIC"
     id="id-4d85e3b23cd64bdea8890b691e30bcce"
+    purpose="Aka PLC. A component of a piece Equipment that controls its operation. "
     version="5.0.0"/>
