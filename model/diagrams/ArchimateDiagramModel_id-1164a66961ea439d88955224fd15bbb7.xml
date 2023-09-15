@@ -97,7 +97,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-34167f0a8d044581be323f91b0578149"
       textAlignment="1"
-      content="testing:&#xA;here is another annotation, with a little more text.">
+      content="testing:&#xA;here is another annotation, with a little more text...">
     <bounds
         x="457"
         y="348"
