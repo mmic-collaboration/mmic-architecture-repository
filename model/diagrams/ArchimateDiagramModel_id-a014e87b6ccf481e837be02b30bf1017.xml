@@ -447,9 +447,9 @@
           id="id-d5af619919474ac8ba1dcca437474911"
           targetConnections="id-11ed96b6a8234521a2cff8f45867b75a id-836f053389a042369e0ca96908aa4a34">
         <bounds
-            x="191"
+            x="180"
             y="348"
-            width="120"
+            width="131"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
