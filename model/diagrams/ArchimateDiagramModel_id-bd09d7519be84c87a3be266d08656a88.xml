@@ -9,8 +9,8 @@
       textAlignment="1"
       content="Archimate 'Motivation' Taxomony Reference:&#xA;&#xA;https://pubs.opengroup.org/architecture/archimate31-doc/chap06.html">
     <bounds
-        x="449"
-        y="43"
+        x="24"
+        y="96"
         width="373"
         height="90"/>
   </children>
@@ -21,8 +21,8 @@
       textAlignment="1"
       content=" Motivation View:&#xA;Architectural Principles">
     <bounds
-        x="60"
-        y="48"
+        x="24"
+        y="12"
         width="373"
         height="80"/>
   </children>
@@ -30,8 +30,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fdb7ee308e104ce7a15c9b8f6594f7b9">
     <bounds
-        x="371"
-        y="180"
+        x="372"
+        y="216"
         width="145"
         height="55"/>
     <archimateElement
@@ -598,5 +598,29 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-fcecb9afb34241a385c639bf4ea027bd.xml#id-fcecb9afb34241a385c639bf4ea027bd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-743d393f3d4545e7b2e1606b8bb1c3ca">
+    <bounds
+        x="972"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-b65ab75f50704dd2bb4516ee2fb050ac.xml#id-b65ab75f50704dd2bb4516ee2fb050ac"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b7eca026e3346d399db2ddd2f201ae3">
+    <bounds
+        x="-12"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-3db029bb510f4c18857d15becd5b1bb1.xml#id-3db029bb510f4c18857d15becd5b1bb1"/>
   </children>
 </archimate:ArchimateDiagramModel>
