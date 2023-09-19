@@ -9,8 +9,8 @@
       textAlignment="1"
       content="Archimate 'Motivation' Taxomony Reference:&#xA;&#xA;https://pubs.opengroup.org/architecture/archimate31-doc/chap06.html">
     <bounds
-        x="449"
-        y="43"
+        x="24"
+        y="96"
         width="373"
         height="90"/>
   </children>
@@ -21,8 +21,8 @@
       textAlignment="1"
       content=" Motivation View:&#xA;Architectural Principles">
     <bounds
-        x="60"
-        y="48"
+        x="24"
+        y="12"
         width="373"
         height="80"/>
   </children>
@@ -30,8 +30,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fdb7ee308e104ce7a15c9b8f6594f7b9">
     <bounds
-        x="371"
-        y="180"
+        x="372"
+        y="216"
         width="145"
         height="55"/>
     <archimateElement
