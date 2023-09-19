@@ -679,8 +679,8 @@
       name="Collection &amp; Analysis"
       textAlignment="1">
     <bounds
-        x="2196"
-        y="864"
+        x="1908"
+        y="744"
         width="301"
         height="157"/>
   </children>
@@ -805,8 +805,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e5daa849e20a4edfaaba226de79407bd">
       <bounds
-          x="24"
-          y="96"
+          x="12"
+          y="84"
           width="120"
           height="55"/>
       <archimateElement
@@ -1094,21 +1094,10 @@
       name="Manufacturing Control"
       textAlignment="1">
     <bounds
-        x="2148"
-        y="264"
-        width="277"
-        height="157"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-8d7b6b5b86354684b35e08d4b40009be">
-      <bounds
-          y="288"
-          width="252"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_id-31ebe2c252c740d3866b77d631dc4386.xml#id-31ebe2c252c740d3866b77d631dc4386"/>
-    </children>
+        x="1908"
+        y="300"
+        width="325"
+        height="127"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-96c0caab301645d28111eb6fe9258775">
@@ -1151,8 +1140,8 @@
       name="Utilitities Control"
       textAlignment="1">
     <bounds
-        x="2172"
-        y="696"
+        x="1908"
+        y="570"
         width="277"
         height="157"/>
     <children
@@ -1312,7 +1301,7 @@
         id="id-eba0ee89f1a3432fbcc7489eb8aa282d">
       <bounds
           x="156"
-          y="156"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -1336,7 +1325,7 @@
         id="id-8c2fcbeabd144477aeeb7e744cb5e4fa">
       <bounds
           x="12"
-          y="156"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -1538,12 +1527,12 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-bd4c2327ad93488885a123cd1fab95d3"
-      name="Enabling technologies"
+      name="Technology Enablement"
       textAlignment="1">
     <bounds
         x="36"
         y="132"
-        width="1969"
+        width="2077"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1713,6 +1702,18 @@
           xsi:type="archimate:Capability"
           href="Capability_id-ffff31475ecc408591d25e48a8192866.xml#id-ffff31475ecc408591d25e48a8192866"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3ee2f70c4f934c33872d84f4ac397ee7">
+      <bounds
+          x="1908"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-015a5335260f4d84bd8517a7f135f62e.xml#id-015a5335260f4d84bd8517a7f135f62e"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -1720,10 +1721,10 @@
       name="Laboratory Information Management System (LIMS)"
       textAlignment="1">
     <bounds
-        x="2172"
+        x="1908"
         y="444"
-        width="306"
-        height="240"/>
+        width="325"
+        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
