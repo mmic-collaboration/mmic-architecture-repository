@@ -22,7 +22,7 @@
       targetConnections="id-bb5bb47515e8475a9ae9bf2c7a578a20">
     <bounds
         x="252"
-        y="168"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
@@ -35,7 +35,7 @@
       targetConnections="id-0d94ff6c927d4683975c887446919e9d">
     <bounds
         x="600"
-        y="168"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
