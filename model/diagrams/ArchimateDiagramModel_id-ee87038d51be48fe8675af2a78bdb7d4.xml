@@ -103,4 +103,15 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-027cb518ecd74412ac3b250b95384bd4.xml#id-027cb518ecd74412ac3b250b95384bd4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e690a16e2b3a48f7be88ee1f7464dc22"
+      textAlignment="1"
+      content="IoT Sensor Architecture&#xA;Version: 0.01 &#xA;Date: 22.09.2023&#xA;Author: Suryaaknt Pandey">
+    <bounds
+        x="69"
+        y="73"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
