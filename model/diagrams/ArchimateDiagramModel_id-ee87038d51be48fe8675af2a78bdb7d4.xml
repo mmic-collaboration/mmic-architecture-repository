@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Layered View-Iot Sensor "
+    name="Layered View - Lot Sensor "
     id="id-ee87038d51be48fe8675af2a78bdb7d4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -109,8 +109,8 @@
       textAlignment="1"
       content="IoT Sensor Architecture&#xA;Version: 0.01 &#xA;Date: 22.09.2023&#xA;Author: Suryaaknt Pandey">
     <bounds
-        x="69"
-        y="73"
+        x="36"
+        y="120"
         width="185"
         height="80"/>
   </children>

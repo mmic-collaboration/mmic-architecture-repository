@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data View - Domain - Capability Mapping"
-    id="id-576a29ce2b11445897a01ecb03928a76">
+    name="Layered View - Domain to Capability Mapping"
+    id="id-576a29ce2b11445897a01ecb03928a76"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-852088b0c62f4562b134b4a0ab13c5ae"

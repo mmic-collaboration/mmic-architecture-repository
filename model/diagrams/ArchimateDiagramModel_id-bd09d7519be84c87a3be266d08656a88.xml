@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Layered View-Architectural Principles"
-    id="id-bd09d7519be84c87a3be266d08656a88">
+    name="Business Motivation View - Architectural Principles"
+    id="id-bd09d7519be84c87a3be266d08656a88"
+    viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-8a2d9b4de99d46f095d3e79d3f2631c5"

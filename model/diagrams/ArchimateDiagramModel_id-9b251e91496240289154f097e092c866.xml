@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Layered View - Real-time Release"
-    id="id-9b251e91496240289154f097e092c866">
+    id="id-9b251e91496240289154f097e092c866"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-30699cbaabb644ce99ffe36475e4c412"

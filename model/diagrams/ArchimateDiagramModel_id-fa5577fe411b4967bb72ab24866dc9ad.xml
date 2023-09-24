@@ -1,10 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capabilty Map"
+    name="Strategy/Capability View - Capabilty Map Level 0"
     id="id-fa5577fe411b4967bb72ab24866dc9ad"
-    documentation="Maanagement of deviations and quality incidents- links though to other incident management"
-    viewpoint="capability">
+    viewpoint="strategy">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-f89386ca7f7f467294333441a989444e"
@@ -1589,7 +1588,7 @@
           x="288"
           y="36"
           width="120"
-          height="84"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-be53285924834fa387006f72e63957f5.xml#id-be53285924834fa387006f72e63957f5"/>

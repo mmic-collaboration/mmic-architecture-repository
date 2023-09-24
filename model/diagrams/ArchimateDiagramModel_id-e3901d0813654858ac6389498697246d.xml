@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Layered View - Sensor Events"
-    id="id-e3901d0813654858ac6389498697246d">
+    id="id-e3901d0813654858ac6389498697246d"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-158866ddad964772b55f68f8b869920c"

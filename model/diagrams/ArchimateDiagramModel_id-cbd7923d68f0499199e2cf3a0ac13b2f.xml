@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Process View - Tableting Manufacturing"
     id="id-cbd7923d68f0499199e2cf3a0ac13b2f"
+    documentation="Test description of view"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
