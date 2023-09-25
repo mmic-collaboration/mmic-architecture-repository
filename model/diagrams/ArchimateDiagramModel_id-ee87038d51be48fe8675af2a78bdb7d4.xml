@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Layered View - Lot Sensor "
+    name="Layered View - iot Sensor "
     id="id-ee87038d51be48fe8675af2a78bdb7d4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
