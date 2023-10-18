@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digital signatures"
-    id="id-8a31c990ceca4e0f872af3b251719855"/>
+    name="Digital approval"
+    id="id-8a31c990ceca4e0f872af3b251719855"
+    documentation="The digital mechanism of an authorised person giving permission or agreement. "/>

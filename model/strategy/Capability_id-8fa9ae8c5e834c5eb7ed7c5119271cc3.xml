@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maintenance Management"
+    name="Maintenance of Equipment"
     id="id-8fa9ae8c5e834c5eb7ed7c5119271cc3"
-    documentation="Predictive maintenance tools need to be added as tech the layer below"/>
+    documentation="The scheduling, execution, and documentation of maintenance operations on both manufacturing and lab equipment. This capability includes requesting use of the necessary parts or tools from Warehouse, purchase of any items that are unavailable onsite, and engagement of external contractors as needed. Once complete, maintenance operations may trigger validation and calibration.  "/>

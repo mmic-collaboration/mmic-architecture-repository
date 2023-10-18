@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Non-conformance management &amp; CAPA"
-    id="id-5f14d2f2ca1c4d83ab9c6fd91715fc03"/>
+    name="Corrective And Preventative Actions (CAPA)"
+    id="id-5f14d2f2ca1c4d83ab9c6fd91715fc03"
+    documentation="The actions taken to correct or manage the impact of a deviation that has been identified by the Deviation Management system. The preventative actions taken to ensure the deviation does not recur, or to limit this as much as possible. "/>

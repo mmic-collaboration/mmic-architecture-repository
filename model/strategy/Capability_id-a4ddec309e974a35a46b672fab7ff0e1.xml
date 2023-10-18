@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data logging"
-    id="id-a4ddec309e974a35a46b672fab7ff0e1"/>
+    name="Manual data logging"
+    id="id-a4ddec309e974a35a46b672fab7ff0e1"
+    documentation="Employees recording information about a process from physical or digital sensors, gagues, and displays. "/>

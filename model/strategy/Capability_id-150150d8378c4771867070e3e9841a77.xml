@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utilities control"
-    id="id-150150d8378c4771867070e3e9841a77"/>
+    id="id-150150d8378c4771867070e3e9841a77"
+    documentation="Monitoring and management of basic utilities for the building (i.e. gas, electric, water, waste, communications)."/>

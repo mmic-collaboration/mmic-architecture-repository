@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process &amp; equipment validation "
-    id="id-59f631ae3b774a91bdc461a26a55a954"/>
+    name="Process, equipment, &amp; model validation "
+    id="id-59f631ae3b774a91bdc461a26a55a954"
+    documentation="The process of checking, recording, and signing off whether a piece of equipment, group of equipment (e.g. manufacturing line), or model is functioning within specification. "/>

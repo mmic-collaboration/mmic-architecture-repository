@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Set Point"
+    id="id-8b7f5c99d7e440cdbb06cb37c453bd5d"
+    documentation="A specific setting on a Machine that is used to control the manufacturing process"/>

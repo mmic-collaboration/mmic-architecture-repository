@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Batch"
+    id="id-4265a0cb8c714ad1b2b85e3ff3ef825e"
+    documentation="A Batch is a defined unit of production that results from a single Production Run. A Batch frequently contains many identical items, but can be as small as one. "/>

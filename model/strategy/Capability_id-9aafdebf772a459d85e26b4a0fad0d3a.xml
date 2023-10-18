@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deviation management"
     id="id-9aafdebf772a459d85e26b4a0fad0d3a"
-    documentation="Management of deviations and quality incidents - links though to other incident management"/>
+    documentation="The detection and recording of metrics to identify when a process is operating outside normal range. Sending notifications to relevant teams or systems that can rectify the issue. Depending on the nature of the deviation, it can trigger the Incident Management, Maintenance Management, Calibration Management, and/or cleaning capabilities. "/>

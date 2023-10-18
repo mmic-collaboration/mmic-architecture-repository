@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Physcial Access Control"
-    id="id-7063a95b54b44c318d610d0486d54e66"/>
+    id="id-7063a95b54b44c318d610d0486d54e66"
+    documentation="Systems that control access of people and items to different areas of a manufactng facility. "/>

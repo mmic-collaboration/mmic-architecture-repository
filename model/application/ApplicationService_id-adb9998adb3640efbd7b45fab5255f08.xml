@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance Application Platform Services"
+    id="id-adb9998adb3640efbd7b45fab5255f08"
+    documentation="These are application (software) level services that support the management and governance of data products in the organisation."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Goods in, testing, approval &amp; quarantine"
-    id="id-b5f30c4d32ad45fa9caa7585d07fe40b"/>
+    name="Goods In, Testing, &amp; Approval"
+    id="id-b5f30c4d32ad45fa9caa7585d07fe40b"
+    documentation="The process of receiving, checking, and approving incoming materials from the supply chain, and upon approval, releasing them for use in production, otherwise moving to quarantine. "/>

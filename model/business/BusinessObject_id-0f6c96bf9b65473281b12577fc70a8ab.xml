@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Event"
-    id="id-0f6c96bf9b65473281b12577fc70a8ab"/>
+    id="id-0f6c96bf9b65473281b12577fc70a8ab"
+    documentation="A Process Event is the occurance of something of interest that is digitally captured during a medinces manufacturing Production Run."/>

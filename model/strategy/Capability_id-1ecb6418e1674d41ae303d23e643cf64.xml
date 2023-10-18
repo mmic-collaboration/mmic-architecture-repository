@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sensor Management "
+    name="Sensor Control"
     id="id-1ecb6418e1674d41ae303d23e643cf64"
-    documentation="Soft sensors, PAT, other verification tools to assure process. &#xD;&#xA;At line sample analysis (IPC)- &#xD;&#xA;"/>
+    documentation="The configuration and operation of basic sensors (i.e. not PAT) used to monitor and control manufacturing processes.&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Shop Floor product material Control"
-    id="id-e70e1476709243b09071c109931e899f"/>
+    name="Shop Floor Material Control"
+    id="id-e70e1476709243b09071c109931e899f"
+    documentation="Managament of materials stored on the shop floor, including ensuring the correct environmental conditions for storage, protocols for use, tracking, and inventory."/>

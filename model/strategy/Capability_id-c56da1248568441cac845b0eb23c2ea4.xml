@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lab-based Quality Monitoring"
+    id="id-c56da1248568441cac845b0eb23c2ea4"
+    documentation="The tests carried out in a lab (by people or machines) to characterise samples removed from the process for the purpose of quality monitoring. This capability includes documentation, storage, and approval of test results. "/>

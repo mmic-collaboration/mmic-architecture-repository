@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Warehousing"
+    id="id-ca98150246f04da4b5f5161ab4be2626"
+    documentation="Storage of materials, consumables, and equipment parts in a warehouse with appropriate environmental control (e.g. temperature and humidity). Warehousing can be automated. "/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Warehouse &amp; Distribution Information"
-    id="id-1b190b102629470b8cb79731d3270df9"/>
+    name="Distribution Supply Chain Management"
+    id="id-1b190b102629470b8cb79731d3270df9"
+    documentation="Understanding and management of the distribution operations for finished goods. "/>

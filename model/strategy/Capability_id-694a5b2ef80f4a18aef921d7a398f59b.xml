@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Asset utilisation &amp; performance"
     id="id-694a5b2ef80f4a18aef921d7a398f59b"
-    documentation="Tracking components with known expiry dates. &#xD;&#xA;"/>
+    documentation="Tracking the usage and condition of equipment to optimise operational performance, trigger maintenance, cleaning or upgrades, and manage the life cycle the equipment. This capability includes algorithmic approaches to identifying the need for maintenance, i.e. predictive maintenance. "/>

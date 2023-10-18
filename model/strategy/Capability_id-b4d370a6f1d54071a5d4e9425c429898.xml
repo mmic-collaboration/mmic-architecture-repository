@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Policy/Privacy"
+    id="id-b4d370a6f1d54071a5d4e9425c429898"
+    documentation="- Active metadata&#xA;- Mask/Redact&#xA;-RBAC&#xA;-Lineage -->Quality"/>

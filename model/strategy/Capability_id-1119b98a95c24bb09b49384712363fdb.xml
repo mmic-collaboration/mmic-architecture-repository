@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data access control"
-    id="id-1119b98a95c24bb09b49384712363fdb"/>
+    id="id-1119b98a95c24bb09b49384712363fdb"
+    documentation="Data Access is the capability of the organisation to provide appropriate access to any enterprise owned data to all authorised data consumers.&#xA;"/>

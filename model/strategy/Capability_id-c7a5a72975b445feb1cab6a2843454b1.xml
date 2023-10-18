@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Disaster recovery"
-    id="id-c7a5a72975b445feb1cab6a2843454b1"/>
+    id="id-c7a5a72975b445feb1cab6a2843454b1"
+    documentation="The systems and protocols enabling recovery of safe and effective operations following a major incident that impacts production, which can be physical or digital (e.g. fire, flood, cyber attack)."/>

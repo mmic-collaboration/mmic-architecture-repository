@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manufacturing Process Control "
     id="id-b619d74e71364edd9898332ceb135884"
-    documentation="Include MES operations such as dispense"/>
+    documentation="Automated and manual control of manufacturing operations to ensure that the machine configuration and set points are optimised according to the SOP, Recipe, incoming process data, offline quality metrics, and any deviations.  "/>

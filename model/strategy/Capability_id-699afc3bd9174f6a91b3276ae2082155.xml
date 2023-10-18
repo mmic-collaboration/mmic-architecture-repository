@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital Twin"
     id="id-699afc3bd9174f6a91b3276ae2082155"
-    documentation="Will sit across multiple operations and has been moved from training as a specific aspect&#xD;&#xA;When applied we need to assure that we address teh specific technologies"/>
+    documentation="A simulation that has a bi-directional relationship with the equivalent process in the real world. The Digital Twin can send control signals to the real world process, and ingest the resulting data to update the model. Digital Twins have a broad range of potential applications across the factory, including but not limited to process design, operation, and operator training. &#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Track &amp; Trace"
+    id="id-323680a33ec3463e8d56a2fd528e0313"
+    documentation="The process of recording where finished products are within the distribution supply chain to enable product recall if required. Units are tracked based on the ID given to them during Product Serialisation."/>

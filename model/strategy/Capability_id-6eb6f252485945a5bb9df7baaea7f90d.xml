@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise Asset Management"
-    id="id-6eb6f252485945a5bb9df7baaea7f90d"/>
+    id="id-6eb6f252485945a5bb9df7baaea7f90d"
+    documentation="Static information about equipment and instrumentation owned by the enterprise, e.g. make, model, serial number.  "/>

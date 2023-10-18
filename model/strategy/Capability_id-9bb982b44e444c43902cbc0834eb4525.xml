@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lab Execution and Quality Management"
+    id="id-9bb982b44e444c43902cbc0834eb4525"
+    documentation="Quality control of the products manufactured on the Production Line. &#xD;&#xA;Includes:&#xD;&#xA;Lab: Method execution, lab scheduling, certificate of analysis, data archiving, stability&#xD;&#xA;QC/QA: Change Mgt, CAPA, Audit &amp; Inspection Mgt, document mgt, customer complaint mgt, batch release"/>

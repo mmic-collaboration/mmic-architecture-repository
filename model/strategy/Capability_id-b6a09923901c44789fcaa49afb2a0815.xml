@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipment Control"
-    id="id-b6a09923901c44789fcaa49afb2a0815"/>
+    id="id-b6a09923901c44789fcaa49afb2a0815"
+    documentation="Automated and manual operations that ensure equipment (in both the lab and manufacturing line) is operating according to its setpoint and within the manufacturer's guidelines. "/>

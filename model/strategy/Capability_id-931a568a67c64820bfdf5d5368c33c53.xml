@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Governance"
-    id="id-931a568a67c64820bfdf5d5368c33c53"/>
+    id="id-931a568a67c64820bfdf5d5368c33c53"
+    documentation="The policies and procedures set by an organisation to define how data is gathered, stored, processed, and disposed of. Data governance policies define who can access what kinds of data and what kinds of data should be treated using the governance framework. Data governance also involves complying with external standards."/>

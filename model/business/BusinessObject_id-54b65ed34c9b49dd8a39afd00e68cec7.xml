@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Production Run"
+    id="id-54b65ed34c9b49dd8a39afd00e68cec7"
+    documentation="A Production Run is the single execution of a Recipe that results in a Batch of Product (Type).  It inherits all the properties of a Recipe, including Machine Configuraiton, Production Sequence, Bill of Material, and the People involved in the Production Run."/>

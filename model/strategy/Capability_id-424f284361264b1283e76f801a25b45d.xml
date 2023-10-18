@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maintenance of digital assets e.g. models"
-    id="id-424f284361264b1283e76f801a25b45d"/>
+    name="Maintenance of Digital Models"
+    id="id-424f284361264b1283e76f801a25b45d"
+    documentation="The scheduling, execution, and documentation of maintenance operations on digital models used in the manufacturing and lab environments to ensure that they are trained on up to date data and their error metrics are acceptable. This capability includes engagement of external expertise as needed. Once complete, the model will require re-validation.  "/>

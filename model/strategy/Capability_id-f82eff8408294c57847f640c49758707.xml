@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cleaning &amp; validation"
-    id="id-f82eff8408294c57847f640c49758707"/>
+    name="Cleaning of manufacturing &amp; lab equipment"
+    id="id-f82eff8408294c57847f640c49758707"
+    documentation="Cleaning equipment both during and between batches to ensure safe and effective operation. Includes validation operations to confirm equipment is in a fit state to resume production. "/>

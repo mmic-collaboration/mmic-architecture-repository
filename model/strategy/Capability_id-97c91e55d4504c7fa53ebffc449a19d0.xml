@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CSV"
-    id="id-97c91e55d4504c7fa53ebffc449a19d0"/>
+    name="Computer System Validation (CSV)"
+    id="id-97c91e55d4504c7fa53ebffc449a19d0"
+    documentation="A structured development process for writing computer programs so that they are easy to validate. "/>

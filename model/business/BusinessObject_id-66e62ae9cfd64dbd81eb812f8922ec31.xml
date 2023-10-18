@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product Type"
+    name="Product"
     id="id-66e62ae9cfd64dbd81eb812f8922ec31"
-    documentation="Candidate Entity&#xA;&#xA;ref: https://www.ebi.ac.uk/ols/ontologies/chmo&#xA;"/>
+    documentation="A Product Type in medicine manufacturing&#xA;*TBD*&#xA;&#xA;Candidate Entity&#xA;&#xA;ref: https://www.ebi.ac.uk/ols/ontologies/chmo&#xA;"/>

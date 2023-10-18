@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Emergency response"
-    id="id-d008db1b18654768bb5af661255fd76d"/>
+    id="id-d008db1b18654768bb5af661255fd76d"
+    documentation="The systems and protocols enabling immediate response to physical emergencies and dangerous occurances in the lab or manufacturing suite, e.g. fire, leaks, spillages, equipment breakdown, injuries etc. "/>

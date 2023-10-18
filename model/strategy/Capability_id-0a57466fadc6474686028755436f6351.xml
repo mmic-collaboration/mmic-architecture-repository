@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recipe Control"
-    id="id-0a57466fadc6474686028755436f6351"/>
+    id="id-0a57466fadc6474686028755436f6351"
+    documentation="Automated and manual processes that ensure the manufacturing process is operated according to the Recipe. E.g. loading ingredients in the correct order at the correct time, observing milestones in the process that demonstrate that it is safe to advance to the next step. "/>

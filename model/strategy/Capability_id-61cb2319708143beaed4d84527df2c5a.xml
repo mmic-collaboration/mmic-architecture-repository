@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manufacturing Supervisory Control"
-    id="id-61cb2319708143beaed4d84527df2c5a"/>
+    name="Manufacturing Orchestration"
+    id="id-61cb2319708143beaed4d84527df2c5a"
+    documentation="Operating the manufacturing process, incluidng instructing the equipment to operate in compliance with the Production Plan and Recipe."/>

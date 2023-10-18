@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document management"
-    id="id-9d750df84c454ca89761910b6cb52c12"/>
+    name="Document Management"
+    id="id-9d750df84c454ca89761910b6cb52c12"
+    documentation="Management of all quality documents (both paper and digital), including incoming supply chain information, and documents required to release a Batch of Product. "/>

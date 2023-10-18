@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8dd684296f334467841ecf71d8db6726"
+    documentation="The authorisation for material transport triggers a physical system to move the materials to their destination. ">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-63c96ab04c384bb49ba24920b6c39eec.xml#id-63c96ab04c384bb49ba24920b6c39eec"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-876bb14a6b934a3691e2941b778d253b.xml#id-876bb14a6b934a3691e2941b778d253b"/>
+</archimate:TriggeringRelationship>

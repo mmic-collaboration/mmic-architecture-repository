@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asset"
-    id="id-33cce83aa3d145fa811b61ccbcbfbf0b"/>
+    name="Machine Setting"
+    id="id-33cce83aa3d145fa811b61ccbcbfbf0b"
+    documentation="The Machine Setting is the collection of valid Set Points for a given machine.  It is a particular type of Machine Configuration used to adjust the  manufacturing process."/>

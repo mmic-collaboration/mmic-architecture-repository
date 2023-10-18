@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data transformation"
+    id="id-f69b000ed9ba4814866196f12dca540b"
+    documentation="The process of carrying out mathematical transformations on raw data, e.g. aggregation, averaging, filtering, re-formatting, unit conversions. "/>

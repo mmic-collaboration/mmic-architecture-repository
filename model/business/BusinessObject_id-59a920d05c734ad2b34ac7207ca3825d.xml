@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Control Rule"
-    id="id-59a920d05c734ad2b34ac7207ca3825d"/>
+    id="id-59a920d05c734ad2b34ac7207ca3825d"
+    documentation="Process Control Rules specify business logic that can be used to translate a process event into a decision that drives a particular action."/>

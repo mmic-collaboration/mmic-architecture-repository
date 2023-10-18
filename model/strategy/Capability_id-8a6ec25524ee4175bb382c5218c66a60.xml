@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Telemetry"
-    id="id-8a6ec25524ee4175bb382c5218c66a60"/>
+    id="id-8a6ec25524ee4175bb382c5218c66a60"
+    documentation="The collection and movement of data from one place to another. "/>

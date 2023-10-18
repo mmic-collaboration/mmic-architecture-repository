@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Work order generation"
-    id="id-cd887b0637e143db92d6e71979be50c4"/>
+    name="Work Order Management"
+    id="id-cd887b0637e143db92d6e71979be50c4"
+    documentation="The generation, tracking, and progression of work orders, which are formal instructions at a task level. "/>

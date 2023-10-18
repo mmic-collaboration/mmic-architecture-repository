@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procurement"
     id="id-74dc2446dc984934a121804ffbd573fe"
-    documentation="Linked to asset tracking at data layer below- repeat purchase and one offs too. Would be captured in different data flows. "/>
+    documentation="The systems and processes used to purchase items (e.g. equipment, consumables, materials) from external suppliers. &#xD;&#xA;The procurement of equipment triggers Enterprise Asset Management to record the new asset.&#xD;&#xA;Inventory Management triggers procurement when stock requires replenishing, or when the Demand Planning system signals the need for more materials than are in stock.&#xD;&#xA;"/>

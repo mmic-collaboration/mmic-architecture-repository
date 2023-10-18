@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product Lifecycle Management"
-    id="id-a33b735d64f34c85901491932402ae04"/>
+    id="id-a33b735d64f34c85901491932402ae04"
+    documentation="The process of managing the entire lifecycle of a product from its conception, through design and manufacture, to service and disposal. "/>

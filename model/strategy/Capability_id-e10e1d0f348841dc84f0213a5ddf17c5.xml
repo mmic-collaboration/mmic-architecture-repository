@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Automated Process Testing"
-    id="id-e10e1d0f348841dc84f0213a5ddf17c5"/>
+    name="In-line Process Monitoring"
+    id="id-e10e1d0f348841dc84f0213a5ddf17c5"
+    documentation="Physical sensors used to monitor a process in real time, such as PAT and IoT sensors."/>

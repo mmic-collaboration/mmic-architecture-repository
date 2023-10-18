@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authorisation for material transport"
-    id="id-63c96ab04c384bb49ba24920b6c39eec"/>
+    id="id-63c96ab04c384bb49ba24920b6c39eec"
+    documentation="An instruction sent by planning systems to move materials around the factory. "/>

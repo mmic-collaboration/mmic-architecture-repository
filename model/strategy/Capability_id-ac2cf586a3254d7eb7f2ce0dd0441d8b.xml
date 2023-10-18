@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient Data Compliance"
+    id="id-ac2cf586a3254d7eb7f2ce0dd0441d8b"
+    documentation="Compliance with all regulations regarding patient data, such as GDPR and PII."/>

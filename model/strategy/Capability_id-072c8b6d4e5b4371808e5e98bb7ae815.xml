@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product geneology"
-    id="id-072c8b6d4e5b4371808e5e98bb7ae815"/>
+    id="id-072c8b6d4e5b4371808e5e98bb7ae815"
+    documentation="A record of the source materials, manufacturing processes, and equipment that have been used to create each individual Batch of Product. "/>

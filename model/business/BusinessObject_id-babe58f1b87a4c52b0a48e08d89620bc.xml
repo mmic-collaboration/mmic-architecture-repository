@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Configuration"
+    id="id-babe58f1b87a4c52b0a48e08d89620bc"
+    documentation="A Machine Configuration is the full configuration state of the Machine collection of valid set points for a given machine"/>

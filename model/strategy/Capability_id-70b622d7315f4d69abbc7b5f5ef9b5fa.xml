@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inventory management"
-    id="id-70b622d7315f4d69abbc7b5f5ef9b5fa"/>
+    id="id-70b622d7315f4d69abbc7b5f5ef9b5fa"
+    documentation="Management, location tracking, and stock/expiry monitoring of all materials and consumables stored within the facility. "/>

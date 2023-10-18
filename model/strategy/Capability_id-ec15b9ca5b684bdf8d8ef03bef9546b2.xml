@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enterprise Mfg Intelligence"
-    id="id-ec15b9ca5b684bdf8d8ef03bef9546b2"/>
+    name="Enterprise Manufacturing Intelligence"
+    id="id-ec15b9ca5b684bdf8d8ef03bef9546b2"
+    documentation="Information regarding how to optimise manufacturing processes for different types of material and end goal, e.g. Golden Batch. "/>

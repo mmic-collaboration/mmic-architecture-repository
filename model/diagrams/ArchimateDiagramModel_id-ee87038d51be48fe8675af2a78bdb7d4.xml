@@ -37,15 +37,6 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-b231dafdc9cd4b75bdcbf0282d1f8c39.xml#id-b231dafdc9cd4b75bdcbf0282d1f8c39"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-85d83182a7c04779861134565f730d4f"
-        source="id-2c5dd5b9ef9649da9e3a5f2a09b4f688"
-        target="id-f59cf6f1819a4568a0f77d31d70d0864">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-9677125bbca94e67ab8ac2c1af7c4de4.xml#id-9677125bbca94e67ab8ac2c1af7c4de4"/>
-    </sourceConnections>
     <bounds
         x="348"
         y="300"
@@ -67,6 +58,15 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8f1757106c15446888760af2ea2882c1.xml#id-8f1757106c15446888760af2ea2882c1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-29f8fc2d997a4ab1b9aaa974fcf78abb"
+        source="id-56889ba5fdf74dfbaa4c972a1eed4ae7"
+        target="id-bff60ab598ce4827b0fe6f637283e567">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-97eb48730148420ab3294c992d3a1636.xml#id-97eb48730148420ab3294c992d3a1636"/>
     </sourceConnections>
     <bounds
         x="660"
@@ -125,15 +125,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f59cf6f1819a4568a0f77d31d70d0864"
-      targetConnections="id-85d83182a7c04779861134565f730d4f">
+      id="id-bff60ab598ce4827b0fe6f637283e567"
+      targetConnections="id-29f8fc2d997a4ab1b9aaa974fcf78abb"
+      type="1">
     <bounds
-        x="372"
-        y="168"
+        x="660"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
-        href="DataObject_id-a3dec32c66724fc8bb66d6eb8418148c.xml#id-a3dec32c66724fc8bb66d6eb8418148c"/>
+        href="DataObject_id-ff1e733d585345348df62e5f2fc620f0.xml#id-ff1e733d585345348df62e5f2fc620f0"/>
   </children>
 </archimate:ArchimateDiagramModel>

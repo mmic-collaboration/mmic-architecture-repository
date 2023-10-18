@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Human Resource Management"
-    id="id-f2892d9e120749878751f5cf4fe3bdc2"/>
+    id="id-f2892d9e120749878751f5cf4fe3bdc2"
+    documentation="Orchestration of the necessary trained and qualified employees to operate manufacturing and lab processes according to work instructions, Standard Operating Procedures, and other internal and external regulations. "/>

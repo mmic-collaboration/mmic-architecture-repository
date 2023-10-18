@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Acquisition"
+    id="id-ce41ed35f6f249dc81c8bcfdb6783411"
+    documentation="The collection and ingestion of structured and unstructured data from diverse sources across the factory in both a streaming, batch, or indivudual event-based format. "/>

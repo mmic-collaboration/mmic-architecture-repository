@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Analytics"
     id="id-705f9130d3ad4ab6aa92e631d33d7893"
-    documentation="Include MES operations such as dispense"/>
+    documentation="The systems and processes that ingest data from multiple points in a manufacturing process and generate insight that can be used to optimise and control the operation. "/>

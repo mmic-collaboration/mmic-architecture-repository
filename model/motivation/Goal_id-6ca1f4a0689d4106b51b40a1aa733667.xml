@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="self validation"
+    id="id-6ca1f4a0689d4106b51b40a1aa733667"
+    documentation="Implement self-validation to reduce the time taken to validate GMP equipment, systems, models, and processes from hours to minutes."/>

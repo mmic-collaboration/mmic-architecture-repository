@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Demand planning"
-    id="id-d52f66e4026b4d75aeeed653fbc5ab19"/>
+    id="id-d52f66e4026b4d75aeeed653fbc5ab19"
+    documentation="Understanding the future forecast and arranging resources and schedules to meet the demand. "/>

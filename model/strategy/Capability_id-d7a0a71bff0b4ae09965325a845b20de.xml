@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Laboratory Workload &amp; Scheduling"
-    id="id-d7a0a71bff0b4ae09965325a845b20de"/>
+    id="id-d7a0a71bff0b4ae09965325a845b20de"
+    documentation="The orchestration of tests carried out in the quality control lab, including the availability of materials, consumables, and appropriately trained employees to run the tests. "/>
