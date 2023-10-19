@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SIEM Framework"
-    id="id-725647a195a84f68a210072cba43d075"/>
+    name="Security Information and Event Management (SIEM) Framework"
+    id="id-725647a195a84f68a210072cba43d075"
+    documentation="The SIEM framework collects and aggregates data from   cyber security tools such as host systems, networks, firewalls, and antivirus security devices to enable the detection, analysis, and response to cyber security threats.  "/>

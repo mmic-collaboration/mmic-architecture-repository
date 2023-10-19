@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data access control"
+    name="Data Access Control &amp; Recording"
     id="id-1119b98a95c24bb09b49384712363fdb"
-    documentation="Data Access is the capability of the organisation to provide appropriate access to any enterprise owned data to all authorised data consumers.&#xA;"/>
+    documentation="Data Access Control &amp; Recording is the capability of the organisation to provide appropriate access to any enterprise owned data to all authorised data consumers, to track access attempts and to record which systems people have accessed, the particular data points, and add date-stamps to log files."/>
