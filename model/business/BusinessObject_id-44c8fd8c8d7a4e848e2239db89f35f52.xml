@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Action"
     id="id-44c8fd8c8d7a4e848e2239db89f35f52"
-    documentation="An action carried out by an automated system "/>
+    documentation="An action carried out on the process by an operator or an automated system, in response to a Process Control Rule. For example, changing a Machine Setpoint.  "/>
