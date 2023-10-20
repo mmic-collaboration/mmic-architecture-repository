@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Action"
-    id="id-44c8fd8c8d7a4e848e2239db89f35f52"/>
+    id="id-44c8fd8c8d7a4e848e2239db89f35f52"
+    documentation="An action carried out by an automated system "/>
