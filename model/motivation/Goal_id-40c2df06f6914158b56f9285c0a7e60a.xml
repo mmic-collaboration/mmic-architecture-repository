@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digital Changeover"
-    id="id-40c2df06f6914158b56f9285c0a7e60a"/>
+    name="3. Digital Changeover"
+    id="id-40c2df06f6914158b56f9285c0a7e60a"
+    documentation="Implement digital changeover practices to reduce the time taken for product changeover from days to hours for a drug substance or product manufacturing process, and from hours to minutes for a packaging process. "/>

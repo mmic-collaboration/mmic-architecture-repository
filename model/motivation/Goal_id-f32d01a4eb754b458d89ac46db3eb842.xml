@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Late Stage Customisation"
-    id="id-f32d01a4eb754b458d89ac46db3eb842"/>
+    name="7. Late Stage Customisation"
+    id="id-f32d01a4eb754b458d89ac46db3eb842"
+    documentation="Implement digital manufacturing and real-time release with continuous late-stage customisation."/>

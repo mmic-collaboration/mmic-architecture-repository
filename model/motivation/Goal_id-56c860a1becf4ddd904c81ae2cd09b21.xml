@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperability"
-    id="id-56c860a1becf4ddd904c81ae2cd09b21"/>
+    name="4. Interoperability"
+    id="id-56c860a1becf4ddd904c81ae2cd09b21"
+    documentation="Implement ‘plug and produce’ interoperability to manufacturing processes using common standards and flexible modularisation to reduce time and resources required to reconfigure assets and processes."/>
