@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cyber threat response"
-    id="id-577b63d828844a59a96aa1d4b058f027"/>
+    id="id-577b63d828844a59a96aa1d4b058f027"
+    documentation="Cyber threat response is the systems and processes the organisation uses to identify, contain, and rectify the impacts of a cyber attack. "/>

@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirement based changes"
-    id="id-be9555bde9b54d939413fce1d11601e5"/>
+    id="id-be9555bde9b54d939413fce1d11601e5"
+    documentation="Manage and implement the changes with minimal impacts on the current business operating systems."/>

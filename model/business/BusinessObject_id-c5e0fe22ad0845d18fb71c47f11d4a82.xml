@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schedule"
-    id="id-c5e0fe22ad0845d18fb71c47f11d4a82"/>
+    id="id-c5e0fe22ad0845d18fb71c47f11d4a82"
+    documentation="A plan of which product will be produced on which manufacturing line at which time. "/>

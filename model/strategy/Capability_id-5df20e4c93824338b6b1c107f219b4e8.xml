@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Permissions management &amp; active directory control"
-    id="id-5df20e4c93824338b6b1c107f219b4e8"/>
+    id="id-5df20e4c93824338b6b1c107f219b4e8"
+    documentation="The activities to manage authenticated users and their access computerised systems, including role-based permissioning for authorised operation of functions within controlled computerised systems."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Long term data storage &amp; backup"
-    id="id-33890d7d03b44a48b435e6d5f162f3ea"/>
+    name="Data storage &amp; backup"
+    id="id-33890d7d03b44a48b435e6d5f162f3ea"
+    documentation="The management of long term persistent data storage solutions and strategies required to fulfil audit requirements, backup/restore/archiving needs and support long-term data trend analysis, with methods to re-instantiate data blocks to immediate access data storage points, when required."/>

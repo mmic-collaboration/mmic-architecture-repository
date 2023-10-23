@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Software upgrades &amp; patching"
-    id="id-19ad8fbdf40f427eb81a6a307b2a9b21"/>
+    id="id-19ad8fbdf40f427eb81a6a307b2a9b21"
+    documentation="Processes and controls to discover new software upgrades and patches, assess their criticality and dependencies, prepare an upgrade plan, inform team members of forthcoming upgrades and execute plan using sandbox / test environments / test equipment where available before seeking approval to push into production environments."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Secret Key Management"
-    id="id-bf4698f8d41b42ce926d9391db2c7514"/>
+    id="id-bf4698f8d41b42ce926d9391db2c7514"
+    documentation="The activities involving the handling of tokens, cryptographic keys and other related key information during the entire lifecycle, including generation, storage, establishment, entry and output, use, and destruction."/>

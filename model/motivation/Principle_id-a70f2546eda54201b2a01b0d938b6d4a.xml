@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Availability"
-    id="id-a70f2546eda54201b2a01b0d938b6d4a"/>
+    id="id-a70f2546eda54201b2a01b0d938b6d4a"
+    documentation="Ensure applications are available based on the agreed service and operational level agreement."/>

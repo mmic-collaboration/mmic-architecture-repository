@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Work Order"
-    id="id-8a0fffa1c4874a09a752dbe77bfe5790"/>
+    id="id-8a0fffa1c4874a09a752dbe77bfe5790"
+    documentation="A work order is a formal documentation of a task, including a specification for the task and an outline of the process used to complete it. "/>

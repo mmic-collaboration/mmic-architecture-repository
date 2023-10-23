@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Governance and compliance"
-    id="id-b5c74f7303f741c680e192f25dc2fca0"/>
+    id="id-b5c74f7303f741c680e192f25dc2fca0"
+    documentation="Both IT &amp; OT shall comply with organization local policies, laws and regulations as appropriate."/>

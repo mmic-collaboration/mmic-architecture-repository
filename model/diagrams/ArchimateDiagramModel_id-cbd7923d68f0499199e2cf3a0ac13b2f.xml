@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Process View - Tableting Manufacturing"
+    name="Business Process View - Tablet Manufacturing"
     id="id-cbd7923d68f0499199e2cf3a0ac13b2f"
     documentation="Test description of view"
     viewpoint="business_process_cooperation">
@@ -423,7 +423,7 @@
         id="id-33f91dbe7de948258ca4d2f1ef0ab50d"
         font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
         textAlignment="1"
-        content="Medicines Manufacturing Process&#xA;... with Sensor Events">
+        content="Tablet Manufacturing Process&#xA;... with Sensor Events">
       <bounds
           x="60"
           y="48"

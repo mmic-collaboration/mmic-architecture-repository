@@ -157,42 +157,6 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-b647740ebbe94d36a18d727e302657f2">
-        <bounds
-            x="468"
-            y="84"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Principle"
-            href="Principle_id-a8ba3078a8f94b7685cc984a7a9fcd15.xml#id-a8ba3078a8f94b7685cc984a7a9fcd15"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-9814b3bdd4b745ac8276ce494c884160">
-        <bounds
-            x="612"
-            y="84"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Principle"
-            href="Principle_id-6e20328777e34748b5200c8cde747aea.xml#id-6e20328777e34748b5200c8cde747aea"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-49a93224b3a145a088f69101bf0be2af">
-        <bounds
-            x="756"
-            y="84"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Principle"
-            href="Principle_id-1c6949d9684a47eba31358970be403c6.xml#id-1c6949d9684a47eba31358970be403c6"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e72204cc9f6044589a05476b4e4c7f6c">
         <bounds
             x="888"
@@ -202,6 +166,18 @@
         <archimateElement
             xsi:type="archimate:Principle"
             href="Principle_id-60bf69fcedb34fa090fbec4221c55606.xml#id-60bf69fcedb34fa090fbec4221c55606"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6391e65b37b04980b1fdaefa187fc976">
+        <bounds
+            x="468"
+            y="84"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-9c7a30ec107c41618fbeb35531495162.xml#id-9c7a30ec107c41618fbeb35531495162"/>
       </children>
     </children>
     <children

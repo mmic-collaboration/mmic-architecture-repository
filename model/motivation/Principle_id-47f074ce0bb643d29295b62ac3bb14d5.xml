@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Control of technical diversity"
-    id="id-47f074ce0bb643d29295b62ac3bb14d5"/>
+    id="id-47f074ce0bb643d29295b62ac3bb14d5"
+    documentation="Manage technical diversity based on the business goals and objectives."/>

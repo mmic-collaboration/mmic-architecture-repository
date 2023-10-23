@@ -1,5 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Realtime release"
+    name="1. Real-time release"
     id="id-ea3a49da4dc8451ebf8965eed003d128"
     documentation="Implement real-time release to reduce the time taken for product release from hours to minutes."/>

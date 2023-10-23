@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Predictive performance &amp; maintenance"
-    id="id-6cda83408bed433bb319bb32cfdfa376"/>
+    name="8. Predictive performance &amp; maintenance"
+    id="id-6cda83408bed433bb319bb32cfdfa376"
+    documentation="Implement processes and models to reduce equipment down-time and reduce unscheduled production interruptions."/>
