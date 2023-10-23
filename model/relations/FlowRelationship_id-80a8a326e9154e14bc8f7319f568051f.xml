@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="waste management"
+    id="id-80a8a326e9154e14bc8f7319f568051f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-6991180fcc4d4e2db523c07dbd26ae28.xml#id-6991180fcc4d4e2db523c07dbd26ae28"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-6364fedd876f44028e84edff2111b88b.xml#id-6364fedd876f44028e84edff2111b88b"/>
+</archimate:FlowRelationship>
