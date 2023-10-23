@@ -464,8 +464,8 @@
       textAlignment="1"
       content="Archimate 'Motivation' Taxomony Reference:&#xA;&#xA;https://pubs.opengroup.org/architecture/archimate31-doc/chap06.html">
     <bounds
-        x="835"
-        y="252"
+        x="843"
+        y="253"
         width="270"
         height="90"/>
   </children>
@@ -601,7 +601,7 @@
         x="825"
         y="67"
         width="305"
-        height="138"/>
+        height="168"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
