@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Fabric Service"
+    id="id-234c3a34ea664864a4807d2f62796349"
+    documentation="-&#x9;Aggregation&#xA;-&#x9;Supported by lower-level platform/technical services – storage, pipelines, scheduling, software systems services.&#xA;-&#x9;Pipeline provision&#xA;-&#x9;Support/incident management&#xA;-&#x9;Schema on write&#xA;"/>
