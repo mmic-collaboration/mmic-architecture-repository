@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Engineering Services"
-    id="id-5ecf4a53b6aa430b88d66541c0c6c54d"/>
+    id="id-5ecf4a53b6aa430b88d66541c0c6c54d"
+    documentation="Data Engineering Services are the primary way Data Product Owners can deploy their data.  Data Engineering encompasses the build, deployment, and management of all data products in the organisation, operational and analytics."/>
