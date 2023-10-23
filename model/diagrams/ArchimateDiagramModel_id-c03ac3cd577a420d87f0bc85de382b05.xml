@@ -444,6 +444,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-888c5de971844dec910a77a072fd5040"
+      targetConnections="id-9075ba08222441bfb7af1d04c9589436"
       fontColor="#007f00">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -691,9 +692,18 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-bc66af7c8cff441398010fe847976ae8.xml#id-bc66af7c8cff441398010fe847976ae8"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9075ba08222441bfb7af1d04c9589436"
+        source="id-7b63d0d120da4710831ae0fe4e4bb78b"
+        target="id-888c5de971844dec910a77a072fd5040">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-93d5a3013fc2403ab1913cd8c97c395a.xml#id-93d5a3013fc2403ab1913cd8c97c395a"/>
+    </sourceConnections>
     <bounds
-        x="395"
-        y="815"
+        x="323"
+        y="816"
         width="120"
         height="55"/>
     <archimateElement
