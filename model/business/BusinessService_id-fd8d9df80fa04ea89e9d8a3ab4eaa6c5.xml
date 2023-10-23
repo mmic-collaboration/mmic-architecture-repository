@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Data Services"
+    id="id-fd8d9df80fa04ea89e9d8a3ab4eaa6c5"
+    documentation="These are an overarching set of business services related to the management and provision of “data-at-rest”.  Enterprise Data Services are managed according to the data principles."/>
