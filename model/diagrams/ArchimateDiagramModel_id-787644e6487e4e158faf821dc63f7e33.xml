@@ -36,8 +36,9 @@
           href="AggregationRelationship_id-9cad317a6b6a4c4da605f2858b471f1c.xml#id-9cad317a6b6a4c4da605f2858b471f1c"/>
     </sourceConnections>
     <bounds
+        x="48"
         y="48"
-        width="635"
+        width="553"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -53,7 +54,7 @@
             href="ServingRelationship_id-fb0ddfc0a9e94a7baa54d710520cd02d.xml#id-fb0ddfc0a9e94a7baa54d710520cd02d"/>
       </sourceConnections>
       <bounds
-          x="456"
+          x="408"
           y="36"
           width="120"
           height="55"/>
@@ -66,7 +67,7 @@
         id="id-2654c462099344faaa15ba96c273b6dc"
         targetConnections="id-9f529959b7d1422cbbc8b3f5859cf645 id-0f14bb9f277b4cb39899743134ffaf51 id-fbb91a3ca1894b0ab32c278f974cbbb4">
       <bounds
-          x="252"
+          x="204"
           y="36"
           width="120"
           height="55"/>
@@ -88,7 +89,7 @@
             href="ServingRelationship_id-bc66af7c8cff441398010fe847976ae8.xml#id-bc66af7c8cff441398010fe847976ae8"/>
       </sourceConnections>
       <bounds
-          x="73"
+          x="25"
           y="36"
           width="120"
           height="55"/>
@@ -197,8 +198,8 @@
           href="ServingRelationship_id-831f935ba9d044768914cf666f922479.xml#id-831f935ba9d044768914cf666f922479"/>
     </sourceConnections>
     <bounds
-        x="-132"
-        y="216"
+        x="660"
+        y="75"
         width="120"
         height="55"/>
     <archimateElement
