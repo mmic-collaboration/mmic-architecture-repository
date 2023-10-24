@@ -418,11 +418,10 @@
       id="id-2749c818d92a4c0eab7c92b2c5cb29af"
       font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
-      content="Sensor Event Storage&#xA;Layered View&#xA;(with Logical / Physical Split) ">
+      content="Sensor Event Storage: Layered View(with Logical / Physical Split) ">
     <bounds
         x="-120"
-        y="-12"
-        width="267"
-        height="123"/>
+        width="685"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
