@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="recieve IoT messages"
+    name="recieve Sensor payload"
     id="id-0187b672c9fa47e682cd6e632f0bd936">
   <source
       xsi:type="archimate:SystemSoftware"
