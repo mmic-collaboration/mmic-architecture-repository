@@ -80,9 +80,9 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="288"
-        width="385"
-        height="601"/>
+        y="324"
+        width="265"
+        height="541"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bf465bde6d7f41d19a001ea7c6869f60"
@@ -98,7 +98,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="84"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -120,7 +120,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="204"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -142,7 +142,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="144"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -164,7 +164,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="264"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -186,7 +186,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="324"
+          y="288"
           width="120"
           height="55"/>
       <archimateElement
@@ -208,7 +208,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="384"
+          y="348"
           width="120"
           height="55"/>
       <archimateElement
@@ -230,7 +230,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="444"
+          y="408"
           width="120"
           height="55"/>
       <archimateElement
@@ -252,7 +252,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="504"
+          y="468"
           width="120"
           height="55"/>
       <archimateElement
@@ -268,7 +268,7 @@
       id="id-cfca59baee9949348f313919e7c70660"
       targetConnections="id-4b73708b2f074842a87170bb4b9235a8 id-cf074aec14644878a0ae87baab4cd5bd">
     <bounds
-        x="828"
+        x="684"
         y="564"
         width="120"
         height="85"/>
@@ -283,7 +283,7 @@
       content=" Smart Manufacturing Tabletting | Sensor Events Architecture &#xA;Version: 0.03&#xA;Date: 24.10.2023&#xA;Author: Suryakant Pandey">
     <bounds
         x="36"
-        y="120"
+        y="48"
         width="265"
         height="97"/>
   </children>
@@ -293,9 +293,9 @@
       targetConnections="id-6800b434d9cc4759944b64173f53e7ce"
       type="1">
     <bounds
-        x="1056"
+        x="900"
         y="114"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -316,9 +316,9 @@
           href="RealizationRelationship_id-8eaf5e2a868244039aaaef23d2e108a8.xml#id-8eaf5e2a868244039aaaef23d2e108a8"/>
     </sourceConnections>
     <bounds
-        x="1056"
+        x="900"
         y="252"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -339,9 +339,9 @@
           href="RealizationRelationship_id-fe9b299d8d594fc29fe8b47227feff64.xml#id-fe9b299d8d594fc29fe8b47227feff64"/>
     </sourceConnections>
     <bounds
-        x="1056"
+        x="900"
         y="336"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Artifact"
@@ -362,9 +362,9 @@
           href="SpecializationRelationship_id-b494f31ee4cf4151881d9b79a07c62ff.xml#id-b494f31ee4cf4151881d9b79a07c62ff"/>
     </sourceConnections>
     <bounds
-        x="1056"
+        x="900"
         y="462"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Artifact"
@@ -393,7 +393,7 @@
           href="FlowRelationship_id-3472562e12a04880b4be3cf4a5da8427.xml#id-3472562e12a04880b4be3cf4a5da8427"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="396"
         y="348"
         width="157"
         height="469"/>
@@ -432,9 +432,9 @@
           href="ServingRelationship_id-67e86bd0c90045559995b24201b38b0c.xml#id-67e86bd0c90045559995b24201b38b0c"/>
     </sourceConnections>
     <bounds
-        x="1068"
+        x="900"
         y="566"
-        width="120"
+        width="157"
         height="82"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -454,7 +454,7 @@
           href="AccessRelationship_id-1a74ec0434374a909a61e9dfdc39012e.xml#id-1a74ec0434374a909a61e9dfdc39012e"/>
     </sourceConnections>
     <bounds
-        x="1284"
+        x="1116"
         y="372"
         width="120"
         height="133"/>
