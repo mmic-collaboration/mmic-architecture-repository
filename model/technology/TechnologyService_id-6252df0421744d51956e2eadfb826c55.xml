@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API/iot/Batch processing"
-    id="id-6252df0421744d51956e2eadfb826c55"
-    documentation="Properietary: Mulesoft, Talend, Tibco&#xA;Cloud Native: Logic App, ADF, Kinesis Firehose, lambda etc&#xA;"/>

@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="publish IoT messages"
+    name="publish Sensor payload"
     id="id-8f1757106c15446888760af2ea2882c1"
     directed="true">
   <source
