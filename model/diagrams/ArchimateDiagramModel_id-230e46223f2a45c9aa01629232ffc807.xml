@@ -575,8 +575,8 @@
           href="CompositionRelationship_id-af2009a3dbce49f1ba4ea8d346923561.xml#id-af2009a3dbce49f1ba4ea8d346923561"/>
     </sourceConnections>
     <bounds
-        x="69"
-        y="936"
+        x="70"
+        y="846"
         width="1168"
         height="181"/>
     <children
@@ -1220,42 +1220,19 @@
         width="1167"
         height="61"/>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-30f59d5f84b04ad28cc1bd13b315faca"
-        textAlignment="1"
-        content="Refere Business Motivation View-Architecure principles">
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a013d420d9bf45c4b06adbdad22b802b">
       <bounds
-          x="156"
+          x="228"
           y="12"
-          width="433"
-          height="36"/>
+          width="457"
+          height="43"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-bd09d7519be84c87a3be266d08656a88.xml#id-bd09d7519be84c87a3be266d08656a88"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-e1f8a4d99a14437883c03a19bb4886cc.xml#id-e1f8a4d99a14437883c03a19bb4886cc"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-364502989cca45e8a04926659505ea61"
-      textAlignment="1">
-    <bounds
-        x="70"
-        y="840"
-        width="1167"
-        height="85"/>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-bce0454910584b82bc1de9fe4fdfd7b6"
-        textAlignment="1"
-        content="&lt;&lt;TBC>>">
-      <bounds
-          x="156"
-          y="12"
-          width="433"
-          height="49"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-f91a7727a13e448eaea3a060ce23a649.xml#id-f91a7727a13e448eaea3a060ce23a649"/>
   </children>
 </archimate:ArchimateDiagramModel>

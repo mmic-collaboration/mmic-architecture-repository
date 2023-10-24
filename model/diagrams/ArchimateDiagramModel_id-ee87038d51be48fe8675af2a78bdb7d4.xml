@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Layered View - iot Sensor "
+    name="Layered View - Sensor Events Process "
     id="id-ee87038d51be48fe8675af2a78bdb7d4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -69,7 +69,7 @@
           href="AssociationRelationship_id-97eb48730148420ab3294c992d3a1636.xml#id-97eb48730148420ab3294c992d3a1636"/>
     </sourceConnections>
     <bounds
-        x="660"
+        x="636"
         y="300"
         width="120"
         height="85"/>
@@ -116,7 +116,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-e690a16e2b3a48f7be88ee1f7464dc22"
       textAlignment="1"
-      content="IoT Sensor Architecture&#xA;Version: 0.01 &#xA;Date: 22.09.2023&#xA;Author: Suryaaknt Pandey">
+      content=" Sensor Events Architecture&#xA;Version: 0.02&#xA;Date: 24.10.2023&#xA;Author: Suryaaknt Pandey">
     <bounds
         x="36"
         y="120"
@@ -128,7 +128,7 @@
       id="id-bff60ab598ce4827b0fe6f637283e567"
       targetConnections="id-29f8fc2d997a4ab1b9aaa974fcf78abb">
     <bounds
-        x="660"
+        x="648"
         y="132"
         width="120"
         height="55"/>

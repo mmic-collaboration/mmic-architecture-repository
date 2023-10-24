@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="generates IoT messages"
+    name="generates payload"
     id="id-b231dafdc9cd4b75bdcbf0282d1f8c39">
   <source
       xsi:type="archimate:Equipment"
