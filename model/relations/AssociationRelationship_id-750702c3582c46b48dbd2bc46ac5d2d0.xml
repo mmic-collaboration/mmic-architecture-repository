@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is specfic to. *TBD*"
+    name="is specfic to"
     id="id-750702c3582c46b48dbd2bc46ac5d2d0">
   <source
       xsi:type="archimate:BusinessObject"
