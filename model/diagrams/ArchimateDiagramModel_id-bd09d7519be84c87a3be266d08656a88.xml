@@ -39,7 +39,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-44f8aeec727c4a3eb7aabe925ab6c3fb"
-        name="Business Principles"
+        name="Enterprise Principles"
         textAlignment="1">
       <bounds
           x="12"
@@ -144,7 +144,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-5821b1d200684defa7012c39b86b94e5">
+          id="id-5821b1d200684defa7012c39b86b94e5"
+          targetConnections="id-7174452213344dcfa48a56030201b070">
         <bounds
             x="324"
             y="84"
@@ -182,8 +183,9 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-56283deda3014d8bacefd6ea8a82df9d"
-        name="Application Principles"
-        textAlignment="1">
+        name="Architecture Principles"
+        textAlignment="1"
+        documentation="Application Services and their designs should be agnostic of any cloud platform.&#xA;&#xA;Rationale: Digital Membership promotes an open flexible architecture not bound to any specific vendor or technology, which is resilient to change, catering for the widest possible audience.&#xA;&#xA;Implications: Any cloud-based application service required to fulfil the Digital Membership Capabilities should be proven to run on at least two cloud providers without any impact to its service level.">
       <bounds
           x="12"
           y="180"
@@ -205,7 +207,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-66f95261f22c4b8da784fe271bfe6f01">
         <bounds
-            x="276"
+            x="408"
             y="24"
             width="120"
             height="55"/>
@@ -217,7 +219,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d5db7e05b7ea4d53877806442a3175f3">
         <bounds
-            x="408"
+            x="540"
             y="24"
             width="120"
             height="55"/>
@@ -229,7 +231,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1ad29a02c10d4ea7b92add04e8254319">
         <bounds
-            x="540"
+            x="672"
             y="24"
             width="120"
             height="55"/>
@@ -241,7 +243,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e3c8d6c65de14dffbc8b87300fdee009">
         <bounds
-            x="672"
+            x="804"
             y="24"
             width="120"
             height="55"/>
@@ -253,7 +255,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2a0cf8fe04f64a1b9f373aedd1ad2972">
         <bounds
-            x="144"
+            x="277"
             y="24"
             width="120"
             height="55"/>
@@ -265,13 +267,34 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-861edc347b5040c58db0cebd89a4e96d">
         <bounds
-            x="804"
+            x="936"
             y="24"
             width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Principle"
             href="Principle_id-1c5961c169c7429185f13e1f84349ad4.xml#id-1c5961c169c7429185f13e1f84349ad4"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-909c1fc7af1242d392ee96ca955ce0fe">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-7174452213344dcfa48a56030201b070"
+            source="id-909c1fc7af1242d392ee96ca955ce0fe"
+            target="id-5821b1d200684defa7012c39b86b94e5">
+          <archimateRelationship
+              xsi:type="archimate:SpecializationRelationship"
+              href="SpecializationRelationship_id-3100c3f9de294a1b80e2046fc520216a.xml#id-3100c3f9de294a1b80e2046fc520216a"/>
+        </sourceConnections>
+        <bounds
+            x="145"
+            y="24"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-4c7d3b526fac463ca6b7ad5f23b22e5b.xml#id-4c7d3b526fac463ca6b7ad5f23b22e5b"/>
       </children>
     </children>
     <children
@@ -409,7 +432,7 @@
         <bounds
             x="12"
             y="24"
-            width="193"
+            width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Principle"
@@ -419,9 +442,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7e23b83232d14523b50d2db59efcd95a">
         <bounds
-            x="228"
+            x="144"
             y="24"
-            width="157"
+            width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Principle"
@@ -431,9 +454,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5bfd08a13ab9427e86e67ed4a4aae4cf">
         <bounds
-            x="420"
+            x="276"
             y="24"
-            width="169"
+            width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Principle"
