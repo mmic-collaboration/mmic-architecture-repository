@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Product Owner"
-    id="id-38201433402a4469a8830782f6feba3a"/>
+    id="id-38201433402a4469a8830782f6feba3a"
+    documentation="Selected due to significant relevance to the data mesh approach"/>

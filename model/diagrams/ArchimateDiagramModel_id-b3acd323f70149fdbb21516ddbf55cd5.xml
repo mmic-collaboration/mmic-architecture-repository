@@ -37,6 +37,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-80c5ae7f79dc414b8271ef9dd4e7245b"
         targetConnections="id-77002bdccb07452594ad371fa815279e"
+        font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
         textAlignment="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

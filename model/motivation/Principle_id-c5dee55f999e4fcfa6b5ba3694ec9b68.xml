@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperability"
+    name="Systems and Data are Interoperable "
     id="id-c5dee55f999e4fcfa6b5ba3694ec9b68"
     documentation="Applications should be interoperable with other application via API"/>

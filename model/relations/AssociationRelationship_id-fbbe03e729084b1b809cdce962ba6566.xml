@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wan"
+    id="id-fbbe03e729084b1b809cdce962ba6566">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_id-a6e5e9cbdc8b49faa58976ea5c3cb86a.xml#id-a6e5e9cbdc8b49faa58976ea5c3cb86a"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-25ba596b7d374a8fbdbf371d03170726.xml#id-25ba596b7d374a8fbdbf371d03170726"/>
+</archimate:AssociationRelationship>
