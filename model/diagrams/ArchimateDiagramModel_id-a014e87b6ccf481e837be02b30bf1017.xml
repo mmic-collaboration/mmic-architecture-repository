@@ -20,8 +20,8 @@
           href="CompositionRelationship_id-53a0ac87b0704397a2e7cc436fc854c5.xml#id-53a0ac87b0704397a2e7cc436fc854c5"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="72"
+        x="180"
+        y="36"
         width="1104"
         height="649"/>
     <children
@@ -500,8 +500,8 @@
       id="id-6444b40b546240578ecd6641fc277603"
       targetConnections="id-9a70782be77049248fd0bc476a376311">
     <bounds
-        x="192"
-        y="564"
+        x="24"
+        y="528"
         width="120"
         height="55"/>
     <archimateElement
