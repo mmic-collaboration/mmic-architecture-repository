@@ -13,8 +13,8 @@
       fillColor="#d7ada9"
       documentation="Enabling dimensions are capabilities that could enable the basic operations of any manufacturing facility. They underpin the Business Capabilities,  are not specific to pharma, and are not aimed at any Business Goal in particular. ">
     <bounds
-        x="2352"
-        y="204"
+        x="2076"
+        y="48"
         width="1956"
         height="612"/>
     <children
@@ -721,8 +721,8 @@
       fillColor="#bccbe2"
       documentation="Business Capabilities are pharma specific abilities that an organization, person, or system, possesses that supports business as usual operation and enables progression towards new Business Goals. ">
     <bounds
-        x="300"
-        y="180"
+        x="24"
+        y="24"
         width="2004"
         height="1308"/>
     <children
