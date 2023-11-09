@@ -1,4 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;MQTT>> Listener"
-    id="id-1c994bb2038f4db59e4d749887110c9b"/>
+    name="BMS Event Interface"
+    id="id-1db86e6ea4fe4f1a9e83828145c3942e"/>
