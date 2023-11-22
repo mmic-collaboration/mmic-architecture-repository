@@ -441,8 +441,8 @@
           href="RealizationRelationship_id-bac7dfd93bcd4589bc9d36f220db5500.xml#id-bac7dfd93bcd4589bc9d36f220db5500"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="714"
+        x="104"
+        y="708"
         width="120"
         height="55"/>
     <archimateElement
@@ -616,7 +616,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-47ac60f2c69d41309a48e88ca0e3901f"
-      targetConnections="id-de19e2b45df64019b122d5599aa917b6">
+      targetConnections="id-de19e2b45df64019b122d5599aa917b6 id-21c35961ccfd416286e8ce154974a826">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-45647403ac784317aeae47f5683bba45"
@@ -627,7 +627,6 @@
           href="RealizationRelationship_id-4c1e17241bc145a0b279d24c04329938.xml#id-4c1e17241bc145a0b279d24c04329938"/>
     </sourceConnections>
     <bounds
-        x="30"
         y="503"
         width="120"
         height="55"/>
@@ -708,5 +707,26 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-f849e91d6800490d80c49342be1542c6.xml#id-f849e91d6800490d80c49342be1542c6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-59973cc814b9402ebe8452f4036418c0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-21c35961ccfd416286e8ce154974a826"
+        source="id-59973cc814b9402ebe8452f4036418c0"
+        target="id-47ac60f2c69d41309a48e88ca0e3901f">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-522449f5b329405f971fb23bcf6bd545.xml#id-522449f5b329405f971fb23bcf6bd545"/>
+    </sourceConnections>
+    <bounds
+        x="-36"
+        y="708"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-17853cb8df4b46ddba4f0d094436e342.xml#id-17853cb8df4b46ddba4f0d094436e342"/>
   </children>
 </archimate:ArchimateDiagramModel>
