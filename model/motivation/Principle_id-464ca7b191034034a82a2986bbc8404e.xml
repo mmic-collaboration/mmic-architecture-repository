@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scalability"
+    name="IT Services are Scalable"
     id="id-464ca7b191034034a82a2986bbc8404e"
     documentation="Application shall implement vertical and horizontal scalability"/>
