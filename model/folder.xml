@@ -3,7 +3,7 @@
     name="MMIC Digital Architecture"
     id="id-4d85e3b23cd64bdea8890b691e30bcce"
     purpose="The MMIC Digital Architecture supports the goals of the Digital Membership project, through the delivery of a number of key initiatives for digitalisation in pharmaceutical manufacturing. Achieving these targets will generate value for both manufacturers and patients by saving resources, time, and money, reducing waste, improving commercial competitiveness, and enabling better treatments to reach the market faster.  "
-    version="4.9.0">
+    version="5.0.0">
   <properties
       key="repository-name"
       value="MMIC Digital Architecture"/>

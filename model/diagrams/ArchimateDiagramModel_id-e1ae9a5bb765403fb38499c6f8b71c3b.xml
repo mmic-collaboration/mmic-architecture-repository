@@ -7,8 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3ae34c27eb2f48e48d74066018cfaf8b"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="180"
         y="168"
@@ -308,8 +307,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-340d437a8f904909a233069098cdc626"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="1080"
         y="168"
@@ -502,8 +500,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e0a20003aa0b499cb4a003c406ff08a0"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="2028"
         y="168"
@@ -922,8 +919,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a3a9e9bf2d7446e8b2d6d9ee645ec33b"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="3000"
         y="168"
@@ -1163,8 +1159,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a416e0f246f1436e993543ee3492167c"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="3984"
         y="156"
@@ -1178,8 +1173,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4b7bf1c58e144e64bb337b4f71a44bcd"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="180"
         y="1080"
@@ -1336,8 +1330,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-02280eb5fb554ed3bf5eea83033f52b2"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="1080"
         y="1080"
@@ -1422,8 +1415,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5a41b60e4c86487187ba4c27e170ecdc"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="2004"
         y="1092"
@@ -1627,8 +1619,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b9006b3272414f5799bd1d3f113a3b1d"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="2928"
         y="1092"
@@ -1832,8 +1823,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6fafa8b483474b459311600ff1383f8b"
       font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="3996"
         y="612"
