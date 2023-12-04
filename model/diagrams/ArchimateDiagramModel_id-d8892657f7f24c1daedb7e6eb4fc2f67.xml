@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ZZ_Errata: Technology View - Cloud Platform "
+    name="Z2_Errata: Technology View - Cloud Platform "
     id="id-d8892657f7f24c1daedb7e6eb4fc2f67"
     documentation="sketch to explain decomposition of platform services at the technology layer.  day later we agreed wtih AWS that we would abstract at the business service layer (at least for now) because its simpler at this point."
     viewpoint="technology">

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="Application View - End to end sensor event flow"
     id="id-420c20d843c24c5fa963b82ec3425ac0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
