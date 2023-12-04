@@ -739,10 +739,10 @@
             endY="156"/>
       </sourceConnections>
       <bounds
-          x="811"
+          x="792"
           y="432"
           width="185"
-          height="73"/>
+          height="61"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
