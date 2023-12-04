@@ -721,19 +721,25 @@
       <sourceConnections
           id="id-569c2fa227ca444096468700ab241fbf"
           source="id-b9e800c0215d44fa908f269fc14af180"
-          target="id-cd469d1da67e4a36b23cd75fdb20dd05"/>
+          target="id-cd469d1da67e4a36b23cd75fdb20dd05">
+        <bendpoints
+            startX="-303"
+            startY="-24"
+            endX="30"
+            endY="168"/>
+      </sourceConnections>
       <sourceConnections
           id="id-359971cdebc14944bf2bcf0add7fafe6"
           source="id-b9e800c0215d44fa908f269fc14af180"
           target="id-de7cd33c3c0e45608cc3274323a3b31d">
         <bendpoints
-            startX="244"
-            startY="-12"
-            endX="-330"
-            endY="168"/>
+            startX="189"
+            startY="-24"
+            endX="-150"
+            endY="156"/>
       </sourceConnections>
       <bounds
-          x="576"
+          x="811"
           y="432"
           width="185"
           height="73"/>
