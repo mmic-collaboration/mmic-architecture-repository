@@ -1,13 +1,13 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;mqtt>>"
+    name="               &lt;&lt;mqtt>>"
     id="id-1af5c023941745caba8850d3e6028536">
   <profiles
       href="folder.xml#id-a4f8a0d5ae07471281bbcc15316aceb5"/>
   <source
       xsi:type="archimate:Equipment"
-      href="Equipment_id-e007c9fbcac64fe293da2b5bf37d5a4b.xml#id-e007c9fbcac64fe293da2b5bf37d5a4b"/>
+      href="Equipment_id-68de0563c4504710b5a4f8580933d591.xml#id-68de0563c4504710b5a4f8580933d591"/>
   <target
       xsi:type="archimate:Node"
       href="Node_id-d456a11861d44ba4985cff4da939a2bd.xml#id-d456a11861d44ba4985cff4da939a2bd"/>
