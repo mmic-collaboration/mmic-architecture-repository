@@ -928,7 +928,7 @@
         id="id-ff46f79b353846478d44175311ce0965"
         font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
         textAlignment="1"
-        content="Tablet Manufacturing Process&#xA;... with CQAs">
+        content="Tablet Manufacturing Process&#xA;... with   CQAs">
       <bounds
           x="60"
           y="48"
