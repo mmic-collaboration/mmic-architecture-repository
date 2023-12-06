@@ -295,7 +295,7 @@
           <bounds
               x="12"
               y="48"
-              width="445"
+              width="457"
               height="115"/>
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
@@ -317,7 +317,7 @@
             <bounds
                 x="12"
                 y="24"
-                width="185"
+                width="181"
                 height="37"/>
             <archimateElement
                 xsi:type="archimate:Artifact"
@@ -329,9 +329,9 @@
               targetConnections="id-55232b649cdc4aa2acaec9220c6b5d94"
               type="1">
             <bounds
-                x="216"
-                y="24"
-                width="145"
+                x="312"
+                y="72"
+                width="133"
                 height="37"/>
             <archimateElement
                 xsi:type="archimate:Artifact"
@@ -355,8 +355,8 @@
               id="id-10f92981d6d54cb589d31ccd52fc540d"
               targetConnections="id-092fa23e26394c0b84c142b6d500edd2">
             <bounds
-                x="312"
-                y="72"
+                x="204"
+                y="24"
                 width="120"
                 height="37"/>
             <archimateElement
@@ -834,8 +834,8 @@
           <bounds
               x="48"
               y="48"
-              width="120"
-              height="55"/>
+              width="181"
+              height="97"/>
           <archimateElement
               xsi:type="archimate:SystemSoftware"
               href="SystemSoftware_id-717f22b976ef4672b8638e5bd6880907.xml#id-717f22b976ef4672b8638e5bd6880907"/>

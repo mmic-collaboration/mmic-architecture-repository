@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plant Event Consumers"
-    id="id-fd44605f7a944297be892e81ce43d318"/>
+    id="id-fd44605f7a944297be892e81ce43d318"
+    documentation="Cloud native implementation of IAAS, SAAS and PAAS services"/>

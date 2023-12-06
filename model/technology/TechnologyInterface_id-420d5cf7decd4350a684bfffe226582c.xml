@@ -1,4 +1,5 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="External API"
-    id="id-420d5cf7decd4350a684bfffe226582c"/>
+    id="id-420d5cf7decd4350a684bfffe226582c"
+    documentation="External API inteface to publish the data to the cloud for operational and predictive monitoring."/>

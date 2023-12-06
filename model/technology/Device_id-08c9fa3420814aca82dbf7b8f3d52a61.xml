@@ -1,4 +1,5 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name=" IE device"
-    id="id-08c9fa3420814aca82dbf7b8f3d52a61"/>
+    id="id-08c9fa3420814aca82dbf7b8f3d52a61"
+    documentation="On this physical IT resource integration software are installed. The OS of IE device can be either Windows or RHEL."/>

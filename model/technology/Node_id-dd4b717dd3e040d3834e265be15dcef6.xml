@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Event Hub Broker"
-    id="id-dd4b717dd3e040d3834e265be15dcef6"/>
+    id="id-dd4b717dd3e040d3834e265be15dcef6"
+    documentation="This clustered node is a collection of software capabilities identified within integration tool or cloud native agent."/>
