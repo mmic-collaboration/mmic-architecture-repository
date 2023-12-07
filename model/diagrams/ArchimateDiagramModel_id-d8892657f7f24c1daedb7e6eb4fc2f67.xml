@@ -196,4 +196,15 @@
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-96781190bc0049a29f673382a607f8e5.xml#id-96781190bc0049a29f673382a607f8e5"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-54a1d873fecf4afab0fe09fa67d2440d"
+      textAlignment="1"
+      content="Example technology view">
+    <bounds
+        x="1044"
+        y="188"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
