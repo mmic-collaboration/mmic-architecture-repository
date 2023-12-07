@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;publish2topic>>"
     id="id-2da02e695cc1402ca4018f02991e7ddb">
   <source
       xsi:type="archimate:CommunicationNetwork"

@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;sensor connectivity>>"
     id="id-dc5e07ed8f1e4f85ac87788aa762866c">
   <source
       xsi:type="archimate:CommunicationNetwork"

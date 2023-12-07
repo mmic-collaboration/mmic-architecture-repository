@@ -84,9 +84,9 @@
           href="CompositionRelationship_id-957e6cdb03a24b3ba3e72d1636972c7f.xml#id-957e6cdb03a24b3ba3e72d1636972c7f"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="36"
         y="108"
-        width="1477"
+        width="1501"
         height="517"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -111,7 +111,7 @@
             href="CompositionRelationship_id-bd966dfe681d446099a96809e2aa8d20.xml#id-bd966dfe681d446099a96809e2aa8d20"/>
       </sourceConnections>
       <bounds
-          x="12"
+          x="17"
           y="84"
           width="181"
           height="169"/>
@@ -119,30 +119,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a549bca044ab42e789b8f520150f3a4c"
           targetConnections="id-7478393183f148b69b5a4f23582c4310">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-f74449d2ed264caf8c961069e5e1e5bc"
-            source="id-a549bca044ab42e789b8f520150f3a4c"
-            target="id-cd469d1da67e4a36b23cd75fdb20dd05">
-          <bendpoints
-              startX="54"
-              startY="90"
-              endX="-414"
-              endY="12"/>
-          <bendpoints
-              startX="114"
-              startY="126"
-              endX="-354"
-              endY="48"/>
-          <bendpoints
-              startX="150"
-              startY="126"
-              endX="-318"
-              endY="48"/>
-          <archimateRelationship
-              xsi:type="archimate:FlowRelationship"
-              href="FlowRelationship_id-1af5c023941745caba8850d3e6028536.xml#id-1af5c023941745caba8850d3e6028536"/>
-        </sourceConnections>
         <bounds
             x="12"
             y="96"
@@ -203,14 +179,14 @@
             href="CompositionRelationship_id-60273398332246a2a6f8e7f255e3a433.xml#id-60273398332246a2a6f8e7f255e3a433"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="264"
           y="48"
           width="601"
           height="373"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-cd469d1da67e4a36b23cd75fdb20dd05"
-          targetConnections="id-569c2fa227ca444096468700ab241fbf id-caac2863269e44d8a809e0259878b3c6 id-00cc909298d542609b3cfa7a8393d5ec id-f74449d2ed264caf8c961069e5e1e5bc id-67998ef0897c451b9a033e189511eb57">
+          targetConnections="id-569c2fa227ca444096468700ab241fbf id-caac2863269e44d8a809e0259878b3c6 id-00cc909298d542609b3cfa7a8393d5ec id-67998ef0897c451b9a033e189511eb57">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-78dce547c08a49fabfbeb0c71e4b3818"
@@ -586,6 +562,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-caac2863269e44d8a809e0259878b3c6"
+          font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande"
           source="id-052ca98bfacc4768be8ccbd945810f09"
           target="id-cd469d1da67e4a36b23cd75fdb20dd05">
         <archimateRelationship
@@ -593,7 +570,7 @@
             href="AssociationRelationship_id-dc5e07ed8f1e4f85ac87788aa762866c.xml#id-dc5e07ed8f1e4f85ac87788aa762866c"/>
       </sourceConnections>
       <bounds
-          x="43"
+          x="17"
           y="300"
           width="162"
           height="73"/>
@@ -606,7 +583,7 @@
         id="id-1eb204008aca417b8de7810d202e7303"
         targetConnections="id-78dce547c08a49fabfbeb0c71e4b3818 id-2608b6e365844db3989ed95ee94e4453">
       <bounds
-          x="312"
+          x="336"
           y="456"
           width="253"
           height="49"/>
@@ -657,7 +634,7 @@
             href="CompositionRelationship_id-e162ecf0a16c4999bd1c4d325f40b356.xml#id-e162ecf0a16c4999bd1c4d325f40b356"/>
       </sourceConnections>
       <bounds
-          x="1008"
+          x="1032"
           y="48"
           width="445"
           height="385"/>
@@ -897,7 +874,7 @@
             href="AssociationRelationship_id-2da02e695cc1402ca4018f02991e7ddb.xml#id-2da02e695cc1402ca4018f02991e7ddb"/>
       </sourceConnections>
       <bounds
-          x="876"
+          x="900"
           y="168"
           width="120"
           height="73"/>
@@ -931,7 +908,7 @@
             endY="168"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="816"
           y="432"
           width="185"
           height="61"/>
@@ -941,7 +918,7 @@
         id="id-5217f47bc7834f21bcf389dc55a39d00"
         targetConnections="id-48df77952c084d91b9f56b5d18b9e88b id-61e88651df58442bae0d29250338c986">
       <bounds
-          x="1140"
+          x="1164"
           y="444"
           width="229"
           height="55"/>
