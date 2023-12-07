@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Event Hub Broker"
+    name="IoT and Event Hub Broker"
     id="id-d456a11861d44ba4985cff4da939a2bd"
-    documentation="This clustered node is a collection of software capabilities identified within integration tool or cloud native agent."/>
+    documentation="This clustered node is a collection of software capabilities identified within integration tool or cloud native agent. Event hub handles the large volumes of event streaming from manufacturing plants.&#xA;Please refer the Garnter's magic quadrant for Enterprise Integration Platform as a Service(ref: https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/).&#xA;"/>
