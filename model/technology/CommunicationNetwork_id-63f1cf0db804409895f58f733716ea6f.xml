@@ -1,5 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CPI external private network/FW policy based routing"
+    name="CPI external private network"
     id="id-63f1cf0db804409895f58f733716ea6f"
     documentation="CPI private network for sharing the data to the edge layer network"/>
