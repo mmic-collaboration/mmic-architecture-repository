@@ -1,4 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;Kafka>> Listener"
-    id="id-05e5c8ab99df460da9703f903e18e8ad"/>
+    name="&lt;&lt;MQTT>> Listener"
+    id="id-3caa05d6dc7e4da7b2ef338b7cc15461"/>
