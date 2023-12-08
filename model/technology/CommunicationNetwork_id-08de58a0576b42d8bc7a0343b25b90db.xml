@@ -1,5 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CPI internal network"
+    name="DMZ01: CPI internal network"
     id="id-08de58a0576b42d8bc7a0343b25b90db"
-    documentation="This is internal communication path for transferring data securely within the CPI network.&#xA;FW: Palo Alto"/>
+    documentation="This is internal communication path for transferring data securely within the CPI network.&#xA;FW: Palo Alto/SASE&#xA;Network security classification:  Very High"/>

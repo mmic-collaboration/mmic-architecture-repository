@@ -553,6 +553,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0a1f1f09192c4727b7c7d9afe39b0662"
+          lineColor="#990000"
           source="id-052ca98bfacc4768be8ccbd945810f09"
           target="id-d427ea09c6cf4be28e1973680d0e7c05">
         <archimateRelationship
@@ -563,6 +564,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-caac2863269e44d8a809e0259878b3c6"
           font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande"
+          lineColor="#ff0000"
           source="id-052ca98bfacc4768be8ccbd945810f09"
           target="id-cd469d1da67e4a36b23cd75fdb20dd05">
         <archimateRelationship
