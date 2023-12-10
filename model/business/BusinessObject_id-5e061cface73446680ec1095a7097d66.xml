@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Alarm"
-    id="id-5e061cface73446680ec1095a7097d66"/>
+    name="Alarm Process Event"
+    id="id-5e061cface73446680ec1095a7097d66"
+    documentation="An Alarm Process Event of type Alarm.  Alarms typically indicate some intervention is required."/>

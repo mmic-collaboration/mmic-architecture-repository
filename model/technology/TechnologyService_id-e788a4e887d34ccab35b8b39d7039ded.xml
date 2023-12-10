@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;service>>   Domain API"
+    id="id-e788a4e887d34ccab35b8b39d7039ded"
+    documentation="Plant domain sensor API service represents an explicitly defined exposed technology data behavior."/>

@@ -1,15 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data View - Domain Map - Level 0"
+    name="Z2_Data View - Domain Map - Level 0"
     id="id-974912fbb308407ea151994fabbe1706"
     viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-183ec7817c6a4be4949d349515c4b866"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="12"
         y="48"
@@ -23,8 +22,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5d007914519348b3a0347bbe881de989"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="444"
         y="215"
@@ -38,8 +36,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-80793a9dd8d4457a96ea405aab14efa7"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="444"
         y="48"
@@ -53,8 +50,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1139e8c091134be682194ffc6ea6eef6"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="12"
         y="216"
@@ -68,8 +64,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cea14ce86a414dc2984a8b31bbb537af"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="444"
         y="-115"
@@ -83,8 +78,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ab53578c81a041ed8f585f0f3400fbab"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="876"
         y="-115"
@@ -98,8 +92,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-525f375f6e1642ee823712d2578a74fc"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="12"
         y="-115"
@@ -113,8 +106,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1f272b4fdeff411ca6c6095f6a2d4ba8"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="444"
         y="382"
@@ -128,8 +120,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db1fba3235de4377a9dbc6c22ed936b7"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="880"
         y="381"
@@ -143,8 +134,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fad48c5e67384f08a100de2a737d5768"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="12"
         y="384"
@@ -158,8 +148,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e650a0335de84e70941b782de271efd7"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <bounds
         x="876"
         y="48"
