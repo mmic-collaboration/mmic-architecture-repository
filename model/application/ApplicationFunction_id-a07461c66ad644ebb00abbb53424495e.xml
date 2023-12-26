@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enrich Domain Event"
-    id="id-a07461c66ad644ebb00abbb53424495e"/>
+    id="id-a07461c66ad644ebb00abbb53424495e"
+    documentation="Augments PROCESS Domain Events with additional domain-based information"/>

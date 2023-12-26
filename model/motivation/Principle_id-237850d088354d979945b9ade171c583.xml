@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Scalability"
+    id="id-237850d088354d979945b9ade171c583"
+    documentation="Services of the data should not be affected by the changes in the volume of data flows through or is stored on the platform.&#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>
