@@ -22,7 +22,7 @@
     <bounds
         x="180"
         y="36"
-        width="1104"
+        width="1081"
         height="649"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -173,7 +173,7 @@
               href="SpecializationRelationship_id-1b5e788b71f74404a0f9971419a49bbf.xml#id-1b5e788b71f74404a0f9971419a49bbf"/>
         </sourceConnections>
         <bounds
-            x="564"
+            x="576"
             y="240"
             width="120"
             height="55"/>
@@ -230,7 +230,7 @@
               href="SpecializationRelationship_id-21cb5554635245a6965aeb9483b61be5.xml#id-21cb5554635245a6965aeb9483b61be5"/>
         </sourceConnections>
         <bounds
-            x="624"
+            x="636"
             y="480"
             width="120"
             height="55"/>

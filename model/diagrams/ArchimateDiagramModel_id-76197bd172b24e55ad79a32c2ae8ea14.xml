@@ -22,7 +22,7 @@
         x="-468"
         y="-96"
         width="1729"
-        height="1021"/>
+        height="1081"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-46da7e718e9e45ce9446f029482ab787"
@@ -498,7 +498,7 @@
         </sourceConnections>
         <bounds
             x="998"
-            y="600"
+            y="624"
             width="120"
             height="55"/>
         <archimateElement
@@ -723,7 +723,7 @@
           targetConnections="id-eb6001d0c98b4b1f9cd16762494b28fb id-2a60a9659a0747dfabd9a4dbe40a0603">
         <bounds
             x="998"
-            y="720"
+            y="738"
             width="120"
             height="55"/>
         <archimateElement
@@ -736,8 +736,8 @@
           textAlignment="1"
           content="process event - node relationship">
         <bounds
-            x="324"
-            y="456"
+            x="348"
+            y="504"
             width="157"
             height="48"/>
       </children>
@@ -748,7 +748,7 @@
           content="Martin:&#xA;1. OPC-UA 9 defines alarm events&#xA;2. ISA-88 defines recipies&#xA;3. q. does a deviation have to relate to a batch?&#xA;">
         <bounds
             x="656"
-            y="576"
+            y="607"
             width="223"
             height="72"/>
       </children>
@@ -775,8 +775,8 @@
               href="AssociationRelationship_id-c457b122a328488fbe73910d231bd4a2.xml#id-c457b122a328488fbe73910d231bd4a2"/>
         </sourceConnections>
         <bounds
-            x="744"
-            y="828"
+            x="742"
+            y="844"
             width="120"
             height="66"/>
         <archimateElement
@@ -797,8 +797,8 @@
               href="AssociationRelationship_id-af204343b94b42508c71e18469012894.xml#id-af204343b94b42508c71e18469012894"/>
         </sourceConnections>
         <bounds
-            x="528"
-            y="684"
+            x="537"
+            y="715"
             width="120"
             height="66"/>
         <archimateElement
@@ -828,8 +828,8 @@
               href="AssociationRelationship_id-3f94eb8b83644db79c7a13141faf2854.xml#id-3f94eb8b83644db79c7a13141faf2854"/>
         </sourceConnections>
         <bounds
-            x="744"
-            y="684"
+            x="742"
+            y="715"
             width="120"
             height="66"/>
         <archimateElement
