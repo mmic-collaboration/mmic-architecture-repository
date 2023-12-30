@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Data View - PLANT Domain CDM - Level 1"
     id="id-a014e87b6ccf481e837be02b30bf1017"
-    documentation="The PLANT Domain contains definitions of physical assets, people, locations and events to support the medicines manufacturing process."
+    documentation="The PLANT Domain contains definitions of physical assets, people, locations and real-time events to support the medicines manufacturing process."
     viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -174,7 +174,7 @@
         </sourceConnections>
         <bounds
             x="576"
-            y="240"
+            y="216"
             width="120"
             height="55"/>
         <archimateElement
@@ -253,7 +253,7 @@
         </sourceConnections>
         <bounds
             x="192"
-            y="240"
+            y="216"
             width="120"
             height="55"/>
         <archimateElement
@@ -335,7 +335,7 @@
         </sourceConnections>
         <bounds
             x="377"
-            y="240"
+            y="216"
             width="133"
             height="55"/>
         <archimateElement
@@ -348,7 +348,7 @@
           targetConnections="id-077f921aa36b4d78963ac996c1e58417 id-822e2f2bb4304917bb84af33dd9ef627 id-2bf8f260eeeb4ca8a341291035095278">
         <bounds
             x="540"
-            y="120"
+            y="96"
             width="133"
             height="55"/>
         <archimateElement
@@ -379,7 +379,7 @@
         </sourceConnections>
         <bounds
             x="204"
-            y="120"
+            y="96"
             width="133"
             height="55"/>
         <archimateElement

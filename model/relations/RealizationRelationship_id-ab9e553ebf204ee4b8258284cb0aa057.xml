@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realises the OPC standard"
+    name="realises"
     id="id-ab9e553ebf204ee4b8258284cb0aa057">
   <source
       xsi:type="archimate:BusinessObject"

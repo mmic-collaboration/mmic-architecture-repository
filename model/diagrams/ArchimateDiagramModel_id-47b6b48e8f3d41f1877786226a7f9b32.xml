@@ -12,9 +12,9 @@
       content="Manufacturing Sensor Even End-to-end Requirements Traceability&#xA;0.6&#xA;26-Dec-2023&#xA;&#xA;">
     <bounds
         x="1032"
-        y="-144"
+        y="-108"
         width="373"
-        height="111"/>
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"

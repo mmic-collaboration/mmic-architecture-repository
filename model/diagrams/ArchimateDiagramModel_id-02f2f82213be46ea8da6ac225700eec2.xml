@@ -966,7 +966,7 @@
       content="Turns a constant stream of bus messages into events.">
     <bounds
         x="-132"
-        y="-336"
+        y="-204"
         width="145"
         height="52"/>
   </children>
@@ -1000,7 +1000,7 @@
       content="PLANT Event Broker Design&#xA;0.5&#xA;8-Nov-2023&#xA;&#xA;">
     <bounds
         x="798"
-        y="-324"
+        y="-192"
         width="373"
         height="85"/>
   </children>
@@ -1019,7 +1019,7 @@
     </sourceConnections>
     <bounds
         x="-132"
-        y="-276"
+        y="-144"
         width="120"
         height="55"/>
     <archimateElement
@@ -1041,7 +1041,7 @@
     </sourceConnections>
     <bounds
         x="108"
-        y="-276"
+        y="-144"
         width="120"
         height="55"/>
     <archimateElement
@@ -1054,7 +1054,7 @@
       targetConnections="id-4f6e4fd5238a4f53a2a79cafa8d52d2e">
     <bounds
         x="420"
-        y="-276"
+        y="-144"
         width="120"
         height="55"/>
     <archimateElement
@@ -1069,7 +1069,7 @@
       content="Creates PLANT Domain compliant messages">
     <bounds
         x="420"
-        y="-336"
+        y="-204"
         width="145"
         height="52"/>
   </children>
@@ -1081,7 +1081,7 @@
       content="Creates protocol-compliant messages (e.g. data packets to REST)&#xA;">
     <bounds
         x="108"
-        y="-336"
+        y="-204"
         width="145"
         height="52"/>
   </children>
@@ -1090,7 +1090,7 @@
       id="id-c45958a711324f24bf314c80a350a214">
     <bounds
         x="649"
-        y="-240"
+        y="-108"
         width="120"
         height="55"/>
     <archimateElement
