@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maintenance Event"
-    id="id-8f38c5eaa26f47149acfca15ff0975df"
-    documentation="A Maintenance Event is some activity carried out on an Equipment Unit to ensure it continues to operate correctly.  Examples of Maintenance Events include callibration, cleaning, and firmware upgrades. The maintenance history of an Equipment Unit is an aggregate of all Maintenance Events for that unit.  Maintenance may be scheduled or ad-hoc."/>

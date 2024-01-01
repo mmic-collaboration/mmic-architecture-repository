@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deviation"
-    id="id-232ed1c7d9514bcfb9069c1959f0d91f"
-    documentation="Process Control Rules specify business logic that can be used to translate a process event into a decision that drives a particular action."/>

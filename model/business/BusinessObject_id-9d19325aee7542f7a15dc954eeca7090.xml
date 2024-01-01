@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Person"
-    id="id-9d19325aee7542f7a15dc954eeca7090"
-    documentation="Person is root-level entity of the PEOPLE domain representing a human actor with the Digital Membership architecture."/>

@@ -1,5 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hardware Controller"
-    id="id-8d2eb658fcc84952a1d38a83e9ecfc02"
-    documentation="The Hardware Controller of an Equipment Unit comprises system software that manages the digital flow of data into and out of that device.&#x9;&#xA;&#xA;Programmable Logic Controller is a type of Hardware Controller."/>
+    name="Programmable Logic Controller"
+    id="id-8d2eb658fcc84952a1d38a83e9ecfc02"/>
