@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Data View - PLANT Domain CDM - Level 1"
     id="id-a014e87b6ccf481e837be02b30bf1017"
-    documentation="The PLANT Domain contains definitions of physical assets, people, locations and real-time events to support the medicines manufacturing process."
+    documentation="The PLANT Domain contains definitions of physical assets, people, locations and events to support the medicines manufacturing process."
     viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
