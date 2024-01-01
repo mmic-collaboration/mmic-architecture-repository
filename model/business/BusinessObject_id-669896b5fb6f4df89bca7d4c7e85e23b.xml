@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Incident"
     id="id-669896b5fb6f4df89bca7d4c7e85e23b"
-    documentation="An Incident is a type of Process Events indicating a potential anomaly in the manufacturing process requiring a potential intervention. "/>
+    documentation="An Incident is a type of Process Event that indicates a potential anomaly in the manufacturing process which may require intervention. "/>
