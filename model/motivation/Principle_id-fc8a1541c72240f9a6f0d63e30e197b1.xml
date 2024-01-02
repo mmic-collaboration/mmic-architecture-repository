@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Ownership"
+    id="id-fc8a1541c72240f9a6f0d63e30e197b1"
+    documentation="The ownership of Data Products should be clearly defined and maintained to facilitate accountability for the quality and security of those data.&#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>

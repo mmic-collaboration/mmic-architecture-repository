@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OPC Device Lookup. **TBD!!**"
-    id="id-c1db6cab530c407db18ebdef78251425"/>
+    name="OPC Device Lookup"
+    id="id-c1db6cab530c407db18ebdef78251425"
+    documentation="Augments PROCESS Domain Events with information about the source node of the event&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance"
+    id="id-59d5f7e75c0c475eac149311dd1308af"
+    documentation="Data is assured through good governance, meaning common, effective and appropriate policies are agreed and consistently applied across all domains to ensure accountability, assess adequate levels of quality, control access, and make available necessary metadata such as its lineage. &#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>

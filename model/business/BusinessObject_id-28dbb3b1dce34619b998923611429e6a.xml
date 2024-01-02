@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviation Assessment"
+    id="id-28dbb3b1dce34619b998923611429e6a"
+    documentation="A Deviation Assessment is carried out on a Deviation to determine the true severity of the Deviation.  Deviation Assessments are effectively a calibration of the quality process, taking into account factors which may not be available at the point the Deviation is triggered, including those from human intervention. "/>

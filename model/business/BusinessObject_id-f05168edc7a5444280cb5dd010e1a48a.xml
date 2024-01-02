@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Equipment Unit"
+    name="Equipment Node"
     id="id-f05168edc7a5444280cb5dd010e1a48a"
-    documentation="A piece of Equipment is any discrete machine that is part of a medicines manufacturing Production Line or Quality Control Laboratory."/>
+    documentation="An Equipment Node is any discrete machine that is part of a medicines manufacturing Production Line or Quality Control Laboratory."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate Node Sensor Telemetry"
+    id="id-770ef899115e45d797167ce862512ac5"
+    documentation="Creates a Sensor Event from a manufacturing Node"/>

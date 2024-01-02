@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Change Machine Setting"
+    name="Machine Setting Change"
     id="id-cca9e2f002b647679bed8a06ce68c72e"
     documentation="A notification sent to an individual, team, or system, to inform them of a Process Event and potentially request a response. "/>

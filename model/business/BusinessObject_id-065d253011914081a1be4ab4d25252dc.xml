@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Equipment Context"
+    name="Equipment Node Context"
     id="id-065d253011914081a1be4ab4d25252dc"
-    documentation="The Equipment Context defines the operational environment of a piece of Equipment."/>
+    documentation="The Equipment Node Context defines the operational environment of a piece of Equipment."/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Classification"
+    id="id-c29e2f8eb0cd4bffb3e7fb8307e21a08"
+    documentation="Data Products should be categorised according to their sensitivity in line with the organisations security policy. &#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>

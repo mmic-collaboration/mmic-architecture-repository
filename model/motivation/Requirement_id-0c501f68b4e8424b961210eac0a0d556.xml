@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPC-UA-10000-4: Filter"
+    id="id-0c501f68b4e8424b961210eac0a0d556"
+    documentation="(Excerpt)&#xA;5.12.1.4 Filter&#xA;Each time a MonitoredItem is sampled, the Server evaluates the sample using the filter defined for the MonitoredItem. The filter parameter defines the criteria that the Server uses to determine if a Notification should be generated for the sample. The type of filter is dependent on the type of the item that is being monitored. For example, the DataChangeFilter and the AggregateFilter are used when monitoring Variable Values and the EventFilter is used when monitoring Events. Sampling and evaluation, including the use of filters, are described in this document. Additional filters may be defined in other parts of OPC 10000."/>
