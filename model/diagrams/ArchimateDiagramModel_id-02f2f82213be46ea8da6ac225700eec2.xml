@@ -15,7 +15,7 @@
     <bounds
         x="-408"
         y="24"
-        width="1177"
+        width="649"
         height="1068"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -89,8 +89,8 @@
               href="ServingRelationship_id-18d4ca2d81454848a1b30e7050510c6e.xml#id-18d4ca2d81454848a1b30e7050510c6e"/>
         </sourceConnections>
         <bounds
-            x="25"
-            y="48"
+            x="24"
+            y="120"
             width="120"
             height="55"/>
         <archimateElement
@@ -138,7 +138,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="180"
+          y="264"
           width="145"
           height="115"/>
       <children
@@ -661,15 +661,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-737ba4306ab846e3a96c3031ad63554f"
         targetConnections="id-3cb1e59013814b5f9fddcd384669e209 id-65158fe188c4490bbbf3acb0936795da id-fe0dd0b43ca54b9d82729217b8525fba id-4b19b22af5a2427ca9ea4e5daa580791">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f36692103c144dfab519ba6b16abd367"
-          source="id-737ba4306ab846e3a96c3031ad63554f"
-          target="id-cd2e598454174c07b8b8e79a97e57fdb">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-d8650f9be3154e7dae6cf17309f18eaf.xml#id-d8650f9be3154e7dae6cf17309f18eaf"/>
-      </sourceConnections>
       <bounds
           x="348"
           y="48"
@@ -859,7 +850,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cd2e598454174c07b8b8e79a97e57fdb"
-        targetConnections="id-b3219c07bfd44433869cd83be4cb5e73 id-2eeb78976c7045fa93e2eb16c0fc582f id-f36692103c144dfab519ba6b16abd367">
+        targetConnections="id-b3219c07bfd44433869cd83be4cb5e73 id-2eeb78976c7045fa93e2eb16c0fc582f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5ce55b76ecfe4abfb2e1459b8e2b08fc"

@@ -9,7 +9,7 @@
       id="id-83ea129dfb464a0aa922a1ca0da03458"
       font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
-      content="Manufacturing Sensor Even End-to-end Functional Design&#xA;0.6&#xA;26-Nov-2023&#xA;&#xA;">
+      content="Manufacturing Sensor Events&#xA;End-to-end Functional Design&#xA;version: 0.7&#xA;date: 3-Jan-2024&#xA;&#xA;">
     <bounds
         x="1020"
         y="-132"
@@ -19,7 +19,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-04119ec5f47f4afa8a995a5b614cdc63"
-      name="PROCESS Domain Boundary"
+      name="Medicines Manufacturing Event Lifecycle Scope"
       font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       fillColor="#d7d7d7"
@@ -33,7 +33,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-60b5cb8e0a194be3adc65564dbda25fd"
-        name="Node Sensor Event Boundary"
+        name="PLANT Domain Boundary"
         font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
         textAlignment="1"
         fillColor="#dcdcdc"
@@ -46,7 +46,8 @@
           height="337"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-a091bf0e784745ea95874f7b35ab629c">
+          id="id-a091bf0e784745ea95874f7b35ab629c"
+          targetConnections="id-56db3ede1a3742c2be78e9b66fe03a40">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-07eeaba74b4047cab2e1cd0d7a6cbf02"
@@ -131,6 +132,15 @@
             source="id-b189a1083ba24026a19461122c3c7c32"
             target="id-ba323b8d55704519ac8b2416171b7a80"
             type="4"/>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-56db3ede1a3742c2be78e9b66fe03a40"
+            source="id-b189a1083ba24026a19461122c3c7c32"
+            target="id-a091bf0e784745ea95874f7b35ab629c">
+          <archimateRelationship
+              xsi:type="archimate:FlowRelationship"
+              href="FlowRelationship_id-2f369b647dfa4638be9403563f0cffa4.xml#id-2f369b647dfa4638be9403563f0cffa4"/>
+        </sourceConnections>
         <bounds
             x="12"
             y="166"
