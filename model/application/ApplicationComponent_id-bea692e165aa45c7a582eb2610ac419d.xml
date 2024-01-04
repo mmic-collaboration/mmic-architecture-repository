@@ -1,4 +1,4 @@
-<archimate:ApplicationInterface
+<archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&lt;&lt;Kafka>> Publisher"
-    id="id-ef416960c9df4287be0940f4b47ff5d8"/>
+    id="id-bea692e165aa45c7a582eb2610ac419d"/>

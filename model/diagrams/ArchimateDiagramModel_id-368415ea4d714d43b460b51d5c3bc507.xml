@@ -185,8 +185,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_id-66131d4945eb431dbc768c9c1a8b1abd.xml#id-66131d4945eb431dbc768c9c1a8b1abd"/>
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-70d27bc78f254c34bdc82605f35e54c9.xml#id-70d27bc78f254c34bdc82605f35e54c9"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -197,8 +197,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_id-1c994bb2038f4db59e4d749887110c9b.xml#id-1c994bb2038f4db59e4d749887110c9b"/>
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-f708d994af364c4381d5f140b01c5c09.xml#id-f708d994af364c4381d5f140b01c5c09"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -439,15 +439,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d068409380ee4545bd64ae1923b9e47d">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ae360aeb7bda4bd88da5599d7ae3fab9"
-        source="id-d068409380ee4545bd64ae1923b9e47d"
-        target="id-bd4efb704ffc44dc86e8b61fa1db38c1">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-75704e47d57a45848b04ce98f02fa252.xml#id-75704e47d57a45848b04ce98f02fa252"/>
-    </sourceConnections>
     <bounds
         x="792"
         y="120"
@@ -660,8 +651,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bd4efb704ffc44dc86e8b61fa1db38c1"
-      targetConnections="id-ae360aeb7bda4bd88da5599d7ae3fab9">
+      id="id-bd4efb704ffc44dc86e8b61fa1db38c1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ca4d904bbe3c40a285cee406ad2646bd"
