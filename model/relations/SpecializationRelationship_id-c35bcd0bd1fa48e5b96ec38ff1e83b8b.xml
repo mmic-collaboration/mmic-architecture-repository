@@ -2,11 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="type of"
-    id="id-21cb5554635245a6965aeb9483b61be5">
+    id="id-c35bcd0bd1fa48e5b96ec38ff1e83b8b"
+    documentation="A Deviation is a type of ">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-715c464eb32941cbb08e3e2b8671d103.xml#id-715c464eb32941cbb08e3e2b8671d103"/>
+      href="BusinessObject_id-669896b5fb6f4df89bca7d4c7e85e23b.xml#id-669896b5fb6f4df89bca7d4c7e85e23b"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-4c908acf130049ef8a9a3f5b77dc76f2.xml#id-4c908acf130049ef8a9a3f5b77dc76f2"/>
+      href="BusinessObject_id-0f6c96bf9b65473281b12577fc70a8ab.xml#id-0f6c96bf9b65473281b12577fc70a8ab"/>
 </archimate:SpecializationRelationship>

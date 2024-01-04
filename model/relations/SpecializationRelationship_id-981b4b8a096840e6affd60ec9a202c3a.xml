@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="type of"
-    id="id-21cb5554635245a6965aeb9483b61be5">
+    id="id-981b4b8a096840e6affd60ec9a202c3a">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-715c464eb32941cbb08e3e2b8671d103.xml#id-715c464eb32941cbb08e3e2b8671d103"/>
+      href="BusinessObject_id-fab325f9268d4cf6aee5ba7a258a2490.xml#id-fab325f9268d4cf6aee5ba7a258a2490"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-4c908acf130049ef8a9a3f5b77dc76f2.xml#id-4c908acf130049ef8a9a3f5b77dc76f2"/>
+      href="BusinessObject_id-9d19325aee7542f7a15dc954eeca7090.xml#id-9d19325aee7542f7a15dc954eeca7090"/>
 </archimate:SpecializationRelationship>
