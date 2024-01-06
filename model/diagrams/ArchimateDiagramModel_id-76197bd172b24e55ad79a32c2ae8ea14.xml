@@ -391,7 +391,7 @@
           id="id-7af804c61ade465b8e5d66ebe2669ff5"
           font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="Information Domain: PROCESS&#xD;&#xA;Owner: CPI&#xD;&#xA;Version: 0.3.1&#xD;&#xA;Date: 1-Jan-2024&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+          content="Information Domain: PROCESS&#xD;&#xA;Owner: CPI&#xD;&#xA;Version: 0.3.2&#xD;&#xA;Date: 1-Jan-2024&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
         <bounds
             x="1188"
             y="36"
@@ -507,7 +507,7 @@
         </sourceConnections>
         <bounds
             x="950"
-            y="540"
+            y="576"
             width="120"
             height="55"/>
         <archimateElement
@@ -710,7 +710,7 @@
           targetConnections="id-eb6001d0c98b4b1f9cd16762494b28fb id-2a60a9659a0747dfabd9a4dbe40a0603">
         <bounds
             x="1152"
-            y="540"
+            y="576"
             width="120"
             height="55"/>
         <archimateElement
@@ -754,7 +754,7 @@
         </sourceConnections>
         <bounds
             x="672"
-            y="636"
+            y="677"
             width="120"
             height="55"/>
         <archimateElement
@@ -774,9 +774,19 @@
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_id-b5fb82dfe81c4f5b87d8a7e5a5de60e1.xml#id-b5fb82dfe81c4f5b87d8a7e5a5de60e1"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-21f7eff0fea94ba5b1a5c7a1c8622496"
+            targetConnections="id-d6c4c66d1bd84abc9b0827cddd0ba759"
+            source="id-a571fc2ba3cb4d57888c383bac2af3c7"
+            target="id-640d2cc11eb440ce86505cc04adcb4df">
+          <archimateRelationship
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-918b6fc7150640d0b5b051a6df5257cd.xml#id-918b6fc7150640d0b5b051a6df5257cd"/>
+        </sourceConnections>
         <bounds
             x="672"
-            y="828"
+            y="852"
             width="120"
             height="55"/>
         <archimateElement
@@ -787,19 +797,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-558702f5f8b9413589d87b8ae659cbf1"
           targetConnections="id-e00c5b96b28e40eb94f885a75103afa4 id-bbe57981e4d74f5f92a8e09405e2ee80 id-d4e8856c9cc44cef85798217beea3017">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-21f7eff0fea94ba5b1a5c7a1c8622496"
-            targetConnections="id-d6c4c66d1bd84abc9b0827cddd0ba759"
-            source="id-558702f5f8b9413589d87b8ae659cbf1"
-            target="id-640d2cc11eb440ce86505cc04adcb4df">
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-918b6fc7150640d0b5b051a6df5257cd.xml#id-918b6fc7150640d0b5b051a6df5257cd"/>
-        </sourceConnections>
         <bounds
-            x="875"
-            y="828"
+            x="924"
+            y="852"
             width="120"
             height="55"/>
         <archimateElement
@@ -822,8 +822,8 @@
             target="id-21f7eff0fea94ba5b1a5c7a1c8622496"
             type="4"/>
         <bounds
-            x="840"
-            y="629"
+            x="972"
+            y="763"
             width="111"
             height="49"/>
       </children>
@@ -843,10 +843,10 @@
             target="id-558702f5f8b9413589d87b8ae659cbf1"
             type="4"/>
         <bounds
-            x="828"
-            y="744"
-            width="111"
-            height="49"/>
+            x="960"
+            y="924"
+            width="193"
+            height="37"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -866,14 +866,14 @@
             x="1128"
             y="710"
             width="229"
-            height="195"/>
+            height="155"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-2bae5da971cf4e809a2e37a74158a76d"
             targetConnections="id-d14668b1943c495d99558bddba1e4d17 id-a8cb1cb8763e4fd9a188c3c782229571">
           <bounds
               x="48"
-              y="96"
+              y="60"
               width="120"
               height="55"/>
           <archimateElement
@@ -959,5 +959,21 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-471468eddfd943b8b2cd1fc336920378.xml#id-471468eddfd943b8b2cd1fc336920378"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-37bf2099fa8b41e0a099e2d68a850964"
+      font="1|Comic Sans MS|9.0|0|COCOA|1|ComicSansMS"
+      textAlignment="1"
+      alpha="245"
+      content="The Recipe associated with a particular Process Event can be considered part of the configuration of that Process Event">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="7"
+        y="411"
+        width="111"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
