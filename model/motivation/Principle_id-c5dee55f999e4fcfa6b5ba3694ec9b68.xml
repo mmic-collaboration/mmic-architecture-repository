@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Systems and Data are Interoperable "
+    name="Data Interoperability"
     id="id-c5dee55f999e4fcfa6b5ba3694ec9b68"
-    documentation="Applications should be interoperable with other application via API"/>
+    documentation="Systems should support interoperability by default, through adherence to agreed integration standards and patterns, loosely coupled interfaces, and adoption of common views of domain data.&#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>

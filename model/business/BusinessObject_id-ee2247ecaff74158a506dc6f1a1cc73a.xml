@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviation"
+    id="id-ee2247ecaff74158a506dc6f1a1cc73a"
+    documentation="A notification sent to an individual, team, or system, to inform them of a Process Event and potentially request a response. "/>

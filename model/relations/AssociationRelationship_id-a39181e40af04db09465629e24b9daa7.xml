@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="uses"
+    name="is scheduled on"
     id="id-a39181e40af04db09465629e24b9daa7">
   <source
       xsi:type="archimate:BusinessObject"

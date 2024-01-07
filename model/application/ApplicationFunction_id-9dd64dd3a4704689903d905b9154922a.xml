@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publish Domain Event"
+    id="id-9dd64dd3a4704689903d905b9154922a"
+    documentation="Publishes PROCESS Domain Events to subscribers"/>

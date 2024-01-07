@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Protocol Conversion"
-    id="id-c60c93fecd7440b1bffe208bd7bb9123"/>
+    name="Convert Sensor Event Protocol"
+    id="id-c60c93fecd7440b1bffe208bd7bb9123"
+    documentation="Creates protocol-compliant messages (e.g. data objects to MQTT payloads)"/>

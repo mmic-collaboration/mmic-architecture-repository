@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architecture is Cloud Agnostic"
+    name="Cloud Agnostic"
     id="id-4c7d3b526fac463ca6b7ad5f23b22e5b"
-    documentation="Implement technical diversity and reduce the unnecessary cost of managing the variety of technological platforms."/>
+    documentation="To the fullest extent possible, the architecture should be valid across multiple cloud environments to ensure it is applicable across the different technology platforms of the digital membership. &#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>
