@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture, Process, Publish Events in (near) real-time"
+    id="id-82c2aad0d4d042d897c9fbc6f1e928c1"
+    documentation="Node Sensor Data Must be captured, processed and made available for consumption in real or near real-time."/>

@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scalability"
-    id="id-6cfff7f59045452395b34ca2d66a8b55"/>
+    name="Data Shall Scale"
+    id="id-6cfff7f59045452395b34ca2d66a8b55"
+    documentation="Throughput, Storage, Compute capacity of the systerm shall scale linearly to the maximum volume of data transactions across the system."/>
