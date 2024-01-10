@@ -1,12 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;sensor connectivity>>"
-    id="id-dc5e07ed8f1e4f85ac87788aa762866c">
+    id="id-e6c2c336fa454e66afb66458a911efc8">
   <source
-      xsi:type="archimate:CommunicationNetwork"
-      href="CommunicationNetwork_id-08de58a0576b42d8bc7a0343b25b90db.xml#id-08de58a0576b42d8bc7a0343b25b90db"/>
-  <target
       xsi:type="archimate:Node"
       href="Node_id-d456a11861d44ba4985cff4da939a2bd.xml#id-d456a11861d44ba4985cff4da939a2bd"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-dd4b717dd3e040d3834e265be15dcef6.xml#id-dd4b717dd3e040d3834e265be15dcef6"/>
 </archimate:AssociationRelationship>
