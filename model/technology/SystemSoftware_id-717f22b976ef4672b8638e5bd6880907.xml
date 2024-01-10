@@ -1,5 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ingest/Process/Store"
+    name="Data Mesh ( Ingest | Storage( i.e. Avro, JSON, Parquet etc.) | Curate"
     id="id-717f22b976ef4672b8638e5bd6880907"
     documentation="IAAS, PAAS and SAAS services to support business requirments."/>
