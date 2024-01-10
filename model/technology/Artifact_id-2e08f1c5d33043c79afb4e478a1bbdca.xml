@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Github Schema Registry Repo"
-    id="id-2e08f1c5d33043c79afb4e478a1bbdca"/>
+    id="id-2e08f1c5d33043c79afb4e478a1bbdca"
+    documentation="Standard schema registry repo"/>

@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Encrypted | CIA | DAD Triad  data transfer>>"
     id="id-dbfea9bd706440ea9fc9fa371f695d85">
   <source
       xsi:type="archimate:Node"

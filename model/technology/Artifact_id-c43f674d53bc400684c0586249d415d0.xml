@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schema registry"
     id="id-c43f674d53bc400684c0586249d415d0"
-    documentation="Conformance of  message schema identified by the business team"/>
+    documentation="Conformance of  message schema identified by the business domains i.e. Plant, Process, Labs etc.."/>
