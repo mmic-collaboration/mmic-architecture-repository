@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Edge Network: K8S HA Cluster "
-    id="id-2a7d2042f0c14eceb6f44199a63b21b2"/>
+    name="Enterprise Integration Service | K8S HA {  Domain Event Hub Broker"
+    id="id-2a7d2042f0c14eceb6f44199a63b21b2"
+    documentation="Industrial grade centralised HA network"/>
