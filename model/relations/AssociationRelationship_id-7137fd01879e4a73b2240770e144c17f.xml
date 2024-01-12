@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPC UA  &amp; Non-OPC UA raw payload"
     id="id-7137fd01879e4a73b2240770e144c17f">
   <source
       xsi:type="archimate:Grouping"
