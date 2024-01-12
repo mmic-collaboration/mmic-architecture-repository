@@ -1,7 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="uses (is instance of)"
+    name="runs according to"
     id="id-6ca42c722b92493c8ec5ffb296aa101b">
   <source
       xsi:type="archimate:BusinessObject"
