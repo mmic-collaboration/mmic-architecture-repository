@@ -291,7 +291,7 @@
           xsi:type="archimate:DiagramModelNote"
           id="id-b442170c31b94f99980b3820fba32329"
           textAlignment="1"
-          content="Information Domain: PLANT&#xA;Owner: CPI&#xA;Version: 0.2.2&#xA;Date: 1-Jan-2024&#xA;&#xA;">
+          content="Information Domain: PLANT&#xA;Owner: CPI&#xA;Version: 0.3.0&#xA;Date: 14-Jan-2024&#xA;&#xA;">
         <bounds
             x="720"
             y="24"
