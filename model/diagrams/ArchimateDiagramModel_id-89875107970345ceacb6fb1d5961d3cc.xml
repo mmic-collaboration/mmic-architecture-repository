@@ -16,8 +16,8 @@
           href="CompositionRelationship_id-d9aaa197717249a7b17aca7cb4262d08.xml#id-d9aaa197717249a7b17aca7cb4262d08"/>
     </sourceConnections>
     <bounds
-        x="1740"
-        y="79"
+        x="1932"
+        y="108"
         width="421"
         height="576"/>
     <children
@@ -63,7 +63,6 @@
               href="CompositionRelationship_id-0d10c5d66031405ca548e608e74c5c26.xml#id-0d10c5d66031405ca548e608e74c5c26"/>
         </sourceConnections>
         <bounds
-            x="12"
             y="72"
             width="301"
             height="253"/>
