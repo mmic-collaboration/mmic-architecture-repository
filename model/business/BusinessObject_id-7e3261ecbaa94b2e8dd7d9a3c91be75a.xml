@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviation Rule"
+    id="id-7e3261ecbaa94b2e8dd7d9a3c91be75a"
+    documentation="Deviation Rules specify business logic that can be used to translate a process event into a process Deviation."/>

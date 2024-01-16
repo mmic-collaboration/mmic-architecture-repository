@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loose Coupling"
+    id="id-60874fcb2ae742fdb59f890ed4e1369d"
+    documentation="Applications should be interoperable with other application via API"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviation"
+    id="id-232ed1c7d9514bcfb9069c1959f0d91f"
+    documentation="A Deviation results from a Process Event is the conditions of the relevant Deviation Rule are met."/>

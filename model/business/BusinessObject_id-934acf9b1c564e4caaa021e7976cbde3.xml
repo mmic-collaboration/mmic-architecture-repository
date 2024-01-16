@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realtime Release Quality Condition"
+    id="id-934acf9b1c564e4caaa021e7976cbde3"
+    documentation="A notification sent to an individual, team, or system, to inform them of a Process Event and potentially request a response. "/>
