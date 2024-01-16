@@ -1,11 +1,10 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Encrypted | CIA"
-    id="id-e8fc158bbf8c4f2a843aa328d7c89004">
+    id="id-0fa06d65333f4f2fa1a29570ef007b1d">
   <source
-      xsi:type="archimate:Node"
-      href="Node_id-d456a11861d44ba4985cff4da939a2bd.xml#id-d456a11861d44ba4985cff4da939a2bd"/>
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-a757d0c9417e41bcbfd540e826732682.xml#id-a757d0c9417e41bcbfd540e826732682"/>
   <target
       xsi:type="archimate:Node"
       href="Node_id-52e75e9a594a4cfa80be06ef12577936.xml#id-52e75e9a594a4cfa80be06ef12577936"/>

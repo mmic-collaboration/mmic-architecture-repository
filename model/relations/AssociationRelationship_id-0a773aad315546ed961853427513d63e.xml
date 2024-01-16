@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIA | DAD | E2E encryption"
+    id="id-0a773aad315546ed961853427513d63e">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-63f1cf0db804409895f58f733716ea6f.xml#id-63f1cf0db804409895f58f733716ea6f"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-a16f590bd1124ce585e1a4669b29aea4.xml#id-a16f590bd1124ce585e1a4669b29aea4"/>
+</archimate:AssociationRelationship>
