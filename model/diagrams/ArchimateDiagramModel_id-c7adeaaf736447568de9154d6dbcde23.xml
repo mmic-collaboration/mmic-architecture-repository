@@ -322,24 +322,11 @@
             height="217"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-ebd8f91a8169425a8ab6b3eeb6373721"
-            targetConnections="id-29037a834bf34f6795e9470c4daa977a">
-          <bounds
-              x="12"
-              y="168"
-              width="241"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Node"
-              href="Node_id-e9c493951d5f4399b7c863f235fc5f40.xml#id-e9c493951d5f4399b7c863f235fc5f40"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
             id="id-7baca0047c6e4ba29169e19b54bdf6dd"
             targetConnections="id-26ccf69a86874fa9af4fd87b29c3ab01">
           <bounds
               x="12"
-              y="24"
+              y="168"
               width="241"
               height="37"/>
           <archimateElement
@@ -371,6 +358,19 @@
           <archimateElement
               xsi:type="archimate:Node"
               href="Node_id-5e80132011c245dcbe9b3e0ca4c732cc.xml#id-5e80132011c245dcbe9b3e0ca4c732cc"/>
+        </children>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="id-ebd8f91a8169425a8ab6b3eeb6373721"
+            targetConnections="id-29037a834bf34f6795e9470c4daa977a">
+          <bounds
+              x="12"
+              y="24"
+              width="241"
+              height="37"/>
+          <archimateElement
+              xsi:type="archimate:Node"
+              href="Node_id-e9c493951d5f4399b7c863f235fc5f40.xml#id-e9c493951d5f4399b7c863f235fc5f40"/>
         </children>
         <archimateElement
             xsi:type="archimate:Grouping"
@@ -405,7 +405,7 @@
               href="AssociationRelationship_id-0adc0feb90064152b7b48009fadb4e40.xml#id-0adc0feb90064152b7b48009fadb4e40"/>
         </sourceConnections>
         <bounds
-            x="708"
+            x="684"
             y="12"
             width="313"
             height="97"/>
