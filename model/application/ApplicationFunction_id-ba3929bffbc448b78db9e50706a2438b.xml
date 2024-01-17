@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquire Node Sensor Event (in RT)"
+    id="id-ba3929bffbc448b78db9e50706a2438b"
+    documentation="Turns a stream of telemetry messages into sensor events."/>

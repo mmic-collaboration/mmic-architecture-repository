@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transform Event"
-    id="id-beeaf6341aba4c58aad4b4048b7a9559"/>
+    name="Transform Sensor Event"
+    id="id-beeaf6341aba4c58aad4b4048b7a9559"
+    documentation="Creates PROCESS Domain compliant messages from Sensor Events"/>

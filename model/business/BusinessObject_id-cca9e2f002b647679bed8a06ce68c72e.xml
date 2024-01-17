@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Machine Setting Change"
     id="id-cca9e2f002b647679bed8a06ce68c72e"
-    documentation="A notification sent to an individual, team, or system, to inform them of a Process Event and potentially request a response. "/>
+    documentation="A Machine Setting Change represents a change control event that fully captures the change to the state of a Machine Setting.  The full list of Machine Setting Changes for a particular Machine Setting represents the change history of that Machine Setting."/>
