@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Consumption shall be Technology Agnostic"
+    id="id-d0b9d475eaff420cb53b9dc35835cc6f"
+    documentation="The consumption of data and data services shall not depend on any specific technology or technology vendor.  Data exchange shall be based on open, and technology-agnostic exchange protocols.&#xA;"/>

@@ -1,0 +1,1096 @@
+commit bfaad828efaf989fbec224852074652e8ef9794e
+Merge: 8391156 7d8e8c5
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Jan 1 19:34:35 2024 +0100
+
+    Merge of branch 'feature/Strategy' into 'feature/ApplicationAndData' without conflict.
+
+commit 7d8e8c59f303878fd314601655009345a5bb735d
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Jan 1 19:34:22 2024 +0100
+
+    updated PLANT Domain CDM description
+
+commit 8391156c372424839b6ce1626de1db7ae033b8ed
+Merge: 22f2708 57ab909
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Jan 1 19:26:43 2024 +0100
+
+    Merge of branch 'feature/Strategy' into 'feature/ApplicationAndData' with some conflicts solved.
+    
+    Restored Objects:
+    Restored Concepts:
+    type of (SpecializationRelationship)
+    CompositionRelationship
+
+commit 57ab90948f1baa87033998636e5e91f22c209801
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Jan 1 14:15:44 2024 +0100
+
+    Updated PLANT, PROCESS CDMs following comments from Simon Bolder. See story:
+    https://team-cpi.monday.com/boards/4183821556/pulses/5637705641
+
+commit 57d66af9d39d6e4eb6e2f8cfedbb29270131907c
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Sat Dec 30 16:23:12 2023 +0100
+
+    Changes to CDMs:
+     - moved Alarm to PLANT Domain as type of sensor event.  rationale: these are more closely related to the real-time events in the PLANT domain
+     - added 'Incident' to PROCESS Domain as type of Process Event, as per Simon Bolder's advice
+     - included Maintenance Event to PLANT domain and linked it to schedule in PROCESS Domain
+     - added interactions for PLANT domain with PEOPLE and PROCESS
+
+commit 22f270831df7a6fc580f142e739b06975f18ee73
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Sat Dec 30 15:51:28 2023 +0100
+
+    minor changes
+
+commit a3c99fa1d1e15d9495ab26fb9f4f5f3c013b227d
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Dec 27 16:16:13 2023 +0100
+
+    Added requirements traceability view for e2e sensor events, updated principles, requirements view, minor changes elsewhere
+
+commit 2b267874bc53738310db5546e024d6fac432bc34
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Dec 27 08:32:52 2023 +0100
+
+    minor changes to domain models
+
+commit d3e37198f99a209d8e6dceb256ec503485c4ea08
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Dec 26 22:19:40 2023 +0100
+
+    Added requirements traceability for e2e sensor events
+    Updated Principles view to align with data strategy
+
+commit add34396ad27e11cd5d867068f7cc9b7382ad1b6
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Dec 26 20:01:36 2023 +0100
+
+    Updated some of the components on the e2e sensor event design
+    Added purely functional view for the e2e sensor event design
+
+commit 6bb91ac69f518500bffaf89c7cbc347dd0904b52
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Dec 26 19:03:49 2023 +0100
+
+    Added detail for OPC-UA standard to the Requirements view
+
+commit 34fdf4e781130d89d369ab0c46bdbfea3cc93e38
+Merge: a7d4192 804d2fd
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Sun Dec 10 12:13:17 2023 +0100
+
+    Merge of branch 'feature/ApplicationAndData' into 'feature/Strategy' without conflict.
+
+commit 804d2fd0b99922735bf5daa0df3f943ba8a1d1f0
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Sun Dec 10 12:12:29 2023 +0100
+
+    updated PLANT and PROCESS models with process event logic
+
+commit 86b943214ee4e4a2bf9af3a1a70e4319addd5675
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Sun Dec 10 11:40:49 2023 +0100
+
+    minor updates in order to refresh
+
+commit 65a19631cbe7f63b1405db9a25e0133d436faf02
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Fri Dec 8 23:40:19 2023 +0100
+
+    v0.6 of sensor event app component model
+
+commit e346bdafdcdffa69da6f329e7e5422ed1fd49b31
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Fri Dec 8 10:27:17 2023 +0000
+
+    Added technology network security classification
+
+commit 33820c0615bdc61b676f5e08aaab559c2e079d31
+Merge: e458b09 a1d8899
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 16:35:58 2023 +0000
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit e458b093f31204765f760dd3e362e2125ff22d89
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 16:35:57 2023 +0000
+
+    Added protocol adaption  at technology layer
+
+commit a1d8899453d6e4e3d8fe8f91555c19452998c7b0
+Merge: abb2239 1f83e6e
+Author: Timothy Galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Thu Dec 7 17:14:14 2023 +0100
+
+    Merge pull request #4 from mmic-collaboration/feature/Technology
+    
+    merging in kumbarai and simons changes (again)
+
+commit 1f83e6e5cbc738a126fe3552ca0ceb399ac21454
+Merge: ab1b970 571a03a
+Author: kumbirai Ndoro <kumbirai.ndoro@wyoming-interactive.com>
+Date:   Thu Dec 7 16:10:14 2023 +0000
+
+    Merge branch 'feature/Technology' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into feature/Technology
+
+commit ab1b9707662824f25989e2711c33fea9396cb2ce
+Author: kumbirai Ndoro <kumbirai.ndoro@wyoming-interactive.com>
+Date:   Thu Dec 7 16:10:12 2023 +0000
+
+    Kumbirai added Kumbirai
+
+commit 571a03aec9d6f0a6aee40a5fc8e4c117e55f084d
+Author: Simon Bolder <simonbolder1@gmail.com>
+Date:   Thu Dec 7 16:10:05 2023 +0000
+
+    Updated google cloud storage - added comment
+
+commit a1a808b0d426d5a04201a4f30d87f526ff476249
+Author: Simon Bolder <simonbolder1@gmail.com>
+Date:   Thu Dec 7 16:08:12 2023 +0000
+
+    Added googel cloud storage - again
+
+commit abb22393a9993d2a1f8a7f66a96aaa79dc335222
+Merge: f6a5961 26f3171
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 16:07:44 2023 +0000
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit f6a596110b5f46d0491e5473f8c76902af730ce1
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 16:07:43 2023 +0000
+
+    removed the reference of MQTT from the technology logical layer
+
+commit 26f31716338e41f3ac62b64e69a56d0a434f9190
+Merge: 5b783e0 afeb7fd
+Author: Timothy Galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Thu Dec 7 17:01:27 2023 +0100
+
+    Merge pull request #3 from mmic-collaboration/feature/Technology
+    
+    Updated Cloud Storage service in cloud platform
+
+commit afeb7fd2b523fc5e9630ff3ef64b61b56afb8bfe
+Author: Juergen29 <j.back@siemens.com>
+Date:   Thu Dec 7 17:00:16 2023 +0100
+
+    Example change on Technology View - Cloud Platform
+
+commit cbec22c2a1b8f5859b281fdb7ac9561a32d1c39e
+Merge: d394285 d027c80
+Author: kumbirai Ndoro <kumbirai.ndoro@wyoming-interactive.com>
+Date:   Thu Dec 7 15:46:58 2023 +0000
+
+    Refresh/Publish of branch 'feature/Technology' with some conflicts solved.
+
+commit d3942859c444396a88527844db81057ebfa511b0
+Author: kumbirai Ndoro <kumbirai.ndoro@wyoming-interactive.com>
+Date:   Thu Dec 7 15:46:35 2023 +0000
+
+    Added IBM, could have added oracle
+
+commit d027c80cd837a3bc40e8ed693a0e9dbd61a616ae
+Merge: 4ce85c4 a210d3c
+Author: Simon Bolder <simonbolder1@gmail.com>
+Date:   Thu Dec 7 15:46:31 2023 +0000
+
+    Merge branch 'feature/Technology' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into feature/Technology
+
+commit 4ce85c470692febbe8f0e1c31d637247a5555078
+Author: Simon Bolder <simonbolder1@gmail.com>
+Date:   Thu Dec 7 15:46:29 2023 +0000
+
+    Simon B added Google cloud storage to cloud platform view
+
+commit a210d3c8d62cce691571e3ecacb424ec906fcef7
+Author: epolanoAWS <153076270+epolanoAWS@users.noreply.github.com>
+Date:   Thu Dec 7 15:45:03 2023 +0000
+
+    Added AWS DataZone.
+
+commit 5b783e0633774327372d7d49069719c323426d48
+Merge: 1cb8700 084a673
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Thu Dec 7 14:41:40 2023 +0100
+
+    Merge branch 'development' of git@github.com:mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 1cb87009d883708c0d2ec375e1b22e4c8696bcc2
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Thu Dec 7 14:41:36 2023 +0100
+
+    created training views
+
+commit 084a673fbc170945d12ca3b0dd4ef40435b6671f
+Merge: 44c6b20 c1a4f7d
+Author: sp8ndey <145468719+sp8ndey@users.noreply.github.com>
+Date:   Thu Dec 7 13:38:07 2023 +0000
+
+    Merge pull request #2 from mmic-collaboration/feature/Technology
+    
+    Minor change
+
+commit 44c6b20c3ce81766d6e8bf47a32b4f0b89ddd7ac
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 13:29:35 2023 +0000
+
+    removed the reference of palo alto reference from technology layer
+
+commit c1a4f7d0957d6d3232d7c24bc0a41329eec31526
+Author: t-ives <t-ives@its-ltd.co.uk>
+Date:   Thu Dec 7 13:24:30 2023 +0000
+
+    Extended title box
+
+commit b0672de07789618999c1172f88a64880ac2f7f04
+Merge: c72eb60 6a3d7bd
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 12:54:50 2023 +0000
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit c72eb6037865a9cae0caa772180d83891651c679
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 12:54:49 2023 +0000
+
+    Implementation of SHA256 on technology layer
+
+commit 6a3d7bd1e342492bdc1f8fe11b14d7fc4c860b03
+Merge: 748e548 446b3a7
+Author: Timothy Galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Thu Dec 7 13:16:37 2023 +0100
+
+    Merge pull request #1 from mmic-collaboration/feature/Technology
+    
+    Erik test change to ZZ
+
+commit 748e548ccf8c5eb38d7c1516fa8ae3745af6e1c8
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 10:45:32 2023 +0000
+
+    Updated the technology layer with additional description on IoT and Event Hub
+
+commit a9e29b44ebb39874e0a8c295bde7e30c9c5f5c70
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 10:28:32 2023 +0000
+
+    Added the Gartner's reference on the technology layer for IoT and Event Hub software selection
+
+commit ff0c4911406ed1d1b364d34cf5220dade482f629
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 10:08:45 2023 +0000
+
+commit 8beacddc3b5092b9c8c9eb82bc00070c5fccae70
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 08:37:18 2023 +0000
+
+    added data obsfucation to the technology layer
+
+commit d9d3ff409f15113529ae996d40af8e628c5859c1
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Dec 7 08:15:36 2023 +0000
+
+    updated the technology layer description of components
+
+commit 446b3a7bb58427949c54bd46e414cad6316ba988
+Author: epolanoAWS <153076270+epolanoAWS@users.noreply.github.com>
+Date:   Wed Dec 6 13:18:51 2023 +0000
+
+    Erik test change to ZZ
+
+commit 005bd9b3ca94ece328b5f4a2741f73f931fb4f1e
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Dec 6 11:29:49 2023 +0000
+
+    Created documentation of tthe echnology view with descriptions
+
+commit 8c0b08fcabdfb1283c5bf0985e0272e4c39398da
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Dec 5 12:58:37 2023 +0000
+
+    minor update on the technology view
+
+commit 88d3cb5489fe2e1bbf76829c61ce4f86377c4c29
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Dec 5 12:28:56 2023 +0000
+
+    updated the technology view architecture
+
+commit 87bfff4f38acef0275bc18cfa444b4b8327994d6
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 16:38:27 2023 +0000
+
+    Updated the technology view
+
+commit e302de780fb70f0e14bf49044e67845cc5958ec9
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 16:28:45 2023 +0000
+
+commit a72a76a572aaf3aea91026d198d5e1d7c39eef57
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 16:27:03 2023 +0000
+
+commit e56a4632bc424cb112bf1b41b48ef4b6401885c7
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 16:25:22 2023 +0000
+
+    Updated the technolgy view
+
+commit 7a6015208a1a40c117d3f86d13d84be38b223782
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 15:52:44 2023 +0000
+
+    Updated the technology view
+
+commit 4347c9e5f0f82a5d2f582ad671484e27616516dd
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 14:40:05 2023 +0000
+
+    Created  technology logical viewpoint
+
+commit db6a810ff8962fbdec12baee000b4efaaa76414c
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Dec 4 12:00:36 2023 +0000
+
+    Changed name of capability map view to reflect alignment with DPMM 2.0 not 3.0
+
+commit 1efd75ee5f23540a439c443a83afe6afde176001
+Merge: 745f71a b2d62a0
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Dec 4 11:59:10 2023 +0000
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+
+commit 745f71af37b262a4dad1c71d01c8965093f2dfa9
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Dec 4 11:58:48 2023 +0000
+
+    Core team review and categorisation of architecture views
+
+commit b2d62a0821846794a362c9643625e2e3874708d9
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Dec 4 11:19:44 2023 +0000
+
+    updating technology view
+
+commit 9e242f0644cef4d4aa36d79c99d60089b13fc538
+Author: Juergen29 <>
+Date:   Fri Dec 1 15:04:46 2023 +0100
+
+    Change of Automation and materials handling
+
+commit a7d41929a97de2a39acdc87497ce9e1ecf6e92c3
+Author: jmgtaylor <m-taylor@its-ltd.co.uk>
+Date:   Fri Dec 1 13:53:07 2023 +0000
+
+    move down one block "tech tranfers", although stays in same group#
+    Minro change for testing
+
+commit 06d2f1b504d896fce4be0f979d155045ff80de99
+Author: jmgtaylor <m-taylor@its-ltd.co.uk>
+Date:   Fri Dec 1 13:52:08 2023 +0000
+
+    test, nophysical changes made
+
+commit 20d69d6584003bf761c0163536de55c9bdbd6006
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Nov 27 09:27:37 2023 +0000
+
+    minor link update
+
+commit acbad0ef8ba0f9535d6f081bbf8e963e851568c1
+Merge: 9c2f978 3e40dc7
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Nov 24 15:00:45 2023 +0000
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+
+commit 9c2f9781a766bcdebf7fcc4f05112a6addc24df1
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Wed Nov 22 16:34:29 2023 +0000
+
+    Update process CDM for real time release
+
+commit 3e40dc776656b0a52305a1716d222ffd5af22025
+Merge: bac1ef3 d219ad0
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Nov 21 13:34:28 2023 +0100
+
+    Merge branch 'development' of git@github.com:mmic-collaboration/mmic-architecture-repository.git into development
+
+commit bac1ef354991983cd1cd8a5841f3541dcf514b81
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Nov 21 13:34:16 2023 +0100
+
+    updated component design for sensor events
+
+commit d219ad067c1f3998c9537c3be24aa22c30d3be65
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Nov 14 15:14:16 2023 +0000
+
+    Minor updates on architecture
+
+commit af0080ce54a8d1e9c700f41be05d9e862bb2e336
+Merge: a740698 fb18d96
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Nov 13 09:15:45 2023 +0000
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit fb18d9684c47f8fa82882b42652572b692826917
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Thu Nov 9 12:37:26 2023 +0100
+
+    updated Sensor Events layered view (repo version 1.0.3)
+
+commit a740698e24aee8aa8ba829529107c9cd60885ed5
+Merge: 3a8eb7b 758d356
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Nov 6 15:15:50 2023 +0000
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+    
+    Restored Objects:
+    Restored Concepts:
+    CompositionRelationship
+    AggregationRelationship
+    AggregationRelationship
+
+commit 3a8eb7bcafda98ef35e87f797b5a76b30b55e0e0
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Nov 6 15:15:25 2023 +0000
+
+    updates
+
+commit 758d3566361318c5500cfd4209a37b0da165051a
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Nov 6 11:09:01 2023 +0100
+
+    updated version to 1.0.2 (to align with release on 25/10/2023)
+
+commit 55b76ab07de9e7a96ed72a6f5bd01872045e23b3
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Nov 6 11:07:15 2023 +0100
+
+    updated model version - 0.10.1
+
+commit dc83a570fa9b12cef2063724b97cb96fdc7a3088
+Merge: 0cb246b a60e873
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Nov 6 11:05:47 2023 +0100
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+
+commit 0cb246b31b89181ad3bdf04afca5194d7a312281
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Nov 6 11:05:09 2023 +0100
+
+    fixed data services to align with 0.9 of the data strategy document
+    added sensor event view based on workshop with martin
+    various minor fixes
+
+commit a60e873811de3463c2040006331e1d8481537d01
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Thu Nov 2 11:11:29 2023 +0000
+
+    Minor changes and alignment of diagrams
+
+commit 83625c26229aa07d3d2af25e5a0838eea5d7fd9d
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Fri Oct 27 11:12:35 2023 +0100
+
+    Minor update to sensor event architecture
+
+commit 03fc29da5076f0ce4d1cdba8d312d5be6d029cc5
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Oct 25 15:56:31 2023 +0100
+
+    minor update to Sensor architecture
+
+commit 7a930e6efcb7c18750adfb18d79e11a6c492a76a
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Oct 25 12:54:34 2023 +0100
+
+    Updated the Sensor Event Architecture
+
+commit 56ef8696ec742b206109349267e328dabcc08a70
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Oct 25 12:37:53 2023 +0100
+
+    Sensor Events Architecture updates
+
+commit 108827bab9732e4078f2f63e99a3eeac5466c1c3
+Merge: 17c1fb1 476814d
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Oct 25 11:44:11 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 17c1fb1de0f719b9bb34a36cdfd7080a24f0a39f
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Oct 25 11:44:10 2023 +0100
+
+    Sensor architecture updated
+
+commit 476814d11f8ed59ef3a0f5473ed8ea6427458ccf
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Oct 25 12:42:20 2023 +0200
+
+    removed unused/duplicate elements across the model
+
+commit cab5ef0e9a9ac2562956ca54acc91437ff044ec0
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Oct 25 12:31:42 2023 +0200
+
+    added level 1 integration services view "Digital Membership Data Services"
+
+commit 9586f4229fdebbbf208e3f6ac8a4592b8bcd09a3
+Merge: cfe7090 26cf7c1
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Oct 25 12:14:23 2023 +0200
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+
+commit cfe70904bee643e072f6e3f63605ed1ab9c4bfca
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Oct 25 12:14:04 2023 +0200
+
+    updated model version to 0.9.2
+
+commit 26cf7c12e60828bc9296b3b8cb27d3a642dc412f
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Wed Oct 25 08:46:38 2023 +0100
+
+    Updated the sensor events architecture
+
+commit b722886ebfb6322250675667293693929a3f8c36
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Tue Oct 24 21:10:36 2023 +0100
+
+    Added missing definition
+
+commit 6d4c975139bebc84da973cbbec338fcb42b29648
+Merge: bb04566 b5e7e4c
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Oct 24 20:04:11 2023 +0200
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+    
+    Restored Objects:
+    Restored Concepts:
+    Data Object (DataObject)
+    IoT Device (Equipment)
+    Suscribe IoT messages (SystemSoftware)
+    generates IoT messages (AssociationRelationship)
+    AggregationRelationship
+    AssociationRelationship
+    recieve IoT messages (AssociationRelationship)
+
+commit bb045665b980197e8e92ffa5cebe5f2f9361c368
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Oct 24 20:04:01 2023 +0200
+
+    added data services
+
+commit b5e7e4c534f96783fea16197d735a36192de943b
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 16:00:51 2023 +0100
+
+    Split the generic meta model  to multiple business motivation layered view
+
+commit c480579259abb55e1cfea2eb58f7d0ee3881703c
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 15:07:02 2023 +0100
+
+    Updated the model
+
+commit 025291e370b8048ccb0624eb55a7eb621dfab36e
+Merge: 22434fe fecaf5d
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 15:01:40 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 22434fed4a1e9584e4f5048d62d1542b0500c6b1
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 15:01:39 2023 +0100
+
+    Updated the  event based sensor processing model
+
+commit fecaf5da0648edd58b03b8507bb39390358a0c29
+Merge: 05f77e4 2fbac64
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Tue Oct 24 12:46:45 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 05f77e4fd6b222610fbf9acbf5a4f7cad245c7b4
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Tue Oct 24 12:46:44 2023 +0100
+
+    Added missing definition
+
+commit 2fbac6410a859e4525ab16aba7405f0c5ded91bc
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 10:40:37 2023 +0100
+
+    Updated the sensor events architecture
+
+commit 30b45852ac13fa68158b0b14c6611391b8bc8f37
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 10:38:45 2023 +0100
+
+    minor update- removed IoT reference
+
+commit 9cc2456cc70c47ddce05ab32834980a33883f27c
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Tue Oct 24 10:30:22 2023 +0100
+
+    Removed the requirement from Motivation meta model and also removed the reference of IoT with Sensor
+
+commit 6046490437273628514b3d7bbe9b36d87413d0a4
+Merge: 240a8e9 6ff9de1
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 16:50:42 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 6ff9de1f813e983444f33f8441b855b9ab226c7b
+Author: martin-keane-cpi <martin.keane@uk-cpi.com>
+Date:   Mon Oct 23 16:50:03 2023 +0100
+
+    adding view to model to capture API Synthesis process
+
+commit 240a8e9db6c9ee26700ca4f779ffef6ead96e8f2
+Merge: a38304e 0c6d54d
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 16:44:36 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit a38304eb31fec14da12bcb8d125acea54a57ed2a
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 16:44:35 2023 +0100
+
+    Corrected capability in motivation view
+
+commit 0c6d54d8683e4ea11948bfc708f5873a990fe1ec
+Author: martin-keane-cpi <martin.keane@uk-cpi.com>
+Date:   Mon Oct 23 16:43:15 2023 +0100
+
+    Updated model to include Biological business service
+
+commit be4fd7b3c46e19f8f9d7f93cd12d4ef1c6bebdd5
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 15:11:31 2023 +0100
+
+    minor update
+
+commit 183eaaaf604ce21ed9066545d1e15b1922762a93
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 15:10:29 2023 +0100
+
+    iot update
+
+commit 05c03a483b4d939be38a993ea19d3ca7bb381454
+Merge: 28175dd c7726f5
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 15:02:04 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 28175ddef4eba7a1e1e0546df0935ce5fa3809c3
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 15:02:03 2023 +0100
+
+    updated the design
+
+commit c7726f51eb0f397538e2307c6d731550c6b45c19
+Merge: 5ec3b31 152d9d7
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 14:09:26 2023 +0100
+
+    Refresh/Publish of branch 'development' with some conflicts solved.
+
+commit 5ec3b311c62b59ddf2b42f513582c402d06e8b42
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 14:09:01 2023 +0100
+
+    Updated capabilities in motivation views
+
+commit d09ad3f725ef7d8bf0c04e0b98ff0e1e8939b3ef
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 14:05:23 2023 +0100
+
+    Updated capabilities in motivation views
+
+commit 53bd4345476ee66eacd3aeeab09515c5619e54a4
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Mon Oct 23 14:03:34 2023 +0100
+
+    corrected data analytics capabilities in motivation views
+
+commit 152d9d7c464db135ed212ba080e7f2908e3a6f96
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 12:05:13 2023 +0100
+
+    Motivation package clean up
+
+commit 3ab74c22ffad907a72339629aed4abd62280081c
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 10:27:22 2023 +0100
+
+    Deleted data mesh, data fabirc model and architecture after discussing with Tim
+
+commit bb5c46e29154b0237a4c90f55b220744562465c1
+Merge: db5fe6d 566694b
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 10:20:08 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit db5fe6d9234d93a67ec7fedbdabe9a102a5dd962
+Author: sp8ndey <suryakant.pandey@mercatordigital.com>
+Date:   Mon Oct 23 10:20:07 2023 +0100
+
+    Removed capability
+
+commit 566694b98bcfc06dd15601632949a98a993fa14a
+Merge: d96c11a b4c5219
+Author: martin-keane-cpi <martin.keane@uk-cpi.com>
+Date:   Mon Oct 23 10:01:28 2023 +0100
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit d96c11a93ff5e14bd53420ce5a469b46415cd0bf
+Author: martin-keane-cpi <martin.keane@uk-cpi.com>
+Date:   Mon Oct 23 10:01:27 2023 +0100
+
+commit b4c5219acf6a71383c6be2e1f974022ba72867cd
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Oct 23 10:18:18 2023 +0200
+
+    edits to integration services
+
+commit 43aa014d4e5b235b62b7554dff1d3b82dfe56661
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Oct 23 09:25:55 2023 +0200
+
+commit d0f26afb09c924891a37cd88da2e8bf7e56ee339
+Merge: c071266 8001f09
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Oct 23 08:48:59 2023 +0200
+
+    Merge branch 'development' of git@github.com:mmic-collaboration/mmic-architecture-repository.git into development
+
+commit c0712667e470b099c6dc281544090353c564b517
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Mon Oct 23 08:48:53 2023 +0200
+
+    refresing (no changes)
+
+commit 8001f09568f6e8f7404b44b738c35a26eed2a13b
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 17:44:56 2023 +0100
+
+    Updated "Business motivation view - generic meta model" to conform to strategic objectives and stakeholder documents
+
+commit 0c5ffa741299870ea93c2cc94c6f8753ea5ec169
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 17:36:56 2023 +0100
+
+    Updated stakeholders to match slide deck
+
+commit 5174c6c1746c75cdd80e183d72cfc2e3abb2315d
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 17:04:09 2023 +0100
+
+    Marked tableting process with CQAs as draft for future use - don't have time to do it for this release
+
+commit f151385298cd3158cae1cd08fa3693eec278ae30
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 17:00:32 2023 +0100
+
+    Added definitions to process domain
+
+commit 6f20c278c3f74bfe201bfe696a74e94c385a5601
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 16:46:51 2023 +0100
+
+    Added definitions to architecture principles
+
+commit 10a33324d8f2b312edb72f935544585819e05730
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 10:57:31 2023 +0100
+
+    Added rota to process domain
+
+commit 243adc5747bb055b9e7e600b7f694c7225092f27
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Fri Oct 20 09:00:59 2023 +0100
+
+    Started tabletting process view with CQAs
+
+commit 0869dad179a2899c382a095bf9ac087b58c72baa
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Thu Oct 19 19:06:35 2023 +0100
+
+    Added more capability definitions
+
+commit 6232d194043f93b018c6a35ea60a08a84c5b70cb
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Thu Oct 19 18:29:01 2023 +0100
+
+    Added missing definitions to cyber security capabilities
+
+commit 989d7c03da686411350f787b14dda55ade591907
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Thu Oct 19 13:00:38 2023 +0100
+
+    Updated eCOA capability
+
+commit 66ef2345c799fa7f3488f6c934ad47070d1ff2c1
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Thu Oct 19 10:05:02 2023 +0100
+
+    Added definition to data storage capability
+
+commit 2f8f4610696587eacce418010497a503c4e41a80
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Oct 18 23:24:41 2023 +0200
+
+    syncing interim repo with the baseline of the model from 181023
+
+commit c2a6bebf44119448e3eceb6f931caf0612a55046
+Author: jess-andrews <jess.andrews@uk-cpi.com>
+Date:   Wed Oct 18 12:51:19 2023 +0100
+
+    Typo correction
+
+commit fca32f5fbb52011012f972abf184545c37f85371
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Oct 18 12:03:55 2023 +0200
+
+    added images directory
+
+commit ea457f99602e328ccfac533053930be73c15a733
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Tue Sep 26 16:38:33 2023 +0100
+
+    updated data object
+
+commit 90522f321059d50e4ec2029b2d95be61d0ae6ba6
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Mon Sep 25 10:49:06 2023 +0100
+
+    minor update
+
+commit 0b0896c40a60a8bd6e5810b3505ffc6c58d9214b
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Sun Sep 24 17:38:58 2023 +0200
+
+    Baseline version 0.1.1
+    Various minor corrections, organisation of views
+
+commit 758fcd490d3b07c704b96de36347926894a0148d
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Fri Sep 22 16:26:19 2023 +0100
+
+    Updated merge
+
+commit dc2ff2471c70db2cfbeedee05537d8fe50738b65
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Fri Sep 22 16:24:29 2023 +0100
+
+    added the IoT architecture
+
+commit b860667ed8eee608118768436e2b6920efe1e9b2
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 20:43:14 2023 +0200
+
+    adding rest of images
+
+commit cb1bee98235bff2bc4e3a8978cc1e031024c1648
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 20:21:44 2023 +0200
+
+    resized image.  again
+
+commit 8e3cd4520e733b69478006b2faf4f9b2332fe774
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 20:14:26 2023 +0200
+
+    resized image
+
+commit 4cb18cc4e64a0a72d7d042957f79d98cb6d0e2e8
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 20:08:08 2023 +0200
+
+    Updated PAT readme
+
+commit bd2f3c8974cd82bd6d7d71036caf8437dbf43707
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 19:58:41 2023 +0200
+
+    pat readme
+
+commit fcf2ca92a094f1ebfdbfa161053cb1d03901f5fa
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 19:47:35 2023 +0200
+
+    Updated PAT readme
+
+commit 60683a8e2ae79b05187d85abfedd5c0fe6a45808
+Merge: 4615445 06c81c5
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 17:52:34 2023 +0200
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 4615445b07b0be5d944fd4159ea92afb77181a85
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 17:52:08 2023 +0200
+
+    minor change
+
+commit 06c81c5cd0ff388c5aea7a684b9f8d53ff9d90e0
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Tue Sep 19 14:25:12 2023 +0100
+
+    Added additional requirements
+
+commit e373d40448c42992a0c56c37e38bce47bba452e4
+Merge: c336401 407d558
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Tue Sep 19 12:53:36 2023 +0100
+
+    Merge branch 'development' of git@github.com:mmic-collaboration/mmic-architecture-repository.git into development
+
+commit c33640181c61174d8029585bdd3589760448df8e
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Tue Sep 19 12:53:29 2023 +0100
+
+    minor update: aligment of diagram
+
+commit 0c5d84a0b58c2d11b6032b0710d0d4523c035aff
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 13:47:48 2023 +0200
+
+    another tiny test change
+
+commit 407d5582390d7a62589b144eead449bef3d60267
+Merge: 9a8777a a014eea
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 13:47:03 2023 +0200
+
+    Merge branch 'development' of https://github.com/mmic-collaboration/mmic-architecture-repository.git into development
+
+commit 9a8777a8ac8f96edde2dc1fbc4fad4ddd5f076c4
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 13:46:30 2023 +0200
+
+    tiny change for testing
+
+commit a014eea2417c69719962608ce1fc83b4d781e49f
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Tue Sep 19 12:33:58 2023 +0100
+
+    Updated the architectural principles
+
+commit 973d25cdec740ab5512b4d5cb96a021cf7e54680
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 19 10:59:19 2023 +0200
+
+    syncing
+
+commit c73152bc460a823cd7ed9cc9a7bc824671c092ed
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Fri Sep 15 15:45:21 2023 +0100
+
+    updated by sp
+
+commit e3289e255e46f2b28532f48bcbab76acd3343d01
+Author: spand8y <suryakant.pandey@gmail.com>
+Date:   Fri Sep 15 15:39:41 2023 +0100
+
+    by suryakant
+
+commit a9dd99d58433b38524d60809187ca7d5a8b53dbd
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Fri Sep 15 14:49:01 2023 +0200
+
+    and another pat test!
+
+commit 42b26a5c8aa38b3ebd4cd5985126fba5573788a7
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Fri Sep 15 14:38:26 2023 +0200
+
+    testing PAT tokens
+
+commit 9d773397f0104a1965053751ff1b2e3bdaa92c40
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Fri Sep 15 14:10:16 2023 +0200
+
+    more minor changes following membership workshop on 13th sept
+
+commit 0a8100c9f417702b6bd0d67c75df4549c783b27b
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Fri Sep 15 14:09:41 2023 +0200
+
+    more minor changes following membership workshop on 13th sept
+
+commit 4c97141904b76a6f52416de53de71f0413dd053a
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Sep 13 18:20:05 2023 +0200
+
+    minor changes to model during membership DDD workshop 13 sept
+
+commit b52ce889df5737bb49a566e69c151ec1ae209c56
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Wed Sep 13 18:19:27 2023 +0200
+
+    Minor updates to PLANT domain from Membership DDD workshop 13 sept
+
+commit 3071497f513487f89c84d1cf10d21fae20e13447
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 12 14:32:54 2023 +0200
+
+    small test change
+
+commit d7622ed1b8f5e8d125ff5811cb5edbaa03ce6aa8
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 12 14:32:43 2023 +0200
+
+    small test change to test view
+
+commit 80774e59ad4647bf2a5e9fb431eec07e292e17d3
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 12 14:10:24 2023 +0200
+
+    Checking in model post "PLANT Domain Analysis" workshop 11/9/23
+
+commit 5f6a63c68f9206563ab8c1c38abccfc413885491
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 12 14:02:56 2023 +0200
+
+    Initialising the repository...
+
+commit 735af4347c526e42302e03ee1e09b4626e6f99da
+Author: timothy galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 12 13:58:34 2023 +0200
+
+    First Commit
+
+commit 72119703f19eb2361166c26340ba0699b0efcb06
+Author: Timothy Galvin <33008974+timothygalvin@users.noreply.github.com>
+Date:   Tue Sep 12 13:51:54 2023 +0200
+
+    Initial commit

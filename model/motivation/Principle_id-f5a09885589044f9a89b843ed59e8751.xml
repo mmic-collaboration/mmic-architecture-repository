@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Timeliness"
+    id="id-f5a09885589044f9a89b843ed59e8751"
+    documentation="Ensure that business operations are not affected by the time taken to provide that data to the end users in other words, the latency of the data should be appropriate for its use. &#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>
