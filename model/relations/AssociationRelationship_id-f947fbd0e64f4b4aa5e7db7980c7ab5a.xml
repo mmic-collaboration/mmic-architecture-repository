@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPT1"
     id="id-f947fbd0e64f4b4aa5e7db7980c7ab5a">
   <source
       xsi:type="archimate:Grouping"
