@@ -18,7 +18,7 @@
     <bounds
         x="48"
         y="36"
-        width="1057"
+        width="1069"
         height="481"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -45,7 +45,7 @@
       <bounds
           x="12"
           y="24"
-          width="1033"
+          width="1045"
           height="445"/>
       <children
           xsi:type="archimate:DiagramModelGroup"
@@ -264,9 +264,9 @@
               href="AssociationRelationship_id-22a7ce5296b344b2ba450a780342280b.xml#id-22a7ce5296b344b2ba450a780342280b"/>
         </sourceConnections>
         <bounds
-            x="588"
+            x="624"
             y="390"
-            width="433"
+            width="397"
             height="43"/>
         <archimateElement
             xsi:type="archimate:CommunicationNetwork"
@@ -316,7 +316,7 @@
               href="CompositionRelationship_id-1ef14beefdc7466c8b4d50b56cfd196a.xml#id-1ef14beefdc7466c8b4d50b56cfd196a"/>
         </sourceConnections>
         <bounds
-            x="588"
+            x="624"
             y="120"
             width="277"
             height="217"/>
@@ -405,16 +405,16 @@
               href="AssociationRelationship_id-0adc0feb90064152b7b48009fadb4e40.xml#id-0adc0feb90064152b7b48009fadb4e40"/>
         </sourceConnections>
         <bounds
-            x="684"
+            x="624"
             y="12"
-            width="313"
+            width="397"
             height="97"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-875cbe2959b64f41abe5100037974eae"
             targetConnections="id-80c359c4656f41339a0c72c0f3e5715a">
           <bounds
-              x="26"
+              x="86"
               y="24"
               width="265"
               height="55"/>
@@ -694,7 +694,7 @@
           href="AssociationRelationship_id-655e1ab547694e328faa87e2761fc899.xml#id-655e1ab547694e328faa87e2761fc899"/>
     </sourceConnections>
     <bounds
-        x="1200"
+        x="1224"
         y="436"
         width="188"
         height="81"/>
