@@ -483,8 +483,8 @@
           href="CompositionRelationship_id-974c7e39b9594c088dd396d33451b57d.xml#id-974c7e39b9594c088dd396d33451b57d"/>
     </sourceConnections>
     <bounds
-        x="1392"
-        y="24"
+        x="1512"
+        y="30"
         width="529"
         height="493"/>
     <children
@@ -694,7 +694,7 @@
           href="AssociationRelationship_id-655e1ab547694e328faa87e2761fc899.xml#id-655e1ab547694e328faa87e2761fc899"/>
     </sourceConnections>
     <bounds
-        x="1164"
+        x="1200"
         y="436"
         width="188"
         height="81"/>
