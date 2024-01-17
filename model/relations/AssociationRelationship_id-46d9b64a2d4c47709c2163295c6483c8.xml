@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPT3"
+    id="id-46d9b64a2d4c47709c2163295c6483c8">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-98ccd742f89a4a41819a9688404f5a57.xml#id-98ccd742f89a4a41819a9688404f5a57"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-ca7a5a8a63064c04ac72f1d572f23197.xml#id-ca7a5a8a63064c04ac72f1d572f23197"/>
+</archimate:AssociationRelationship>
