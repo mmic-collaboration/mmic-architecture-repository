@@ -445,24 +445,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a738328c6e3941ad85c7d9f47ff109c6"
-          source="id-c9019dc16dff40ceaa62634940450dbf"
-          target="id-2bf82f51df004d669156eeafd87adf33">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-1719192b30fa4210bacb5f1c37e8cf2b.xml#id-1719192b30fa4210bacb5f1c37e8cf2b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d9f519eefeea43c6a72445750d062117"
-          source="id-c9019dc16dff40ceaa62634940450dbf"
-          target="id-13b2a8da977043e29044991b4485b139">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-3e4b7510609546f9a31ac2fa82729365.xml#id-3e4b7510609546f9a31ac2fa82729365"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a19324250b8d4719b8db001cb4578ba5"
           source="id-c9019dc16dff40ceaa62634940450dbf"
           target="id-d07ac613933a424ba9c13c7cdefb3bb1">
@@ -487,6 +469,24 @@
           <archimateRelationship
               xsi:type="archimate:RealizationRelationship"
               href="RealizationRelationship_id-aec7e51486c442a2963c925e3bf1ac03.xml#id-aec7e51486c442a2963c925e3bf1ac03"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-a738328c6e3941ad85c7d9f47ff109c6"
+            source="id-1eadb7bd81eb4b48986635749e3dc694"
+            target="id-2bf82f51df004d669156eeafd87adf33">
+          <archimateRelationship
+              xsi:type="archimate:AssignmentRelationship"
+              href="AssignmentRelationship_id-1719192b30fa4210bacb5f1c37e8cf2b.xml#id-1719192b30fa4210bacb5f1c37e8cf2b"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-d9f519eefeea43c6a72445750d062117"
+            source="id-1eadb7bd81eb4b48986635749e3dc694"
+            target="id-13b2a8da977043e29044991b4485b139">
+          <archimateRelationship
+              xsi:type="archimate:AssignmentRelationship"
+              href="AssignmentRelationship_id-3e4b7510609546f9a31ac2fa82729365.xml#id-3e4b7510609546f9a31ac2fa82729365"/>
         </sourceConnections>
         <bounds
             x="24"
@@ -746,7 +746,7 @@
             targetConnections="id-bd15404c73ec4eb0904536f21b0583a7">
           <bounds
               x="168"
-              y="60"
+              y="84"
               width="120"
               height="43"/>
           <archimateElement
@@ -759,9 +759,9 @@
             targetConnections="id-91139e116cee4562a54bf6f1aa37d914">
           <bounds
               x="12"
-              y="90"
+              y="84"
               width="145"
-              height="37"/>
+              height="43"/>
           <archimateElement
               xsi:type="archimate:TechnologyFunction"
               href="TechnologyFunction_id-801eb6677778444c945a7fee1d4e45a7.xml#id-801eb6677778444c945a7fee1d4e45a7"/>
@@ -772,8 +772,8 @@
             targetConnections="id-d367ab326edb429eb91560d3f8d9ba9e">
           <bounds
               x="7"
-              y="36"
-              width="155"
+              y="24"
+              width="270"
               height="44"/>
           <archimateElement
               xsi:type="archimate:TechnologyFunction"
