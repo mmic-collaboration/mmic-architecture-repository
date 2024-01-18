@@ -273,7 +273,7 @@
           href="CompositionRelationship_id-4ebc9b97cd734bbab34eab7dfdd99bcf.xml#id-4ebc9b97cd734bbab34eab7dfdd99bcf"/>
     </sourceConnections>
     <bounds
-        x="2124"
+        x="2052"
         y="79"
         width="421"
         height="952"/>
@@ -1501,9 +1501,9 @@
       id="id-a8708ad677884e6aa30b4b24c9712f7e"
       targetConnections="id-9de3896effad4ef8964458f87422e8b2">
     <bounds
-        x="1788"
+        x="1824"
         y="468"
-        width="220"
+        width="144"
         height="72"/>
     <archimateElement
         xsi:type="archimate:CommunicationNetwork"
@@ -1534,7 +1534,7 @@
     <bounds
         x="1824"
         y="576"
-        width="124"
+        width="144"
         height="456"/>
     <archimateElement
         xsi:type="archimate:Path"
