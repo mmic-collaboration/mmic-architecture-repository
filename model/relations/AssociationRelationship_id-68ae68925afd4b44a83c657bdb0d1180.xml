@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CIA | DAD | Encryption"
     id="id-68ae68925afd4b44a83c657bdb0d1180">
   <source
       xsi:type="archimate:CommunicationNetwork"
