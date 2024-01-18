@@ -771,9 +771,9 @@
             id="id-5d3e1cbb9f404896b6e344144c5a7798"
             targetConnections="id-d367ab326edb429eb91560d3f8d9ba9e">
           <bounds
-              x="7"
+              x="12"
               y="24"
-              width="270"
+              width="276"
               height="44"/>
           <archimateElement
               xsi:type="archimate:TechnologyFunction"
