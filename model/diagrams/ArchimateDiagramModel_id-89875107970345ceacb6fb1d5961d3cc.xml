@@ -633,8 +633,8 @@
               width="193"
               height="73"/>
           <archimateElement
-              xsi:type="archimate:Equipment"
-              href="Equipment_id-68de0563c4504710b5a4f8580933d591.xml#id-68de0563c4504710b5a4f8580933d591"/>
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_id-99800f3a2f41411cbc18c44369b70585.xml#id-99800f3a2f41411cbc18c44369b70585"/>
         </children>
         <archimateElement
             xsi:type="archimate:Node"
@@ -677,8 +677,8 @@
               width="193"
               height="61"/>
           <archimateElement
-              xsi:type="archimate:Equipment"
-              href="Equipment_id-e007c9fbcac64fe293da2b5bf37d5a4b.xml#id-e007c9fbcac64fe293da2b5bf37d5a4b"/>
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_id-c3c759d679a040cab2e53666f1fded42.xml#id-c3c759d679a040cab2e53666f1fded42"/>
         </children>
         <archimateElement
             xsi:type="archimate:Node"
@@ -721,8 +721,8 @@
               width="181"
               height="49"/>
           <archimateElement
-              xsi:type="archimate:Equipment"
-              href="Equipment_id-1d1f5366505c4952b820311ed26fea3f.xml#id-1d1f5366505c4952b820311ed26fea3f"/>
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_id-ec0fa8a12dd8413b8ce454e5d4c0a919.xml#id-ec0fa8a12dd8413b8ce454e5d4c0a919"/>
         </children>
         <archimateElement
             xsi:type="archimate:Node"
