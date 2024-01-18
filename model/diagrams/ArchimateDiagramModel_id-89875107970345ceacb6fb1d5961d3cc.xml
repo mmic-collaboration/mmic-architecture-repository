@@ -1136,8 +1136,8 @@
             source="id-ffd16ce4a85d4eb59d39bbc8e2c6cea9"
             target="id-f19900f302734957a3bac5ce45967c02">
           <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-7354371bf4f542e7bf4750ac1002c252.xml#id-7354371bf4f542e7bf4750ac1002c252"/>
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-51a3a818915c4752834967806800f7bb.xml#id-51a3a818915c4752834967806800f7bb"/>
         </sourceConnections>
         <bounds
             x="384"
@@ -1155,8 +1155,8 @@
               width="169"
               height="37"/>
           <archimateElement
-              xsi:type="archimate:Artifact"
-              href="Artifact_id-8137e8ef2df942d2b6ba1f68e7f92ff1.xml#id-8137e8ef2df942d2b6ba1f68e7f92ff1"/>
+              xsi:type="archimate:TechnologyFunction"
+              href="TechnologyFunction_id-9e6b89baa56d467192b7727f568b35dc.xml#id-9e6b89baa56d467192b7727f568b35dc"/>
         </children>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
@@ -1221,8 +1221,8 @@
             source="id-3ef4ecb598ff46698ab9a281f7965885"
             target="id-10f92981d6d54cb589d31ccd52fc540d">
           <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-9609b199c2bb48e3bea96aafa58ca40c.xml#id-9609b199c2bb48e3bea96aafa58ca40c"/>
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-6923e73146cc4cc19fa934dc20dfa9fe.xml#id-6923e73146cc4cc19fa934dc20dfa9fe"/>
         </sourceConnections>
         <bounds
             x="204"
@@ -1240,8 +1240,8 @@
               width="144"
               height="61"/>
           <archimateElement
-              xsi:type="archimate:Artifact"
-              href="Artifact_id-fa1421af3a1b43579f6e9350713f1472.xml#id-fa1421af3a1b43579f6e9350713f1472"/>
+              xsi:type="archimate:TechnologyFunction"
+              href="TechnologyFunction_id-281b3c5291b2431ea9ad286b1b329025.xml#id-281b3c5291b2431ea9ad286b1b329025"/>
         </children>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
@@ -1257,8 +1257,8 @@
             source="id-026297850b32443187b0cab0eae994d0"
             target="id-e9b2219e8282479bbdf40edf5e4feb17">
           <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-1ed0bf0c586e41bebc1f472f0cf001bc.xml#id-1ed0bf0c586e41bebc1f472f0cf001bc"/>
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-7c90adb0195f458ba32fd221c168a751.xml#id-7c90adb0195f458ba32fd221c168a751"/>
         </sourceConnections>
         <bounds
             x="384"
@@ -1276,8 +1276,8 @@
               width="157"
               height="61"/>
           <archimateElement
-              xsi:type="archimate:Artifact"
-              href="Artifact_id-b498e2a909dd43b899fed5fe9e36baa3.xml#id-b498e2a909dd43b899fed5fe9e36baa3"/>
+              xsi:type="archimate:TechnologyFunction"
+              href="TechnologyFunction_id-f2ec6e639c534f99b8609ecdc17c251b.xml#id-f2ec6e639c534f99b8609ecdc17c251b"/>
         </children>
         <archimateElement
             xsi:type="archimate:SystemSoftware"

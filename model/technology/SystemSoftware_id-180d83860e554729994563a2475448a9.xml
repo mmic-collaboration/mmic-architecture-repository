@@ -1,5 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="System Software"
+    name="MQTT"
     id="id-180d83860e554729994563a2475448a9"
     documentation="This integration system software provides an API feature to persist, filter, schema registry, reference data, security, encryption of data at rest and in transit."/>
