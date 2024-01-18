@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Option 2: Modbus | MQTT | MTConnect"
+    name="Open Protocol Connectors"
     id="id-70feb175f45a44abb9065289165fb492"
     documentation="Modbus: An open source protocol  built using RS-232/485 and TCP/IP&#xA;MTConnect: An open source protocol to connect manufacturing equipments&#xA;OPC UA : An open source protocol used for industrial automation using HTTP, HTTPS and MQTT"/>

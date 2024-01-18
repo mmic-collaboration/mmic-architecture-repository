@@ -1,5 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technology Layer"
+    name="Sensor Flow Technology Layer"
     id="id-e640ce9bdbbe42f7a50a66a3b84767f4"
     documentation="Technology layer represents the logical view of end to end sensor data flow with publish, tranform, enrichment ,schema conformance and ready for analytical dashbaord."/>

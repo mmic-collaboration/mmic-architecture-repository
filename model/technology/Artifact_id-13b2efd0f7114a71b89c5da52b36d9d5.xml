@@ -1,5 +1,0 @@
-<archimate:Artifact
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gauranteed Event Payload  Delivery"
-    id="id-13b2efd0f7114a71b89c5da52b36d9d5"
-    documentation="Create a master reference data for sensor , error code, device id and location id&#xA;Guaranteed Message delivery via DB which holds master reference data"/>
