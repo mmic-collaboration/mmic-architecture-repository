@@ -1,5 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PROCESS Domain Schema"
-    id="id-c43f674d53bc400684c0586249d415d0"
+    name="PLANT Domain Schema"
+    id="id-2a4f0067e16041b08471dce2926e069a"
     documentation="Conformance of  message schema identified by the business domains i.e. Plant, Process, Labs etc.."/>

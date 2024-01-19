@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" "
     id="id-31a1b28e60e74aa5b7f8a15e458c6978">
   <source
       xsi:type="archimate:TechnologyService"
