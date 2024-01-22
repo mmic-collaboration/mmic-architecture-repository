@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPT1/2/3"
+    id="id-655e1ab547694e328faa87e2761fc899">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-11783650ea2344b1b52fcb754ee77bd0.xml#id-11783650ea2344b1b52fcb754ee77bd0"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-5275fc48b9bb4ad3b1af6cbf349206ab.xml#id-5275fc48b9bb4ad3b1af6cbf349206ab"/>
+</archimate:AssociationRelationship>

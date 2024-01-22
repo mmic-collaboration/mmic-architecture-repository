@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AZ Express Route"
+    id="id-d01a87fd0b6343c79fa7a637b86e575f">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-3d63ef93d19541548c9f13dc0050aae0.xml#id-3d63ef93d19541548c9f13dc0050aae0"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-11783650ea2344b1b52fcb754ee77bd0.xml#id-11783650ea2344b1b52fcb754ee77bd0"/>
+</archimate:AssociationRelationship>
