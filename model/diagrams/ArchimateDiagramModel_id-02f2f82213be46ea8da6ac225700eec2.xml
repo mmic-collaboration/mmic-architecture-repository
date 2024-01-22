@@ -101,7 +101,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c1090018b3974c57aad8252eeab87d76"
-          targetConnections="id-eb1d584b0db444b5a599109297ea26bb id-8e570bd953504dca8bf3501fc1c6d428">
+          targetConnections="id-eb1d584b0db444b5a599109297ea26bb">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-6fa10ea11f334d13bdf155cc7b9d4906"
@@ -788,15 +788,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-97abb8f317be41f293a588769db2acc3"
         targetConnections="id-59549f2ed5084dd1a133f31890699ad5 id-0410e2713a854411bab745c3404ed2a3 id-56f7e437e1aa49d5b9e3201f08bf1250 id-a6cf606bbb344a0e8b5b0aabccdef733">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-8e570bd953504dca8bf3501fc1c6d428"
-          source="id-97abb8f317be41f293a588769db2acc3"
-          target="id-c1090018b3974c57aad8252eeab87d76">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-9febeb437a2f4cf8afc78b6714b6ee6e.xml#id-9febeb437a2f4cf8afc78b6714b6ee6e"/>
-      </sourceConnections>
       <bounds
           x="24"
           y="48"
@@ -1104,8 +1095,8 @@
         source="id-71f4847ed25b4e08a3a953e0f6648595"
         target="id-5db3403aacfa402cbdc39ebf6a296437">
       <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-6930d0f7195340c5b362c637a9865f75.xml#id-6930d0f7195340c5b362c637a9865f75"/>
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-cee3df5c2c1b4a619af0fa3bd49cb587.xml#id-cee3df5c2c1b4a619af0fa3bd49cb587"/>
     </sourceConnections>
     <bounds
         x="1020"
@@ -1137,7 +1128,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5db3403aacfa402cbdc39ebf6a296437"
-        targetConnections="id-3555d04c2d7b4442aaa806719091049e id-08912b48e183405d8d78c760de07a3c9 id-1b4a92ebae5a4f7f93113a9f8a6fc33b">
+        targetConnections="id-3555d04c2d7b4442aaa806719091049e id-1b4a92ebae5a4f7f93113a9f8a6fc33b id-08912b48e183405d8d78c760de07a3c9">
       <bounds
           x="48"
           y="48"
