@@ -4,8 +4,8 @@
     name="conforms to"
     id="id-7a464e23d41740e5b4399cdb8ce6e3de">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-d6fa30de801b4df3bf2af5c33cb63a22.xml#id-d6fa30de801b4df3bf2af5c33cb63a22"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-56a94bbbcd304970bbed9f22c9606043.xml#id-56a94bbbcd304970bbed9f22c9606043"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_id-73a51857fad54ca48e005a9f22eeb11f.xml#id-73a51857fad54ca48e005a9f22eeb11f"/>

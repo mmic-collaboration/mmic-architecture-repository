@@ -6,6 +6,6 @@
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-e92729f8fc3f40fda79eb08f97d6032a.xml#id-e92729f8fc3f40fda79eb08f97d6032a"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-d6fa30de801b4df3bf2af5c33cb63a22.xml#id-d6fa30de801b4df3bf2af5c33cb63a22"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-56a94bbbcd304970bbed9f22c9606043.xml#id-56a94bbbcd304970bbed9f22c9606043"/>
 </archimate:CompositionRelationship>
