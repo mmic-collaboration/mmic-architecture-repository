@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality by Design"
+    id="id-8ef6683b713740e7a030d3e16e092a9c"
+    documentation="The required data quality-timeliness, accuracy, and relevance-should be considered during the design of the data products, including identification of the key data quality characteristic of the data and how these data will be measured.&#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>

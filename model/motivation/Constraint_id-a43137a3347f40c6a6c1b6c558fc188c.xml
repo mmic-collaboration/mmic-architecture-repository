@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Components shall be Decoupled"
+    id="id-a43137a3347f40c6a6c1b6c558fc188c"
+    documentation="Data components shall be decoupled from each other, exhibiting:&#xA; - thin data interfaces,&#xA; - ubiquitous technology agnostic protocols&#xA; - client driven consumption patterns (e.g. pub/sub)"/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publish Events"
+    id="id-9e6b89baa56d467192b7727f568b35dc"
+    documentation="This topic shall persist the message based on retension policy."/>
