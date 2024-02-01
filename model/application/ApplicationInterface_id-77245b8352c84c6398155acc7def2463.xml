@@ -1,4 +1,4 @@
-<archimate:ApplicationComponent
+<archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PROCESS Domain Service API"
-    id="id-70d27bc78f254c34bdc82605f35e54c9"/>
+    id="id-77245b8352c84c6398155acc7def2463"/>
