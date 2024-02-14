@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cycle"
+    id="id-1b7f9d20d0914e4f80b7d44286afbecd"
+    documentation="A Cycle represents the  processing span of an operation at a particular station for a particular instance of a product.  The end of the Cycle is marked by a Sensor Event."/>
