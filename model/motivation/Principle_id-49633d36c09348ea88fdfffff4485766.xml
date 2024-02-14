@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Common Data definition"
-    id="id-49633d36c09348ea88fdfffff4485766"/>
+    name="Common Data Definition"
+    id="id-49633d36c09348ea88fdfffff4485766"
+    documentation="common views and definitions of data should be maintained to facilitate interoperability of the systems and reduce data duplication across the different data domains, platforms and organisations.&#xA;(Digital Membership Data Strategy, v1.0, 3-Nov-2023)"/>

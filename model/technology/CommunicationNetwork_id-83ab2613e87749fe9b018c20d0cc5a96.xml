@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="private network"
+    id="id-83ab2613e87749fe9b018c20d0cc5a96"
+    documentation="Network security for both internal and external communication.&#xA;FW: ISP/Palo Alto/SASE"/>

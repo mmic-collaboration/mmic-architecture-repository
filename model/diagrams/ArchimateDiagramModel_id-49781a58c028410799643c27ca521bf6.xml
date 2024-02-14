@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ZZ_Example: Technology View Example"
+    name="Z2_Example: Technology View Example"
     id="id-49781a58c028410799643c27ca521bf6"
     viewpoint="technology">
   <children
@@ -95,7 +95,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3ea05656787f4f8cb1b3b46c7d9b591a"
-        targetConnections="id-114a810f2e4d42e4b3d447385666904c id-2979092d568d411896133a8529c52881">
+        targetConnections="id-114a810f2e4d42e4b3d447385666904c id-2979092d568d411896133a8529c52881"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c16de91b6cbb4d1cbf916c51b6173b30"
@@ -139,7 +140,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2c607090e5c948c6b197d7d562b289cb"
-        targetConnections="id-4b7a6c1d5b2b452194b14dc091333132 id-8710817adefd4176ab4802d3d470ce87">
+        targetConnections="id-4b7a6c1d5b2b452194b14dc091333132 id-8710817adefd4176ab4802d3d470ce87"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ad3347be201845f9bf722e6b20e8d761"
@@ -187,7 +189,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7a381fc9642545a4b5e3028c86efe83c"
-      targetConnections="id-ad3347be201845f9bf722e6b20e8d761">
+      targetConnections="id-ad3347be201845f9bf722e6b20e8d761"
+      type="1">
     <bounds
         x="-168"
         y="216"

@@ -16,4 +16,8 @@
   <properties
       key="version-date"
       value="9-Nov-2023"/>
+  <profiles
+      name="Specialization 1"
+      id="id-a4f8a0d5ae07471281bbcc15316aceb5"
+      conceptType="FlowRelationship"/>
 </archimate:ArchimateModel>
