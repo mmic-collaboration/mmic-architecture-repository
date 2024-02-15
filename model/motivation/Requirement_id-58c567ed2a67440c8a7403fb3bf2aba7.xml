@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPC 10031-4: ISA-95-4 Job Control"
+    id="id-58c567ed2a67440c8a7403fb3bf2aba7"
+    documentation="Title: OPC 10031-4: ISA-95-4 Job Control&#xA;Version: 2.00&#xA;Date: 2024-02-02&#xA;Scope: This document defines the OPC UA companion specification for ISA-95 Job Orders, ISA-95 Job Responses, and access to queued, executing, and completed job order status and responses.&#xA;&#xA;Version 2.0 of this specification has been updated with breaking changes; in that it is not compatible with version 1.0 of the specification. Thus, this specification defines a new namespace, allowing an older application to support both models if required.&#xA;Reference: https://reference.opcfoundation.org/ISA95JOBCONTROL/v200/docs/"/>

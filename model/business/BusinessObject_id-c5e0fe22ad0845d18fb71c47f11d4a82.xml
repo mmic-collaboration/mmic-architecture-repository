@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Schedule"
+    name="Work Request"
     id="id-c5e0fe22ad0845d18fb71c47f11d4a82"
-    documentation="A plan of which product will be produced on which manufacturing line at which time.   A Schedule can also specify maintenance events for specific Equipment Nodes on a Manufacturing Line"/>
+    documentation="Each Work Request is made up of one or more Job Orders which define the work to be done in a work center (such as a packaging line or production line).&#xA;(OPC Foundation, https://reference.opcfoundation.org/ISA95JOBCONTROL/v200/docs/4.1 )"/>

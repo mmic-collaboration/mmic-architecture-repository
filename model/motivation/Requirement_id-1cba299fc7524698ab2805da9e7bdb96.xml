@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OPC-UA-10000-3"
+    name="OPC-UA-10000-1"
     id="id-1cba299fc7524698ab2805da9e7bdb96"
-    documentation="Title: OPC Unified Architecture Part 3: Address Space Model"/>
+    documentation="Title: OPC Unified Architecture Part 1: Overview and Concepts&#xA;Version: 1.05.02&#xA;Date: 2022-11-01&#xA;Reference: https://reference.opcfoundation.org/Core/Part1/v105/docs/"/>

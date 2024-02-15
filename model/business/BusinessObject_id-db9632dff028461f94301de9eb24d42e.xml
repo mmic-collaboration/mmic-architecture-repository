@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Production Plan"
+    name="Work Schedule"
     id="id-db9632dff028461f94301de9eb24d42e"
-    documentation="The Production Plan documents the process that will be carried out to manufacture product for a specific order.  "/>
+    documentation="&quot;In ISA 95 a Work Schedule defines all the activities to be accomplished to meet a production request (or production order).  A Work Schedule is made up of one or more Work Requests, depending on how the work is to be split, such as one order for packaging of 1,000,000 bottles, to be executed as 4 separate work requests of 250,000 bottles each.&quot;&#xA;(OPC Foundation, https://reference.opcfoundation.org/ISA95JOBCONTROL/v200/docs/4.1 )"/>
