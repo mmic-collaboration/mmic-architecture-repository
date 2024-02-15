@@ -1,5 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Custom Open Protocol"
+    name="Custom Open Protocol connector"
     id="id-b7b4427097454bc58c908244359f2862"
     documentation="ETL| MQTT|OPC UA | MTConnect"/>

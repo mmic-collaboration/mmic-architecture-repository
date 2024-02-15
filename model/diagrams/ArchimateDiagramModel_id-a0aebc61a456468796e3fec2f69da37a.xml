@@ -776,7 +776,7 @@
           x="924"
           y="216"
           width="600"
-          height="361"/>
+          height="277"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-da9693384b614d7c9ddd5f3d26dc428e"
@@ -895,11 +895,33 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b5e4dd04b9e64d80bb5ac867941b41c5"
           targetConnections="id-1411b808cb0443cc96ea38873b63871a">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-ff8c64a4ae6f462cba3bce3231387674"
+            source="id-b5e4dd04b9e64d80bb5ac867941b41c5"
+            target="id-0f786565692d4abc81f7158987b70c60">
+          <archimateRelationship
+              xsi:type="archimate:AssignmentRelationship"
+              href="AssignmentRelationship_id-bc681e4116e14b93963cad579ab155dd.xml#id-bc681e4116e14b93963cad579ab155dd"/>
+        </sourceConnections>
         <bounds
             x="312"
             y="132"
-            width="264"
+            width="276"
             height="73"/>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="id-0f786565692d4abc81f7158987b70c60"
+            targetConnections="id-ff8c64a4ae6f462cba3bce3231387674">
+          <bounds
+              x="24"
+              y="24"
+              width="217"
+              height="37"/>
+          <archimateElement
+              xsi:type="archimate:TechnologyFunction"
+              href="TechnologyFunction_id-916676e896254980a3f3756af7f5fd62.xml#id-916676e896254980a3f3756af7f5fd62"/>
+        </children>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_id-ac262a1de19c4e8eac13b9c7ef5749af.xml#id-ac262a1de19c4e8eac13b9c7ef5749af"/>
@@ -909,10 +931,10 @@
           id="id-579175b52e864ff68440118c28096427"
           targetConnections="id-2149d3154fce48238dcac40ef1b1ae0a">
         <bounds
-            x="24"
-            y="240"
+            x="12"
+            y="216"
             width="576"
-            height="103"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:Device"
             href="Device_id-29d09cab08014b989d6e7705d94acc5b.xml#id-29d09cab08014b989d6e7705d94acc5b"/>
