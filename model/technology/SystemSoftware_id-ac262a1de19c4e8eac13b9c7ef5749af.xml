@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS IoT TwinMaker"
+    id="id-ac262a1de19c4e8eac13b9c7ef5749af"
+    documentation="AWS IoT TwinMaker:&#xA;To further enhance monitoring capabilities, AWS IoT TwinMaker will be used to create digital twins of  production lines. This will include integration with AWS IoT SiteWise for data ingestion and the creation of operation dashboards, KPIs, and 3D digital twins, serving as a central hub for timeseries data from various sources."/>
