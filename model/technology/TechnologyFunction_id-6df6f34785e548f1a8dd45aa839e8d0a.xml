@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Custom lambda fn"
-    id="id-6df6f34785e548f1a8dd45aa839e8d0a"/>
+    name="AWS lambda function"
+    id="id-6df6f34785e548f1a8dd45aa839e8d0a"
+    documentation="AWS lambda will enable data transformation and will intract with various domain using api capability."/>
