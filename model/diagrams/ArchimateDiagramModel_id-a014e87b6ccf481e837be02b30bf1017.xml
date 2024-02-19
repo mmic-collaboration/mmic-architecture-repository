@@ -1,9 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Data View - PLANT Domain CDM - Level 1 (old)"
+    name="Business Data View - PLANT Domain CDM - Level 1"
     id="id-a014e87b6ccf481e837be02b30bf1017"
-    documentation="A"
     viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
