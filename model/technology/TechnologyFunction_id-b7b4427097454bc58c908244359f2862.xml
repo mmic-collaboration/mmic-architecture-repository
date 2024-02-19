@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open Protocol Connector"
     id="id-b7b4427097454bc58c908244359f2862"
-    documentation="ETL| MQTT|OPC UA | MTConnect using labda api"/>
+    documentation="MQTT|OPC UA | MTConnect |Modbus"/>
