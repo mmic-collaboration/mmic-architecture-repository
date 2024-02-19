@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="fulfils"
+    name="is carried out for"
     id="id-7ca2481dbedc41bca146d6e2a7af218b">
   <source
       xsi:type="archimate:BusinessObject"

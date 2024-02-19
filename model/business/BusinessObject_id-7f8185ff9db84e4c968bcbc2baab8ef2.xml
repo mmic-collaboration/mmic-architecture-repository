@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="People Resource"
+    name="Operator"
     id="id-7f8185ff9db84e4c968bcbc2baab8ef2"
     documentation="People Resource refers to employees of the organisation who will operate manufacturing and lab equipment in order to complete the Production Plan.   "/>
