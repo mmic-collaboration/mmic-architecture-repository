@@ -684,14 +684,14 @@
       id="id-e0839eb6b7214ddf809c7f5423e95bf8"
       font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Only partially realised by LIMS. Other system(s) will do maintenance, calibration, asset management, and inventory management in a manufacturing environment.  ">
+      content="Only partially realised by LIMS. Other system(s) will do maintenance, calibration, asset management in a manufacturing environment.  ">
     <features
         name="gradient"
         value="1"/>
     <bounds
-        x="1562"
-        y="1140"
-        width="300"
+        x="1414"
+        y="1128"
+        width="214"
         height="49"/>
   </children>
   <children
