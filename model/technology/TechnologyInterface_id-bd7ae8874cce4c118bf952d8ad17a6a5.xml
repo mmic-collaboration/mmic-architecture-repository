@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Event Event API"
+    id="id-bd7ae8874cce4c118bf952d8ad17a6a5"
+    documentation="Internal API point with the processed data"/>
