@@ -1,5 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sitewise "
+    name="IoT Sitewise Components"
     id="id-55c94e94a1d44b1e82962c4937770d0c"
     documentation="AWS IoT SiteWise:&#xA;AWS IoT SiteWise will be the primary service for industrial data management. It will allow us to calculate critical metrics such as OEE and manage asset hierarchies, providing a clear view of  industrial operations."/>
