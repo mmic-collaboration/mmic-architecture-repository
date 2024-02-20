@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lab Batch"
     id="id-c3dd7429291d46d8ad963a010a168e05"
-    documentation="A Batch is a defined unit of production that results from a single Production Run. A Batch frequently contains many identical items, but can be as small as one. "/>
+    documentation="A Lab Batch is a type of Product Batch that is used within the laboratory."/>
