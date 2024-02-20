@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviation Management Service"
+    id="id-0b1733ebbdaf4c83929aea2da0ee18b5"
+    documentation="The deviation management service detects when a process is operating outside normal range, by comparing incoming data from sensors and analytical equipment to a specification or business rule. The deviation management service records the deviation and can notify or trigger other services to assess and/or rectify the issue. "/>

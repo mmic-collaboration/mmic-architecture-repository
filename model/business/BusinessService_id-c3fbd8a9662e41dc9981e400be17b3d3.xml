@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Batch Release Service"
-    id="id-c3fbd8a9662e41dc9981e400be17b3d3"/>
+    id="id-c3fbd8a9662e41dc9981e400be17b3d3"
+    documentation="The batch release service "/>

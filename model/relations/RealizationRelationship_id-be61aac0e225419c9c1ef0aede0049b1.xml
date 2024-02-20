@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="within a lab environment"
+    id="id-be61aac0e225419c9c1ef0aede0049b1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-811101173ebf4287acf7130c38231c4b.xml#id-811101173ebf4287acf7130c38231c4b"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-8fa9ae8c5e834c5eb7ed7c5119271cc3.xml#id-8fa9ae8c5e834c5eb7ed7c5119271cc3"/>
+</archimate:RealizationRelationship>
