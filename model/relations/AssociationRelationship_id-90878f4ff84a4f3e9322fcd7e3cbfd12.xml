@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="contains portion of"
-    id="id-36b33eeda6c642ffb11a499188c21bb3">
+    name="can result in"
+    id="id-90878f4ff84a4f3e9322fcd7e3cbfd12">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-4265a0cb8c714ad1b2b85e3ff3ef825e.xml#id-4265a0cb8c714ad1b2b85e3ff3ef825e"/>
+      href="BusinessObject_id-c5136f1a27b74710ad122c5d173925ed.xml#id-c5136f1a27b74710ad122c5d173925ed"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-dc716482a7cc49f3ba955c212a433d87.xml#id-dc716482a7cc49f3ba955c212a433d87"/>
+      href="BusinessObject_id-232ed1c7d9514bcfb9069c1959f0d91f.xml#id-232ed1c7d9514bcfb9069c1959f0d91f"/>
 </archimate:AssociationRelationship>

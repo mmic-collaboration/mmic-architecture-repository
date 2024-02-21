@@ -1,4 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;MQTT>> Sensor Event Consumption"
+    name="&lt;&lt;MQTT>> Sensor Event Subscriber"
     id="id-6bb31e650acd472fbcc46fce439375d5"/>

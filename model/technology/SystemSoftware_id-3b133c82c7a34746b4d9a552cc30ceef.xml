@@ -1,5 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;Kafka>>"
+    name="&lt;&lt;Topic>> System Software"
     id="id-3b133c82c7a34746b4d9a552cc30ceef"
     documentation="This integration system software provides an API feature to persist, filter, schema registry, reference data, security, encryption of data at rest and in transit."/>

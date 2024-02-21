@@ -1,5 +1,5 @@
 <archimate:Facility
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plant"
+    name="Facility"
     id="id-c0ea734a0d4a40d7964358367e85d71a"
     documentation="Plant :medcine manufacturing facility:-this facility shall have a number of equipments e.g. PAP01, RBS02, PLC OPC UA, Sealing station, Weighing Module, Fill Station, Bottle Singulation, Labeller, Capsule Fill etc... &#xA;Each equiment with attached sensor will generates sensor data which is stored and published to the event broker."/>

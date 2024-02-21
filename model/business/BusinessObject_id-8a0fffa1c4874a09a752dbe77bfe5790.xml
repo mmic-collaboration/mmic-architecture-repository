@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Job"
     id="id-8a0fffa1c4874a09a752dbe77bfe5790"
-    documentation="The Job is a means to group together the Job Order and Job Response into a single entity.  The definitions of both Job Order and Job Response are governed by ISA95."/>
+    documentation="The Job is a means to group together the Job Order and Job Response into a single entity.  The definitions of both Job Order and Job Response are governed by ISA95.  A job inherits all the properties of a Work Master (aka. Recipe), including specificaitons for the bill of materials, production process, equipment and related configurations, and the qualifications of operators.  The Job can therefore be considered a specific instance of the Work Master in which medicines product is manufactured.  A Job is broken down into sub-units of the process."/>
