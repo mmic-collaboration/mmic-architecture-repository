@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LIMS"
+    name="Z1_Layered view - LIMS Business services and capabilities"
     id="id-e85d875666b94c42b59f32117b64d8ca">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
