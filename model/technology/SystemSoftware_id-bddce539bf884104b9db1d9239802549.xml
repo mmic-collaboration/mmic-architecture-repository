@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS lambda function"
+    id="id-bddce539bf884104b9db1d9239802549"
+    documentation="AWS lambda will enable data transformation and will intract with various domain using api capability."/>

@@ -711,15 +711,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-0410e2713a854411bab745c3404ed2a3"
-          source="id-7f819522da6b4bb7bcf7c6691b06a523"
-          target="id-97abb8f317be41f293a588769db2acc3">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-05fa000ae74e49d690e5edec9a3e7ae2.xml#id-05fa000ae74e49d690e5edec9a3e7ae2"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9ade721ad2744cebaf83f9c2040b8eec"
           source="id-7f819522da6b4bb7bcf7c6691b06a523"
           target="id-59c5d27f55f64a20ac6496c05da69209">
@@ -778,7 +769,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-97abb8f317be41f293a588769db2acc3"
-        targetConnections="id-59549f2ed5084dd1a133f31890699ad5 id-0410e2713a854411bab745c3404ed2a3 id-56f7e437e1aa49d5b9e3201f08bf1250 id-a6cf606bbb344a0e8b5b0aabccdef733">
+        targetConnections="id-59549f2ed5084dd1a133f31890699ad5 id-56f7e437e1aa49d5b9e3201f08bf1250 id-a6cf606bbb344a0e8b5b0aabccdef733">
       <bounds
           x="24"
           y="48"

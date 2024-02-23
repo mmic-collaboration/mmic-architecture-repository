@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Gateway Service"
+    id="id-ce16acbae692496a9c0a1775687afd47"
+    documentation="sensor API service represents an explicitly defined exposed technology data behavior."/>
