@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recipe"
+    name="Work Master"
     id="id-6277ffdafdbe48b0954e6c5e5eb50569"
-    documentation="The Recipe is everything required to create a Batch of Product."/>
+    documentation="The Work Master is a compete specification of everything required to create a Product Batch.  It includes:&#xA; - the quantities and composition of input materials&#xA; - steps in the process&#xA; - configuration of machines at each step in the process&#xA; - required training and certification of operators of the process&#xA;"/>

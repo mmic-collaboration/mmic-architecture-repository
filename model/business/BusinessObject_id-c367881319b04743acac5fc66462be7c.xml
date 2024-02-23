@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lab Job"
+    id="id-c367881319b04743acac5fc66462be7c"
+    documentation="A Lab Job Order is a Job Order that is carried out within the context of a medicines manufacturing QC laboratory.  The Lab Job Order xtends the definition of a Job Order in the core PROCESS Domain and inherits all the properties of that object."/>

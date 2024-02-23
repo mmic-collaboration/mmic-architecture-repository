@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Batch Deviation"
+    name="Deviation"
     id="id-232ed1c7d9514bcfb9069c1959f0d91f"
     documentation="A Batch Deviation indicates that some event has occured which breaches a Batch Release Condition."/>

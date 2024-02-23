@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skills Requirement"
+    id="id-de41c6b80ca1458d8cb2891bf188fc11"
+    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>

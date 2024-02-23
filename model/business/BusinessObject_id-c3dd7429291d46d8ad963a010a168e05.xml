@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lab Batch"
+    id="id-c3dd7429291d46d8ad963a010a168e05"
+    documentation="A Lab Batch is a type of Product Batch that is used within the laboratory."/>

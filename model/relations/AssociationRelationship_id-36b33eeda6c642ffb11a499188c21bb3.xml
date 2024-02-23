@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="contains"
+    name="contains portion of"
     id="id-36b33eeda6c642ffb11a499188c21bb3">
   <source
       xsi:type="archimate:BusinessObject"
