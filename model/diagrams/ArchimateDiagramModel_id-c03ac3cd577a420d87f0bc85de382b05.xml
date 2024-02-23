@@ -357,7 +357,7 @@
       id="id-40e5618fc0984152909b5b2f5f7e79f2"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
-      content="Digital Membership Objective&#xA;1. Real-time Release&#xD;&#xA;v ###&#xD;&#xA;20th February 2024">
+      content="Digital Membership Objective&#xA;1. Real-time Release&#xD;&#xA;&#xD;&#xA;20th February 2024">
     <bounds
         x="1973"
         y="24"
@@ -512,6 +512,25 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-b98a065340534761aae0bb4e311b9fef.xml#id-b98a065340534761aae0bb4e311b9fef"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3eb56d15d0ae4494b99ec4a28ed180a1"
+        source="id-c1d2864e81a146d49f890bc86ecd5595"
+        target="id-52874c3384ce4e319fa26666c92dd55c">
+      <bendpoints
+          startX="-243"
+          startY="-75"
+          endX="406"
+          endY="81"/>
+      <bendpoints
+          startX="-615"
+          startY="-75"
+          endX="34"
+          endY="81"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-27628bbaab9e4e2ea8c332443652fd41.xml#id-27628bbaab9e4e2ea8c332443652fd41"/>
+    </sourceConnections>
     <bounds
         x="1131"
         y="1200"
@@ -594,7 +613,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-52874c3384ce4e319fa26666c92dd55c"
-      targetConnections="id-a20d9645200941dc887f85467a0ccaa4">
+      targetConnections="id-a20d9645200941dc887f85467a0ccaa4 id-3eb56d15d0ae4494b99ec4a28ed180a1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3729f4f828874ad8a40178d567c75615"
