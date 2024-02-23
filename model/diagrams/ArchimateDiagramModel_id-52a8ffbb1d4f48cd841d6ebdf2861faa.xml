@@ -390,7 +390,7 @@
           id="id-3a1d932352bd4a94a012a5e40388baeb"
           font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="Information Domain: PROCESS&#xD;&#xA;Owner: CPI&#xD;&#xA;Version: 0.5.1&#xD;&#xA;Date: 21-Feb-2024&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+          content="Information Domain: PROCESS&#xD;&#xA;Owner: CPI&#xD;&#xA;Version: 0.5.2&#xD;&#xA;Date: 22-Feb-2024&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
         <bounds
             x="24"
             y="24"
@@ -637,8 +637,8 @@
               href="AssociationRelationship_id-a39181e40af04db09465629e24b9daa7.xml#id-a39181e40af04db09465629e24b9daa7"/>
         </sourceConnections>
         <bounds
-            x="1380"
-            y="133"
+            x="1404"
+            y="50"
             width="120"
             height="55"/>
         <archimateElement
@@ -1078,8 +1078,7 @@
           id="id-70d5d97d3c1a40f881cf097bd5689ef3"
           font="1|Comic Sans MS|9.0|0|COCOA|1|ComicSansMS"
           textAlignment="1"
-          alpha="245"
-          content="TBD: Recipe vs Recipe Instance (DTG Comment)">
+          alpha="245">
         <features
             name="gradient"
             value="1"/>
