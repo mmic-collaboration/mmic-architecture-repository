@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" Domain Broker Service (Manufacturing Instance)"
+    name=" Domain Broker Service (Process Instance)"
     id="id-c1628401bd624f2c906d6db6f6c7c964"
     documentation="sensor API service represents an explicitly defined exposed technology data behavior."/>
