@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Production Planning and Supply Chain"
+    name="Production Planning and Supply Chain (DPMM v2.0)"
     id="id-d08875d749944496935544d62255e7b5"
     documentation="Orchestration of manufacturing operations, with consideration of supply and demand. &#xD;&#xA;Includes:&#xD;&#xA;Production planning and scheduling, warehouse, logistics, materials management, serialization track and trace, components mgt. supplier integration, 3PL, distribution center, cold chain."/>

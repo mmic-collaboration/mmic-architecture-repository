@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-2b3a8cf0bf0b49f8973573421fd94726"
-      name="Enabling Dimensions"
+      name="Enabling Dimensions DPMM v2.0"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       fillColor="#d7ada9"
@@ -715,7 +715,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-3f285e7d1e6547339af34df7bd176f2a"
-      name="Business Capabilities"
+      name="Business Capabilities DPMM v2.0"
       font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       fillColor="#bccbe2"
