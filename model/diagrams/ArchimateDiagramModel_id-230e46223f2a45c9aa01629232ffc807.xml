@@ -7,8 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34731e3e4e43466eb761c6595790d1bd"
       font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4a423450b15d4867be9d5cb2b7071179"
