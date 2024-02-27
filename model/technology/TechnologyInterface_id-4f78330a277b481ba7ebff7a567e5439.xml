@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Service API"
+    id="id-4f78330a277b481ba7ebff7a567e5439"
+    documentation="Internal API point with the processed data"/>

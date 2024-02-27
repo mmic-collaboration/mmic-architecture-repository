@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managed OPC UA Service"
+    id="id-deb64f2699874ee59f0520ceff590f06"
+    documentation="AWS IoT SiteWise:&#xA;AWS IoT SiteWise will be the primary service for industrial data management. It will allow us to calculate critical metrics such as OEE and manage asset hierarchies, providing a clear view of  industrial operations."/>

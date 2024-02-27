@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protocol Connector"
+    id="id-f0a25f79fe1743e5a5adf21e89c3fe9e"
+    documentation="OPCUA | Modbus | MQTT | Local MQTT Broker | "/>

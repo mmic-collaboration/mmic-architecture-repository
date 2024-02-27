@@ -38,7 +38,8 @@
         id="id-80c5ae7f79dc414b8271ef9dd4e7245b"
         targetConnections="id-77002bdccb07452594ad371fa815279e"
         font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
-        textAlignment="1">
+        textAlignment="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-08f28aac2a9b468688bb45d0adfe31be"
@@ -565,7 +566,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-244f8857c8b84ee49d3709f549ed23f0"
-          targetConnections="id-08f28aac2a9b468688bb45d0adfe31be id-443a246761bb438c8727a34fb7ccf65d id-8f8e8157032c42de9d381154edaf5103 id-1cd0129dde1c4754bf5f594298baa57a id-5e645b1202ab456d9b46fc48106bfc6d id-59e674d737484ab3856ce8925f59392b id-660efacb84e5404ba075a03fafac14a4 id-63ecbcab29c242648ab86f80236f480c id-65e7338615c44f70a760b06b3c669594 id-052a65a10a894d588e5c140a416a231e id-6fd63904a66747e0a2c5e49040b292aa id-368eb22569c04c539b141ab09744d79f id-5f46f6da55b243a0bc389278863ef1c8 id-ad9f6c9b06234c65becd18f68c88a229 id-fe5c2b8467f0439ca8823d287d0025a5 id-bc9ef6e6353248f4a82680fd1a6d65b7">
+          targetConnections="id-08f28aac2a9b468688bb45d0adfe31be id-443a246761bb438c8727a34fb7ccf65d id-8f8e8157032c42de9d381154edaf5103 id-1cd0129dde1c4754bf5f594298baa57a id-5e645b1202ab456d9b46fc48106bfc6d id-59e674d737484ab3856ce8925f59392b id-660efacb84e5404ba075a03fafac14a4 id-63ecbcab29c242648ab86f80236f480c id-65e7338615c44f70a760b06b3c669594 id-052a65a10a894d588e5c140a416a231e id-6fd63904a66747e0a2c5e49040b292aa id-368eb22569c04c539b141ab09744d79f id-5f46f6da55b243a0bc389278863ef1c8 id-ad9f6c9b06234c65becd18f68c88a229 id-fe5c2b8467f0439ca8823d287d0025a5 id-bc9ef6e6353248f4a82680fd1a6d65b7"
+          type="1">
         <bounds
             x="72"
             y="648"
@@ -961,8 +963,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2fcedd11357044669e2c633f5e2ad15f"
-          targetConnections="id-d47d7dda3db84a91a285ae2c52b689d1 id-d6853629faa84379a49d11e45a33c558 id-a50adf9671ce4517904bbaa90b3d7176 id-d4af8097af094cafa5dbbe8bb3f8544e id-16f95429bdae4470b93988b7835ba6b8 id-391d080545cb4447baa1b8950e05d5f0 id-1de06e5ea9854b3d92992ea2b25cc13d id-ae806a6e555b47658b751b61d1202065 id-0195ef2c8d99471eb78de2805d135a71 id-1b7a3f2d989346d79fc0cc5e30b545dc id-0bbd77c50dca4917a084cb4d88707514 id-1625b95ef4c94720a84015489f0067c9 id-4b73dac322d944b09a25536a08dc591b id-f15e96734d574bc5a6b84ac1119ff867 id-300aa201b0854ab89dd4a5b641a3aaf5 id-9c219ac40bd842a0bbcec134c2b87b24"
-          type="1">
+          targetConnections="id-d47d7dda3db84a91a285ae2c52b689d1 id-d6853629faa84379a49d11e45a33c558 id-a50adf9671ce4517904bbaa90b3d7176 id-d4af8097af094cafa5dbbe8bb3f8544e id-16f95429bdae4470b93988b7835ba6b8 id-391d080545cb4447baa1b8950e05d5f0 id-1de06e5ea9854b3d92992ea2b25cc13d id-ae806a6e555b47658b751b61d1202065 id-0195ef2c8d99471eb78de2805d135a71 id-1b7a3f2d989346d79fc0cc5e30b545dc id-0bbd77c50dca4917a084cb4d88707514 id-1625b95ef4c94720a84015489f0067c9 id-4b73dac322d944b09a25536a08dc591b id-f15e96734d574bc5a6b84ac1119ff867 id-300aa201b0854ab89dd4a5b641a3aaf5 id-9c219ac40bd842a0bbcec134c2b87b24">
         <bounds
             x="85"
             y="96"

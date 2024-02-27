@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Industrial Connector"
+    id="id-b3e22f0477d74d349b2f3cde214f3a67"
+    documentation="PLC OPC UA Data Sources:&#xA;This system will interface with Programmable Logic Controllers (PLCs) that utilize the OPC UA standard for communication. This ensures seamless data acquisition from  machinery and equipment, providing a robust foundation for real-time monitoring and control.&#xA;OPC UA Aggregate Server:&#xA;To centralize data collection, an OPC UA Aggregate Server will be deployed. This server will gather and consolidate data from multiple OPC UA sources, offering a unified data stream to our cloud services, enhancing both reliability and efficiency.&#xA;S/W: Kempware, Ignition"/>
