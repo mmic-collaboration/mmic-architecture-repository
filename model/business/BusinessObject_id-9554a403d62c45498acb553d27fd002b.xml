@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PLANT Domain CDM"
-    id="id-9554a403d62c45498acb553d27fd002b"/>
+    id="id-9554a403d62c45498acb553d27fd002b"
+    documentation="The PLANT Domain concerns data describing equipment and tooling, people, and events within the medicines manufacturing facility, at the shop floor level."/>

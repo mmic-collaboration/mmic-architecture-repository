@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS GreenGrass"
+    id="id-b2b9a876c9504de592816b7bef93e589"
+    documentation="AWS GreenGrass:&#xA;AWS GreenGrass will serve as the cornerstone of our edge computing capabilities. Within this AWS Greengrasss environment, we will deploy the following additional components but not limited(Please see the link other Greengrass components):&#xA;AWS IoT SiteWise Gateway: This gateway will facilitate the collection and organization of data on-site before it is sent to the AWS cloud, enabling local processing and quick response times. It will be our main data plane option for high frequency data exchange.&#xA;MQTT Broker: A crucial component for message queuing, the MQTT Broker will ensure reliable and secure data transmission between devices and the cloud. It will be our control plane option for low frequency data exchange.&#xA;Asset Modeling and Management with Ginja: Leveraging Ginja for asset modeling based on ISO standards, we will be able to maintain a comprehensive digital representation of  physical assets, streamlining management and operational efficiency."/>

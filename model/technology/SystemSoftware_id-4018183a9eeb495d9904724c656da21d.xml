@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPC UA Data Collector"
+    id="id-4018183a9eeb495d9904724c656da21d"
+    documentation="AWS IoT SiteWise:&#xA;AWS IoT SiteWise will be the primary service for industrial data management. It will allow us to calculate critical metrics such as OEE and manage asset hierarchies, providing a clear view of  industrial operations."/>
