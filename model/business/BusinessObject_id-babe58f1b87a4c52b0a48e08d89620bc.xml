@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Equipment Configuration"
+    name="Equipment Type"
     id="id-babe58f1b87a4c52b0a48e08d89620bc"
-    documentation="A Machine Configuration is the full configuration state of the Machine, which comprises the Machine's collection of valid set points.  "/>
+    documentation="&#xA;&#xA;Depreciated: A Machine Configuration is the full configuration state of the Machine, which comprises the Machine's collection of valid set points.  "/>
