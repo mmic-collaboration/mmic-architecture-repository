@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Laboratory Orchestration &amp; Testing Service (NAME TBD)"
+    name="Laboratory Orchestration &amp; Testing Service"
     id="id-7e948f6c5cfd41d886fe3ac0df96f6f3"
-    documentation="The laboratory testing service executes analytical tests within a lab environment for the purpose of quality control. Tests can be carried out autonomously or by an operator. Test methods and results are stored in the LIMS.&#xD;&#xA;SCOPE IS NOW BIGGER THAN THIS - LAB PROCESS IN GENERAL"/>
+    documentation="The laboratory orchestration and testing service plans, schedules, and executes analytical tests within a lab environment for the purpose of quality control. Tests can be carried out autonomously or by an operator. Test methods and results are stored in the LIMS."/>
