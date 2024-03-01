@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Production Sequence"
+    name="Workflow Procedure"
     id="id-775a824018534d89a880513e5214b0a9"
-    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>
+    documentation="A Workflow Procedure is the order which process steps are carried out as part of a Job to make a Batch of Product.&#xA;&#xA;(This definition is consistent with https://reference.opcfoundation.org/ISA95JOBCONTROL/v200/docs/4.1."/>

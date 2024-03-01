@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Quality Control Condition"
+    name="Manufacturing Quality Test"
     id="id-55fe78cc228542339fd15214b90c5059"
     documentation="A Quality Control Condition is a pre-determined criterion that must be met to ensure product quality."/>
