@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Physical Asset Test Specification"
     id="id-7f6da6af398642f6bf52f803e9d27e53"
-    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>
+    documentation="The Physical Asset Test Specification corresponds to the ISA-95 object type PhysicalAssetCapabilityTestSpecificationType:&#xA;&quot;This is typically used where a test is required to ensure that the Physical Asset has the necessary capability and capacity.&quot;&#xA;(https://reference.opcfoundation.org/ISA-95/v100/docs/8.3.3.1 )"/>

@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is required for"
-    id="id-918b6fc7150640d0b5b051a6df5257cd">
+    name="is a"
+    id="id-4f30b6a5076d43378e12c1359ec2d286">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-7e3261ecbaa94b2e8dd7d9a3c91be75a.xml#id-7e3261ecbaa94b2e8dd7d9a3c91be75a"/>
+      href="BusinessObject_id-54f5b3cc85c74035b2268ffb2298ee06.xml#id-54f5b3cc85c74035b2268ffb2298ee06"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-4265a0cb8c714ad1b2b85e3ff3ef825e.xml#id-4265a0cb8c714ad1b2b85e3ff3ef825e"/>
+      href="BusinessObject_id-54b65ed34c9b49dd8a39afd00e68cec7.xml#id-54b65ed34c9b49dd8a39afd00e68cec7"/>
 </archimate:AssociationRelationship>

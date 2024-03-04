@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Abstract) Test Specification"
     id="id-f3f0de480c184d628de035a044372aa0"
-    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>
+    documentation="This Abstract Specification corresponds to the ISA-95 object type PhysicalAssetCapabilityTestSpecificationType:&#xA;&quot;This is typically used where a test is required to ensure capability of a modelling target such as ISA95Person.&quot;&#xA;(https://reference.opcfoundation.org/ISA-95/v100/docs/7.6.4 )"/>
