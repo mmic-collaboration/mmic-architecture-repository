@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance of Manufacturing Equipment"
+    id="id-091a50e7e92a484c9784737042f9db18"
+    documentation="The scheduling, execution, and documentation of maintenance operations on manufacturing equipment. This capability includes requesting use of the necessary parts or tools from Warehouse, purchase of any items that are unavailable onsite, and engagement of external contractors as needed. Once complete, maintenance operations may trigger validation and calibration.  "/>

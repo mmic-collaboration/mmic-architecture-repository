@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maintenance of Equipment"
+    name="Maintenance of Lab Instrumentation"
     id="id-8fa9ae8c5e834c5eb7ed7c5119271cc3"
-    documentation="The scheduling, execution, and documentation of maintenance operations on both manufacturing and lab equipment. This capability includes requesting use of the necessary parts or tools from Warehouse, purchase of any items that are unavailable onsite, and engagement of external contractors as needed. Once complete, maintenance operations may trigger validation and calibration.  "/>
+    documentation="The scheduling, execution, and documentation of maintenance operations on lab equipment. This capability includes requesting use of the necessary parts or tools from Warehouse, purchase of any items that are unavailable onsite, and engagement of external contractors as needed. Once complete, maintenance operations may trigger validation and calibration.  "/>

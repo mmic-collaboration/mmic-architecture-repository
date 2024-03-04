@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Material Handling (site focussed)"
     id="id-401df2c967cb4d41ab13f36bcc365216"
-    documentation="Quality-controlled movement of material into and around a manufacturing site."/>
+    documentation="Quality-controlled movement of material within a manufacturing site. For example, from warehouse to manufacturing line, or manufacturing line to QC lab."/>
