@@ -22,7 +22,7 @@
         x="-360"
         y="-132"
         width="1705"
-        height="1417"/>
+        height="1069"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-92305de3548543e78ca150fb720d6eda"
@@ -1143,7 +1143,7 @@
           id="id-5e01770feb3245ea95ef206a5eb925c7"
           font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="Information Domain: PROCESS&#xA;Owner: CPI&#xA;Version: 0.7.0&#xD;&#xA;Date: 4-Mar-2024&#xA;&#xA;Level 2 - ISA-95 Base Objects&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+          content="Information Domain: PROCESS&#xA;Owner: CPI&#xA;Version: 0.7.1&#xD;&#xA;Date: 5-Mar-2024&#xA;&#xA;Level 2 - ISA-95 Base Objects&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
         <bounds
             x="36"
             y="834"

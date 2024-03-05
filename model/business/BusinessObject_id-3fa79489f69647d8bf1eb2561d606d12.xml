@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Job Step Procedure"
     id="id-3fa79489f69647d8bf1eb2561d606d12"
-    documentation="** working definition**&#xA;A Workflow Procedure is the order which process steps are carried out as part of a Job to make a Batch of Product.&#xA;&#xA;(This definition is consistent with https://reference.opcfoundation.org/ISA95JOBCONTROL/v200/docs/4.1. )&#xA;&#xA;It is the template for a Job Step.&#xA;Part of a Work Master.&#xA;Equivalent to other Object types in ISA95 - Personnel, Material, Equipment, Physical Asset"/>
+    documentation="A Job Step Procedure, as part of a Work Master, is the order which process steps are carried out as part of a Job to make a Batch of Product.  It is the template for a Job Step.  The Job Step Procedure is equivalent to other Object types in ISA95 - Personnel, Material, Equipment, Physical Asset.&#xA;&#xA;This definition is consistent with https://reference.opcfoundation.org/ISA95JOBCONTROL/v200/docs/4.1. &#xA;&#xA;"/>

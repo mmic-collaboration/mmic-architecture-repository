@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Test Result"
     id="id-3636e5568f7546bab31887cdf2a9097e"
-    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>
+    documentation="This object type corresponds to the ISA-95 object type ISA95TestResultType:&#xA;&quot;This VariableType indicates the test results.&quot;&#xA;(https://reference.opcfoundation.org/ISA-95/v100/docs/7.5.4 )&#xA;&#xA;OPC-10030 defines attributes of the Test Result.  Further detail for Test Result information is described in  https://reference.opcfoundation.org/ISA-95/v100/docs/7.3."/>
