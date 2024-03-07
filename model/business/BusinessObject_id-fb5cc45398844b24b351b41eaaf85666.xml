@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Step Response Specification"
+    id="id-fb5cc45398844b24b351b41eaaf85666"
+    documentation="The Physical Asset Test Specification corresponds to the ISA-95 object type PhysicalAssetCapabilityTestSpecificationType:&#xA;&quot;This is typically used where a test is required to ensure that the Physical Asset has the necessary capability and capacity.&quot;&#xA;(https://reference.opcfoundation.org/ISA-95/v100/docs/8.3.3.1 )"/>

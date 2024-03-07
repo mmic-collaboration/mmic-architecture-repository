@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="has certification for"
+    name="has"
     id="id-f5a449c5723e48b7a3598d07c2659a03">
   <source
       xsi:type="archimate:BusinessObject"

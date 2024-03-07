@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="enables release of"
+    name="is required for"
     id="id-918b6fc7150640d0b5b051a6df5257cd">
   <source
       xsi:type="archimate:BusinessObject"

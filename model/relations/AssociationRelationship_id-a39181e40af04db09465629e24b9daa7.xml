@@ -1,11 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is scheduled on"
-    id="id-a39181e40af04db09465629e24b9daa7">
+    name="rota"
+    id="id-a39181e40af04db09465629e24b9daa7"
+    documentation="A Rota documents which Operators will fulfill the Work Schedule and at which time.&#xA;&#xA;Design Note&#xA;This is a M:N relationship that should be expanded into its own object at the logical level such that &quot;A Person &quot;is scheduled on&quot; a Rota &quot;that meets&quot; a Work Schedule.">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-6dd37e57e5da4131a31f8853b117d080.xml#id-6dd37e57e5da4131a31f8853b117d080"/>
+      href="BusinessObject_id-db9632dff028461f94301de9eb24d42e.xml#id-db9632dff028461f94301de9eb24d42e"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-7f8185ff9db84e4c968bcbc2baab8ef2.xml#id-7f8185ff9db84e4c968bcbc2baab8ef2"/>

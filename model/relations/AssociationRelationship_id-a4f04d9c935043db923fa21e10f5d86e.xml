@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="specifies the product of"
+    name="produces"
     id="id-a4f04d9c935043db923fa21e10f5d86e">
   <source
       xsi:type="archimate:BusinessObject"

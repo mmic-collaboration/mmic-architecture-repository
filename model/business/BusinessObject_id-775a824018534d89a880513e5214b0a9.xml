@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Production Sequence"
-    id="id-775a824018534d89a880513e5214b0a9"
-    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>
