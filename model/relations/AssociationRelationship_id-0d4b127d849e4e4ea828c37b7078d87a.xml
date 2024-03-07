@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="triggers"
+    name="occurs during"
     id="id-0d4b127d849e4e4ea828c37b7078d87a">
   <source
       xsi:type="archimate:BusinessObject"

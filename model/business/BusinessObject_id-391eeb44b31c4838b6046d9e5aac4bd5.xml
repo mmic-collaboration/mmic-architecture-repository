@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;namespace>> http://www.OPCFoundation.org/UA/2013/01/ISA95"
+    id="id-391eeb44b31c4838b6046d9e5aac4bd5"
+    documentation="A Sequence is the order which process steps are carried out to make a Batch of Product."/>

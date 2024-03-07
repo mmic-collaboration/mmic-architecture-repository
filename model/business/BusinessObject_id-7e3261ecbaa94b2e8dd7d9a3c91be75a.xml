@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Batch Release Condition"
+    name="Batch Release Test Specification "
     id="id-7e3261ecbaa94b2e8dd7d9a3c91be75a"
-    documentation="A Batch Release Quality Condition is a specific type of Quality Control Condition that must be met to enable the release of a Product Batch."/>
+    documentation="A Batch Release Test Specification is a pre-determined quality control condition that must be met to enable the release of a particular Product Batch.  The results from a  equivalent set of Batch Release Tests provide the assurance for release of a Batch.&#xA;&#xA;The Batch Release Test Specification is a sub-type of the ISA-95 abstract object type, Test Specification."/>

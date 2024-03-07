@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Material Lot"
+    id="id-1100748eadb34697b94557233ad95a1d"
+    documentation="The Bill of Materials is the collection of Raw Materials used in a Recipe to create a Product Batch."/>

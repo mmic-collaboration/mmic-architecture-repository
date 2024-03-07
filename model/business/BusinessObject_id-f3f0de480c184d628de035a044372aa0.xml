@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Abstract) Test Specification"
+    id="id-f3f0de480c184d628de035a044372aa0"
+    documentation="This Abstract Specification corresponds to the ISA-95 object type PhysicalAssetCapabilityTestSpecificationType:&#xA;&quot;This is typically used where a test is required to ensure capability of a modelling target such as ISA95Person.&quot;&#xA;(https://reference.opcfoundation.org/ISA-95/v100/docs/7.6.4 )&#xA;&#xA;See also &quot;Test Specification Information&quot; in https://reference.opcfoundation.org/ISA-95/v100/docs/7.2."/>

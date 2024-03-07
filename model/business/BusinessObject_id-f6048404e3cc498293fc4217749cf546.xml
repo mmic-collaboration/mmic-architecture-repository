@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Material Test Specification"
+    id="id-f6048404e3cc498293fc4217749cf546"
+    documentation="The Material Test Specification corresponds to the ISA-95 object type MaterialTestSpecificationType:&#xA;&quot;This is typically used to specify a material test specification to determine a value for a property. An instance of a MaterialTestSpecificationType may test one or more of these items.&quot;&#xA;(https://reference.opcfoundation.org/ISA-95/v100/docs/8.4.3.1 )&#xA;&#xA;"/>
