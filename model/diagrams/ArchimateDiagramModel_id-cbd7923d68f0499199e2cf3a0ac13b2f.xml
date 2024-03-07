@@ -26,7 +26,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-203219f7325a4827ac20e087b2265241"
         targetConnections="id-c0aaf4599b9b40f3955451ded5f81886"
-        textAlignment="1">
+        textAlignment="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-68ae8a845181410cae834c6067f4c8a7"
@@ -44,7 +45,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6ba52c0ca00746afa2f313b549ecb4c2"
-          targetConnections="id-dd78d7f8608c41a59f3b5eb19a55f9fa id-9a0e4b6d811148eba4139c83a54313ef id-ea2c5f374f0f4a148a359b1dcdaaf3d5 id-1c9a6b225a5849228d8a3606627943f8 id-28bc9d26ab3440d5804e946ab91fca55 id-489f73cd06f14f26a1e90ce6edb719a1 id-654e779e6f914abf983dc1e1f376a629 id-f9de1d75047b4ba891e169f60eef18e2 id-72ae626eef504b949cc9023db983da65">
+          targetConnections="id-dd78d7f8608c41a59f3b5eb19a55f9fa id-9a0e4b6d811148eba4139c83a54313ef id-ea2c5f374f0f4a148a359b1dcdaaf3d5 id-1c9a6b225a5849228d8a3606627943f8 id-28bc9d26ab3440d5804e946ab91fca55 id-489f73cd06f14f26a1e90ce6edb719a1 id-654e779e6f914abf983dc1e1f376a629 id-f9de1d75047b4ba891e169f60eef18e2 id-72ae626eef504b949cc9023db983da65"
+          type="1">
         <bounds
             x="36"
             y="60"
@@ -215,7 +217,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-00d70084727a42e7928ed68dbf205824"
-          targetConnections="id-e4485223173b4daeb70c58000048f29a">
+          targetConnections="id-e4485223173b4daeb70c58000048f29a"
+          type="1">
         <bounds
             x="420"
             y="300"
@@ -358,7 +361,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-cfc712b51e1c4dd78cddfd36bcdfd4ab"
-          targetConnections="id-5370bdc046fe4277af440afec9b55195">
+          targetConnections="id-5370bdc046fe4277af440afec9b55195"
+          type="1">
         <bounds
             x="192"
             y="300"
