@@ -627,15 +627,6 @@
                 xsi:type="archimate:AssociationRelationship"
                 href="AssociationRelationship_id-18cf75e78ac04daf96f3145ea02f95c8.xml#id-18cf75e78ac04daf96f3145ea02f95c8"/>
           </sourceConnections>
-          <sourceConnections
-              xsi:type="archimate:DiagramModelArchimateConnection"
-              id="id-a79216df82e64ae7b08b9602c05d6c78"
-              source="id-393d55b0ad6c4efb8d77e32e86314d5c"
-              target="id-1683671b5e094b68beae998764471e7b">
-            <archimateRelationship
-                xsi:type="archimate:AssociationRelationship"
-                href="AssociationRelationship_id-f5a449c5723e48b7a3598d07c2659a03.xml#id-f5a449c5723e48b7a3598d07c2659a03"/>
-          </sourceConnections>
           <bounds
               x="1032"
               y="156"
@@ -696,7 +687,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-1683671b5e094b68beae998764471e7b"
-            targetConnections="id-ea8b6f907ae84f649c4e6546d1615a04 id-a79216df82e64ae7b08b9602c05d6c78 id-ccac5eb62a924f2c92d41a145b6d2879"
+            targetConnections="id-ccac5eb62a924f2c92d41a145b6d2879"
             type="1">
           <bounds
               x="732"
@@ -1085,15 +1076,6 @@
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_id-cfeafc550bc5442eb0afa0d14c3ede33.xml#id-cfeafc550bc5442eb0afa0d14c3ede33"/>
         </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-ea8b6f907ae84f649c4e6546d1615a04"
-            source="id-d82bac2a9d6f4a299e00f5fe61e15acf"
-            target="id-1683671b5e094b68beae998764471e7b">
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-d994d858d909434e8fb25680ac1da51b.xml#id-d994d858d909434e8fb25680ac1da51b"/>
-        </sourceConnections>
         <bounds
             x="660"
             y="192"
@@ -1170,7 +1152,7 @@
           id="id-5e01770feb3245ea95ef206a5eb925c7"
           font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="Information Domain: PROCESS&#xA;Owner: CPI&#xA;Version: 0.7.1&#xD;&#xA;Date: 5-Mar-2024&#xA;&#xA;Level 2 - ISA-95 Base Objects&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+          content="Information Domain: PROCESS&#xA;Owner: CPI&#xA;Version: 0.7.2&#xD;&#xA;Date: 5-Mar-2024&#xA;&#xA;Level 2 - ISA-95 Base Objects&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
         <bounds
             x="36"
             y="834"
