@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder"
+    id="id-8708f6e9be6e49758b5bab81312b0fac"
+    documentation="A Stakeholder is any person who has a legitimate interest in the Digital Membership architecture.  The business object is the representation in data of the Actor of the same name, which in turn is assigned to the role of the same name."/>

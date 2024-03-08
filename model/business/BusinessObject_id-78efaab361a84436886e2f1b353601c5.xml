@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Worker"
+    id="id-78efaab361a84436886e2f1b353601c5"
+    documentation="An External Worker is a type of Worker in an organisation who is not an employee.  This person may be temporary or contracted staff."/>
