@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Event Type"
+    id="id-dfa2af8a5a274771a30ab91f2fbfe370"
+    documentation="A Process Event Type is a classification of a Process Event, determined by the Job Step Procedure in which it occurs."/>
