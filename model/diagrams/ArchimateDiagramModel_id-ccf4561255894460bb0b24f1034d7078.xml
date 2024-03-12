@@ -378,7 +378,7 @@
           id="id-a206b496ea1c41688c7ecb5bcbc6aecb"
           font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="Information Domain: PROCESS&#xA;Owner: CPI&#xA;Version: 0.8.0&#xD;&#xA;Date: 12-Mar-2024&#xA;&#xA;Level 2 - Product Release Specification&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+          content="Information Domain: PROCESS&#xA;Owner: CPI&#xA;Version: 0.8.0&#xD;&#xA;Date: 12-Mar-2024&#xA;&#xA;Level 2 - Product Release Specification &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
         <bounds
             x="876"
             y="516"
