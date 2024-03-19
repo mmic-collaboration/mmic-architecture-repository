@@ -422,7 +422,7 @@
         id="id-68b3a91104874f31b70ad5f91c766e04"
         name="Sensor Event Flow Technology Layer"
         textAlignment="1"
-        documentation="The logical technology architecture outlines how the medicine manufacturing sector integrates equipment sensors to efficiently extract their data, ensuring alignment with quality control, Laboratory Information Management Systems (LIMS), and regulatory compliance. This facilitates real-time monitoring of medicine production processes and realtime data release for predictive monitoring and other operation dashboards.">
+        documentation="This logical technology architecture outlines how the medicine manufacturing sector integrates equipment sensors to efficiently extract their data, ensuring alignment with quality control, Laboratory Information Management Systems (LIMS), and regulatory compliance. This facilitates real-time monitoring of medicine production processes and realtime data release for predictive monitoring and other operation dashboards.">
       <bounds
           x="12"
           y="36"
