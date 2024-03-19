@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sensor Broker"
-    id="id-625d701dfbd84f228999de085ed221d0"/>
+    id="id-625d701dfbd84f228999de085ed221d0"
+    documentation=" Sensor Broker is a middleware component that facilitates communication between sensors and applications by managing data collection, processing, and distribution. It aggregates data from multiple sensors, standardizes it, and provides a unified interface for applications to access sensor data, enabling efficient and scalable IoT architectures."/>
