@@ -1,4 +1,5 @@
 <archimate:Facility
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plant"
-    id="id-acb0c1b0655046a19a1229530acc5a17"/>
+    id="id-acb0c1b0655046a19a1229530acc5a17"
+    documentation="&#xA;The medicine manufacturing plant domain encompasses the physical infrastructure, equipment, and facilities dedicated to producing pharmaceutical products. It includes areas for formulation, processing, packaging, and quality control, adhering to strict regulatory standards and employing advanced technologies to ensure the safety, efficacy, and scalability of drug production processes"/>
