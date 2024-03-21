@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital Membership Manufacturing Edge Network (DMZ)"
-    id="id-42cc04030bba4aa4ac25e7ab440e9b47"/>
+    id="id-42cc04030bba4aa4ac25e7ab440e9b47"
+    documentation="This manufacturing edge network refers to localized infrastructure connecting devices and sensors in manufacturing environments, enabling real-time data processing, analysis, and decision-making at the network's edge for increased efficiency."/>

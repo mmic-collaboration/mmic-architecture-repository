@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MQTT"
-    id="id-7f40219c98fc4b50830e6e85401126d7"/>
+    id="id-7f40219c98fc4b50830e6e85401126d7"
+    documentation="MQTT is a lightweight messaging protocol for IoT, enabling efficient communication between devices over unreliable networks with minimal overhead."/>

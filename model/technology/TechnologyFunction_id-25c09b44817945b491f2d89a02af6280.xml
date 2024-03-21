@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protocol Translation"
     id="id-25c09b44817945b491f2d89a02af6280"
-    documentation="Modbus | MTConnect | MQTT | OPC UA "/>
+    documentation="Modbus | MTConnect | MQTT | OPC UA &#xA;Azure Protocol Translator is a service that facilitates seamless communication between IoT devices and Azure IoT Hub by translating protocols, ensuring interoperability and efficient data exchange in IoT ecosystems."/>

@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modbus"
-    id="id-079151055b1c4d6fa627a3039372db18"/>
+    id="id-079151055b1c4d6fa627a3039372db18"
+    documentation="Modbus is a widely used communication protocol in industrial automation. It facilitates data exchange between devices, typically a master (controller) and slaves (sensors, actuators). Operating over serial or Ethernet connections, it employs a simple, open structure, defining data types, addressing, and error-checking mechanisms for reliable data transmission."/>

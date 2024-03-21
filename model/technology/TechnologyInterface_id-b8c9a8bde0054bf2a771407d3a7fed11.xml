@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sensor Event Event API"
     id="id-b8c9a8bde0054bf2a771407d3a7fed11"
-    documentation="Sensor's API to ingest the OPC UA raw payload data"/>
+    documentation="Sensor's API to ingest the OPC UA raw payload data. This  sensor event API enables applications to receive real-time data from sensors, allowing for seamless integration of sensor information into various software systems for analysis and decision-making."/>

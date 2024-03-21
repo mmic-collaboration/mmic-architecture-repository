@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edge Agent | Hub"
-    id="id-3595514dd92e4a41ae78f5957f6efb6c"/>
+    id="id-3595514dd92e4a41ae78f5957f6efb6c"
+    documentation="Azure Event Hubs is a scalable event streaming platform in Azure, capable of ingesting and processing millions of events per second, facilitating real-time data ingestion, processing, and analytics."/>
