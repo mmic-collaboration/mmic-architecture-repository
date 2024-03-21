@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HA Cluster Service"
-    id="id-8f6f12a7d8e54e8e96c828fb8fe60d17"/>
+    id="id-8f6f12a7d8e54e8e96c828fb8fe60d17"
+    documentation="High ly available cluster to deploy industrical connectivity software"/>

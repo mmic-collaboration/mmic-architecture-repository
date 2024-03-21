@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domain Gateway : Industrital HT IIoT  Layer 3"
-    id="id-91a758983ff149eda3e4e1c4c19dd597"/>
+    id="id-91a758983ff149eda3e4e1c4c19dd597"
+    documentation="A domain gateway broker acts as an intermediary between various IoT devices and cloud platforms within a specific domain, managing data transmission, security, and interoperability. It ensures seamless communication, data processing, and routing, facilitating efficient data exchange and control across diverse devices and platforms within the domain's ecosystem."/>

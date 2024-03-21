@@ -1,4 +1,5 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domain Gateway Device"
-    id="id-29d09cab08014b989d6e7705d94acc5b"/>
+    id="id-29d09cab08014b989d6e7705d94acc5b"
+    documentation="This domain gateway device serves as a bridge between local IoT devices and external networks or cloud platforms within a specific domain. It facilitates data collection, processing, and transmission, while enforcing security measures and protocol translations. This enables seamless integration of diverse devices and efficient data exchange within the domain's ecosystem."/>
