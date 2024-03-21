@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Telemetry"
-    id="id-a22404273b644e4b9fbfa12b8050fbd4"/>
+    id="id-a22404273b644e4b9fbfa12b8050fbd4"
+    documentation="In medicine manufacturing, timeseries data comprises a chronological sequence of measurements or observations capturing various production parameters over time. These may include temperature, pressure, flow rates, and other critical factors. Analysis of timeseries data aids in monitoring process stability, identifying trends, and ensuring product quality and compliance."/>

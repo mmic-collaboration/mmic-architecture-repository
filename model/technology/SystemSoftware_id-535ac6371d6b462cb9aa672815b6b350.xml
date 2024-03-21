@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OPC UA Connector "
-    id="id-535ac6371d6b462cb9aa672815b6b350"/>
+    id="id-535ac6371d6b462cb9aa672815b6b350"
+    documentation="OPC UA connector facilitates secure data exchange between industrial automation systems, ensuring interoperability, reliability, and standardized communication protocols."/>

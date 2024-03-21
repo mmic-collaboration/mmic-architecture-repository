@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Connector"
-    id="id-5ad7d2e34b2b4432850598555f0912c8"/>
+    id="id-5ad7d2e34b2b4432850598555f0912c8"
+    documentation="A process connector in medicine manufacturing links equipment, controls, and data systems, ensuring seamless coordination, quality control, and regulatory compliance throughout the production process."/>

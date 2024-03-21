@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Non-OPC UA Connector"
-    id="id-2e809d2371ca420dae2d6e9307386069"/>
+    id="id-2e809d2371ca420dae2d6e9307386069"
+    documentation="Non-OPC UA connector facilitates secure data exchange between BMS, Process ensuring interoperability, reliability, and standardized communication protocols."/>
