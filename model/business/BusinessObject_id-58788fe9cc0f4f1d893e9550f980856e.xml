@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manufacturing Station"
-    id="id-58788fe9cc0f4f1d893e9550f980856e"
-    documentation="A Manufacturing Station is a discrete node within a manufacturing line.  A Unit Process occurs at a single Manufacturing Station."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Release Test"
+    id="id-c9818ca0c9be40069420d110115d9938"
+    documentation="A Batch Release Test is an instance of Batch Release Test Specification.  A new a  pre-determined quality control condition that must be met to enable the release of a particular Product Batch.  The results from a  equivalent set of Batch Release Tests provide the assurance for release of a Batch.&#xA;&#xA;The Batch Release Test Specification is a sub-type of the ISA-95 abstract object type, Test Specification."/>
