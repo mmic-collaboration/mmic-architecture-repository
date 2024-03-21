@@ -155,7 +155,7 @@
           id="id-1fe462b41e7b4040a3faa6e60ba112a6"
           font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
           textAlignment="1"
-          content="Information Domain: PROCESS&#xD;&#xA;Owner: CPI&#xD;&#xA;Version: 0.8.O&#xD;&#xA;Date: 12-Mar-2024&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+          content="Information Domain: PROCESS&#xD;&#xA;Owner: CPI&#xD;&#xA;Version: 0.8.2&#xD;&#xA;Date: 19-Mar-2024&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
         <bounds
             x="756"
             y="538"
@@ -167,15 +167,6 @@
           id="id-5925ca6fa2cd487cb9b383d1d50e8fd7"
           targetConnections="id-1e490bcf609d4693b551ebe8bb9e4282 id-2b0d390334b541ab98bc1fad0d8f1517"
           type="1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-6e9bb76a55ee4a09901877cf80193e4e"
-            source="id-5925ca6fa2cd487cb9b383d1d50e8fd7"
-            target="id-dca5ba04d97941a98168ce0384236a91">
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-0997c6fac3ac4f86b89283ce2db00d77.xml#id-0997c6fac3ac4f86b89283ce2db00d77"/>
-        </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-94d0eac8ba134ce9bbccba49cdcf60fd"
@@ -193,6 +184,15 @@
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_id-8f1ab9287f3443acab0b553e123ac223.xml#id-8f1ab9287f3443acab0b553e123ac223"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-6e9bb76a55ee4a09901877cf80193e4e"
+            source="id-5925ca6fa2cd487cb9b383d1d50e8fd7"
+            target="id-dca5ba04d97941a98168ce0384236a91">
+          <archimateRelationship
+              xsi:type="archimate:SpecializationRelationship"
+              href="SpecializationRelationship_id-9a6ed9abac0447979d34cdaf65be5c2a.xml#id-9a6ed9abac0447979d34cdaf65be5c2a"/>
         </sourceConnections>
         <bounds
             x="372"
@@ -435,7 +435,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-dca5ba04d97941a98168ce0384236a91"
-          targetConnections="id-0ef547c32759415d8c4be8b21aaa6446 id-6e9bb76a55ee4a09901877cf80193e4e id-a690a6c734024a64978e55101f8821e5"
+          targetConnections="id-0ef547c32759415d8c4be8b21aaa6446 id-a690a6c734024a64978e55101f8821e5 id-6e9bb76a55ee4a09901877cf80193e4e"
           type="1">
         <bounds
             x="132"
