@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&lt;&lt;eu-west2>> Cloud Services"
-    id="id-19f58599a65e4a6f97dfc639c2cd872e"/>
+    id="id-19f58599a65e4a6f97dfc639c2cd872e"
+    documentation="This is a cloud logical technology architecture and this can be expanded to support multi cloud manufacturing capabilities in the pharm industry.&#xA;Cloud for medicine manufacturing facilitates secure, scalable, and compliant storage and processing of sensitive health data, enabling pharmaceutical companies to streamline production processes, enhance research and development efforts, ensure regulatory compliance, and leverage advanced analytics for improved efficiency, innovation, and patient care in a highly regulated industry."/>

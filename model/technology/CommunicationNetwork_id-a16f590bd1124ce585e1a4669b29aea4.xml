@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name=" Cloud ISP Service provider"
-    id="id-a16f590bd1124ce585e1a4669b29aea4"/>
+    id="id-a16f590bd1124ce585e1a4669b29aea4"
+    documentation="Cloud ISP providers  internet connectivity through cloud-based infrastructure, delivering reliable, scalable, and flexible network services to businesses and consumers without the need for physical hardware or medicine manufacturing on-premises equipment."/>

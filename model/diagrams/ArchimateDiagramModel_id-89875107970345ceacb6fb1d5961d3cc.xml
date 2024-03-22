@@ -16,7 +16,8 @@
         xsi:type="archimate:DiagramModelGroup"
         id="id-a96b5cbb696b410cb2669437a5db624a"
         name="Lab Information System"
-        textAlignment="1">
+        textAlignment="1"
+        documentation="Please refer the LIMS  deployment documentation">
       <bounds
           x="12"
           y="24"

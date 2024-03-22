@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edge S2S Data Lake VPN"
-    id="id-a757d0c9417e41bcbfd540e826732682"/>
+    id="id-a757d0c9417e41bcbfd540e826732682"
+    documentation="This should maps to AWS Direct connect or Azure Express route"/>
