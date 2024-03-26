@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Data View - PLANT Domain CDM - Level 1"
+    name="Business Data View - PLANT Domain CDM - Level 1 - with interactions"
     id="id-a014e87b6ccf481e837be02b30bf1017"
     viewpoint="information_structure">
   <children
@@ -642,33 +642,6 @@
             height="60"/>
       </children>
       <children
-          xsi:type="archimate:DiagramModelNote"
-          id="id-5fc80c14f38d401c9373c1c76b29ab06"
-          font="1|Comic Sans MS|9.0|0|COCOA|1|ComicSansMS"
-          textAlignment="1"
-          fillColor="#ffb8b8"
-          alpha="245"
-          content="NOTE: Maintenance Event should probably come out into PROCESS Domain with a link to Machine">
-        <features
-            name="gradient"
-            value="1"/>
-        <sourceConnections
-            id="id-555cb752e0fa42238fd8522d35dc601d"
-            source="id-5fc80c14f38d401c9373c1c76b29ab06"
-            target="id-e7182f79c03e4997b33e7814dd499c34"
-            type="4"/>
-        <sourceConnections
-            id="id-25303ec6097b464bbba22bccde0900e3"
-            source="id-5fc80c14f38d401c9373c1c76b29ab06"
-            target="id-d774dc789adf4a54a12eabe11516cacd"
-            type="4"/>
-        <bounds
-            x="888"
-            y="180"
-            width="162"
-            height="49"/>
-      </children>
-      <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7b784b20b4a64bbeac354335d81d6405"
           targetConnections="id-ef67ce23079548eba736628cb7b55fbd id-fa446749f20049728cefea9e7f87f835"
@@ -705,6 +678,33 @@
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_id-54f5b3cc85c74035b2268ffb2298ee06.xml#id-54f5b3cc85c74035b2268ffb2298ee06"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-e76561b2fe974f44935cbbf4770675fb"
+          font="1|Comic Sans MS|9.0|0|COCOA|1|ComicSansMS"
+          textAlignment="1"
+          fillColor="#ffb8b8"
+          alpha="245"
+          content="NOTE: Maintenance Event may move to PROCESS Domain in subsequent releases">
+        <features
+            name="gradient"
+            value="1"/>
+        <sourceConnections
+            id="id-25303ec6097b464bbba22bccde0900e3"
+            source="id-e76561b2fe974f44935cbbf4770675fb"
+            target="id-d774dc789adf4a54a12eabe11516cacd"
+            type="4"/>
+        <sourceConnections
+            id="id-555cb752e0fa42238fd8522d35dc601d"
+            source="id-e76561b2fe974f44935cbbf4770675fb"
+            target="id-e7182f79c03e4997b33e7814dd499c34"
+            type="4"/>
+        <bounds
+            x="876"
+            y="156"
+            width="162"
+            height="49"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-9554a403d62c45498acb553d27fd002b.xml#id-9554a403d62c45498acb553d27fd002b"/>
@@ -733,7 +733,7 @@
         x="-30"
         y="636"
         width="228"
-        height="140"/>
+        height="156"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d3d9ec477b8e4b4990bb663f7095ec95"
@@ -752,7 +752,7 @@
           x="24"
           y="24"
           width="186"
-          height="97"/>
+          height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6444b40b546240578ecd6641fc277603"
@@ -760,7 +760,7 @@
           type="1">
         <bounds
             x="36"
-            y="24"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement
@@ -792,7 +792,7 @@
           href="CompositionRelationship_id-7acac73974b0408097b071a6e5d3ec7b.xml#id-7acac73974b0408097b071a6e5d3ec7b"/>
     </sourceConnections>
     <bounds
-        x="1536"
+        x="1428"
         y="252"
         width="250"
         height="432"/>
@@ -845,7 +845,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d774dc789adf4a54a12eabe11516cacd"
-          targetConnections="id-e84342eefadd4b8fb6f9bf21b5d89521 id-25303ec6097b464bbba22bccde0900e3 id-72b3b9c6d59845a4afde5197926a977e"
+          targetConnections="id-e84342eefadd4b8fb6f9bf21b5d89521 id-72b3b9c6d59845a4afde5197926a977e id-25303ec6097b464bbba22bccde0900e3"
           type="1">
         <bounds
             x="60"

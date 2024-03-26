@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;NameSpace>> http://opcfoundation.org/UA/ISA95-JOBCONTROL_V2/"
+    name="ISA95 Job Control V2 Namespace"
     id="id-bfe506c5988648b4b738bb54fbf4c34b"
-    documentation="&#xA;"/>
+    documentation="(Namespace)&#xA;http://opcfoundation.org/UA/ISA95-JOBCONTROL_V2"/>

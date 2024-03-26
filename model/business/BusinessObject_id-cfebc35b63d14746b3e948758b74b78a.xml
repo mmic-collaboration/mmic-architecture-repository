@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PEOPLE Domain CDM"
-    id="id-cfebc35b63d14746b3e948758b74b78a"/>
+    id="id-cfebc35b63d14746b3e948758b74b78a"
+    documentation="PEOPLE Domain contains data about personnel that are involved in the pharmaceutical environment.  The initial modelling has identified Workers within the medicines manufacturing function and the Training and Qualifications they are required to hold to support that process."/>
