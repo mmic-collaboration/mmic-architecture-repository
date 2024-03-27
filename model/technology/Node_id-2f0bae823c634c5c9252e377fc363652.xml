@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Glue"
-    id="id-2f0bae823c634c5c9252e377fc363652"/>
+    id="id-2f0bae823c634c5c9252e377fc363652"
+    documentation="Glue is a data integration service by AWS, facilitating ETL (Extract, Transform, Load) tasks. It automates data preparation, enabling seamless integration across various data sources for analysis and reporting."/>

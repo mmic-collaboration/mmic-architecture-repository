@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AWS Direct Connect( Private VPC | Private Subnet | NACL| RT|SG)"
-    id="id-2076f807ea554f4290ccdde977c1a613"/>
+    id="id-2076f807ea554f4290ccdde977c1a613"
+    documentation="AWS Direct Connect establishes a dedicated network connection between an organization's data center and AWS, bypassing the internet. It offers private connectivity to Virtual Private Cloud (VPC), private subnets, Network Access Control Lists (NACLs), Route Tables (RTs), and Security Groups (SGs)."/>

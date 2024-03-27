@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AWS IoT Core"
-    id="id-452f37aa803d4854afb51cd6d83ef041"/>
+    id="id-452f37aa803d4854afb51cd6d83ef041"
+    documentation="AWS IoT Core is a managed cloud platform that allows devices to securely connect and interact with cloud applications and other devices, enabling scalable, reliable, and secure Internet of Things (IoT) solutions."/>

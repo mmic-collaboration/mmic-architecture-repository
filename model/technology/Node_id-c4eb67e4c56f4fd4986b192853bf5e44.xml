@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Redshift"
-    id="id-c4eb67e4c56f4fd4986b192853bf5e44"/>
+    id="id-c4eb67e4c56f4fd4986b192853bf5e44"
+    documentation="Amazon Redshift is a fully managed data warehousing service in AWS, offering petabyte-scale data storage, fast query performance, and integration with various data analysis tools for analytics."/>

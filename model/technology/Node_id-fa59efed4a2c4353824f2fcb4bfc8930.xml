@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Managed OPCUA Service"
-    id="id-fa59efed4a2c4353824f2fcb4bfc8930"/>
+    id="id-fa59efed4a2c4353824f2fcb4bfc8930"
+    documentation="AWS Managed OPC UA Service is a cloud-based solution by Amazon Web Services for managing OPC UA servers, enabling secure and scalable industrial data communication for Industry 4.0 applications."/>

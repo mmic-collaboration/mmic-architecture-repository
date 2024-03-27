@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SageMaker"
-    id="id-e6f3d2be28444907869ea2fe4cc0d095"/>
+    id="id-e6f3d2be28444907869ea2fe4cc0d095"
+    documentation="AWS SageMaker is a fully managed service that enables developers and data scientists to build, train, and deploy machine learning models at scale, simplifying the process of creating intelligent applications."/>

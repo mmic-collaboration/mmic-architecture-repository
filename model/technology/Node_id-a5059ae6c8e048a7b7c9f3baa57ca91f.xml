@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AWS CloudWtach"
-    id="id-a5059ae6c8e048a7b7c9f3baa57ca91f"/>
+    id="id-a5059ae6c8e048a7b7c9f3baa57ca91f"
+    documentation="CloudWatch is an Amazon Web Services (AWS) monitoring service that provides real-time insights into resource utilization, application performance, and operational health of AWS resources, enabling efficient cloud management."/>

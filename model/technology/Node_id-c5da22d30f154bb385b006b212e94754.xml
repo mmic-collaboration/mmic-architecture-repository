@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AWS Iot SiteWise"
-    id="id-c5da22d30f154bb385b006b212e94754"/>
+    id="id-c5da22d30f154bb385b006b212e94754"
+    documentation="AWS SiteWise is a service that collects, structures, and analyzes industrial data to improve operational efficiency, offering real-time monitoring, asset management, and predictive maintenance capabilities for industrial facilities."/>

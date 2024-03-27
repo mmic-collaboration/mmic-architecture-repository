@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="S3 Bucket"
-    id="id-0af0cd86c8ae4126a9c27217e046a6dc"/>
+    id="id-0af0cd86c8ae4126a9c27217e046a6dc"
+    documentation="Amazon S3 (Simple Storage Service) is a scalable cloud storage solution where users can store and retrieve any amount of data from anywhere on the web."/>

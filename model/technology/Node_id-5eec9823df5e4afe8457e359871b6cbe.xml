@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Athena"
-    id="id-5eec9823df5e4afe8457e359871b6cbe"/>
+    id="id-5eec9823df5e4afe8457e359871b6cbe"
+    documentation="&#xA;AWS Athena is a serverless interactive query service allowing users to analyze data directly in Amazon S3 using standard SQL, without managing infrastructure, ideal for ad-hoc analysis and reporting."/>

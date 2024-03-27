@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kinesis"
-    id="id-2dcba9315a85443691c9bac60ddbb7d5"/>
+    id="id-2dcba9315a85443691c9bac60ddbb7d5"
+    documentation="&#xA;AWS Kinesis is a real-time data streaming service by Amazon Web Services, enabling collection, processing, and analysis of large-scale data streams for various applications."/>
