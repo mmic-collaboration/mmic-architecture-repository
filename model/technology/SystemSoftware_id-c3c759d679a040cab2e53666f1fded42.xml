@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Non-OPC UA server"
     id="id-c3c759d679a040cab2e53666f1fded42"
-    documentation="Non OPC UA server"/>
+    documentation="A non-OPC UA server is a server that doesn't adhere to the OPC UA (Open Platform Communications Unified Architecture) standard for industrial automation, instead using a different protocol for communication."/>

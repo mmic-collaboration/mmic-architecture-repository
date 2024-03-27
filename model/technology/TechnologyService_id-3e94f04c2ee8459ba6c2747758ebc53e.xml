@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PLC Sensor Event Broker Service"
     id="id-3e94f04c2ee8459ba6c2747758ebc53e"
-    documentation="sensor API service represents an explicitly defined exposed technology data behavior."/>
+    documentation="The PLC Sensor Event Broker Service connects Programmable Logic Controllers (PLCs) with sensors, managing data exchange, enabling real-time monitoring, and facilitating automation in industrial settings."/>

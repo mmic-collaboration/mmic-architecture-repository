@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Private AZ HCI Cluster Service"
     id="id-8ae56314e8f44b2a87c16a9f8e630f1a"
-    documentation="Azure hyper convergence infrastructure"/>
+    documentation=" Private Azure HCI (Hyper-Converged Infrastructure) Cluster provides a dedicated, scalable, and secure environment within Azure for running virtualized workloads, utilizing integrated compute, storage, and networking resources efficiently."/>

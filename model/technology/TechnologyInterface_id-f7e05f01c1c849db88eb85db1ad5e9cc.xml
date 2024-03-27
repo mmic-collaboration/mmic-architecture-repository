@@ -1,4 +1,5 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domain Gateway API"
-    id="id-f7e05f01c1c849db88eb85db1ad5e9cc"/>
+    id="id-f7e05f01c1c849db88eb85db1ad5e9cc"
+    documentation="The Domain Gateway API interface facilitates communication and data exchange between disparate domains, enabling seamless integration, management, and control of resources across different network environments."/>

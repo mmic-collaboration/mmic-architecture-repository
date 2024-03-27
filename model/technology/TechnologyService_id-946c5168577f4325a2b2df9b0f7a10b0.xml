@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edge HA Cluster Service"
-    id="id-946c5168577f4325a2b2df9b0f7a10b0"/>
+    id="id-946c5168577f4325a2b2df9b0f7a10b0"
+    documentation="Edge HA Cluster Service ensures high availability by distributing workloads across multiple edge nodes, optimizing performance and reliability for applications operating at the edge of the network infrastructure."/>
