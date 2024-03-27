@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OPC UA"
-    id="id-e21ca3be57634ae4abbe23744a71e0a3"/>
+    id="id-e21ca3be57634ae4abbe23744a71e0a3"
+    documentation="OPC UA (Unified Architecture) is a machine-to-machine communication protocol for industrial automation, providing secure, reliable, and platform-independent exchange of data and information in industrial environments."/>

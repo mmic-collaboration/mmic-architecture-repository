@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Software"
-    id="id-fcd59a67773d432fb9f35372974d2f5a"/>
+    id="id-fcd59a67773d432fb9f35372974d2f5a"
+    documentation="Payload schema validation module."/>

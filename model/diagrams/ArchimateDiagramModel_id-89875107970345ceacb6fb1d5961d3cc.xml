@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology View- Sensor Event Processing"
-    id="id-89875107970345ceacb6fb1d5961d3cc">
+    id="id-89875107970345ceacb6fb1d5961d3cc"
+    documentation="The process domain in medicine manufacturing encompasses the entirety of production activities, from raw material sourcing to final product packaging. It involves various stages like formulation, blending, encapsulation, and sterilization, ensuring adherence to quality standards, regulatory requirements, and efficiency to produce safe and effective pharmaceutical products.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a7a005e52aa4055b0b6f3f2ceb36c14">
@@ -15,7 +16,8 @@
         xsi:type="archimate:DiagramModelGroup"
         id="id-a96b5cbb696b410cb2669437a5db624a"
         name="Lab Information System"
-        textAlignment="1">
+        textAlignment="1"
+        documentation="Please refer the LIMS  deployment documentation">
       <bounds
           x="12"
           y="24"
@@ -423,7 +425,8 @@
         xsi:type="archimate:DiagramModelGroup"
         id="id-68b3a91104874f31b70ad5f91c766e04"
         name="Sensor Event Flow Technology Layer"
-        textAlignment="1">
+        textAlignment="1"
+        documentation="This logical technology architecture outlines how the medicine manufacturing sector integrates equipment sensors to efficiently extract their data, ensuring alignment with quality control, Laboratory Information Management Systems (LIMS), and regulatory compliance. This facilitates real-time monitoring of medicine production processes and realtime data release for the predictive monitoring and other operation dashboards.">
       <bounds
           x="12"
           y="36"

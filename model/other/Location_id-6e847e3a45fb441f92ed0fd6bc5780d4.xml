@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AWS | Cloud | eu-west-2"
-    id="id-6e847e3a45fb441f92ed0fd6bc5780d4"/>
+    id="id-6e847e3a45fb441f92ed0fd6bc5780d4"
+    documentation="LIMS hosting in the AWS cloud.&#xA;LIMS (Laboratory Information Management System) in medicine manufacturing automates sample tracking, data management, and regulatory compliance, enhancing efficiency and accuracy in laboratories. It streamlines workflows, ensures data integrity, facilitates traceability, and supports compliance with industry regulations, ultimately improving quality control and accelerating research and development efforts."/>

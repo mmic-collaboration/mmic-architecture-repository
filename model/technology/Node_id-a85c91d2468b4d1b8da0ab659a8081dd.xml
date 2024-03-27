@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process"
-    id="id-a85c91d2468b4d1b8da0ab659a8081dd"/>
+    id="id-a85c91d2468b4d1b8da0ab659a8081dd"
+    documentation="The process domain in medicine manufacturing encompasses the entirety of production activities, from raw material sourcing to final product packaging. It involves various stages like formulation, blending, encapsulation, and sterilization, ensuring adherence to quality standards, regulatory requirements, and efficiency to produce safe and effective pharmaceutical products."/>

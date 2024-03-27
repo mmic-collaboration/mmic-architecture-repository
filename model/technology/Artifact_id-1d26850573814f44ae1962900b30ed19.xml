@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PLANT Domain Schema"
-    id="id-1d26850573814f44ae1962900b30ed19"/>
+    id="id-1d26850573814f44ae1962900b30ed19"
+    documentation="Plant domain schema stored within Github repo.&#xA;&#xA;The PLANT domain schema structures data related sensor data payload."/>

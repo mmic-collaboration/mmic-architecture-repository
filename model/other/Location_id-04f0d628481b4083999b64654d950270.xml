@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AZ | eu-west-2 | Subscriptions | Resource Groups"
-    id="id-04f0d628481b4083999b64654d950270"/>
+    id="id-04f0d628481b4083999b64654d950270"
+    documentation="The Azure cloud physical technology architecture is engineered to provide a resilient medicine manufacturing infrastructure that caters to the demands of real-time medicine applications and real-time data pipelines. This architecture is designed to ensure robustness and fault tolerance, critical for the uninterrupted operation of medicine manufacturing services and continuous data processing. Furthermore, it is modular in nature, allowing for decomposition to support API-based implementations. This enables seamless integration with various upstream systems and downstream applications, which will enhance the interoperability and scalability. "/>

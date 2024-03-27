@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Non-OPC UA raw payload"
-    id="id-6fe78a475af74d5fb45136594d41f537"/>
+    id="id-6fe78a475af74d5fb45136594d41f537"
+    documentation="Non-OPC UA payload received from BMS abd other facilities."/>

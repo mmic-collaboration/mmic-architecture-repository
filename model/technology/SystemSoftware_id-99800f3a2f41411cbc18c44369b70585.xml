@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name=" OPC UA server "
     id="id-99800f3a2f41411cbc18c44369b70585"
-    documentation="PLC OPC UA module"/>
+    documentation="PLC OPC UA service facilitates seamless communication between Programmable Logic Controllers (PLCs) and other industrial devices by implementing the OPC Unified Architecture (UA) protocol. It ensures reliable data exchange, interoperability, and secure connectivity, enhancing efficiency and flexibility in industrial automation systems."/>

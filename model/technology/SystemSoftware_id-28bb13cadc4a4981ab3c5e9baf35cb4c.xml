@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Software"
-    id="id-28bb13cadc4a4981ab3c5e9baf35cb4c"/>
+    id="id-28bb13cadc4a4981ab3c5e9baf35cb4c"
+    documentation="System software component has various function to process the data."/>

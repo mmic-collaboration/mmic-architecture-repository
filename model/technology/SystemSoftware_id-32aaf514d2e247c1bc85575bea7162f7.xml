@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cloud Connector or Integrator"
-    id="id-32aaf514d2e247c1bc85575bea7162f7"/>
+    id="id-32aaf514d2e247c1bc85575bea7162f7"
+    documentation="This  cloud IoT connector facilitates seamless integration between IoT devices and cloud platforms, enabling efficient data transmission, storage, analysis, and management for scalable and reliable IoT solutions."/>

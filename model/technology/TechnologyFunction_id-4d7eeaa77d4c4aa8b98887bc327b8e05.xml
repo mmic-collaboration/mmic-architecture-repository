@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Filter | Publish | Subscribe"
-    id="id-4d7eeaa77d4c4aa8b98887bc327b8e05"/>
+    id="id-4d7eeaa77d4c4aa8b98887bc327b8e05"
+    documentation="Data fillter, enrichment and oublish service"/>

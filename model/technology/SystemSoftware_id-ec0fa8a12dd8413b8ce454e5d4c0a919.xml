@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Server"
-    id="id-ec0fa8a12dd8413b8ce454e5d4c0a919"/>
+    id="id-ec0fa8a12dd8413b8ce454e5d4c0a919"
+    documentation="&#xA; A process server is a critical component responsible for overseeing and executing various stages of production. It coordinates the manufacturing process, ensuring compliance with regulatory standards, maintaining equipment functionality, monitoring quality control measures, and optimizing efficiency. The process server plays a pivotal role in ensuring the consistent and safe production of pharmaceuticals or medical devices."/>

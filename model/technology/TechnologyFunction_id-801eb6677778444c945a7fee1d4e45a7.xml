@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metric Collector"
-    id="id-801eb6677778444c945a7fee1d4e45a7"/>
+    id="id-801eb6677778444c945a7fee1d4e45a7"
+    documentation="Azure metric collector gathers performance data from Azure resources, such as virtual machines or databases, providing insights into resource utilization and enabling effective monitoring and optimization of cloud-based infrastructure."/>

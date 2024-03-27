@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BMS"
-    id="id-feddd3fcf8544cb6b0eb868537d0bb11"/>
+    id="id-feddd3fcf8544cb6b0eb868537d0bb11"
+    documentation="BMS, or Building Management Systems, in medicine manufacturing, refers to the integration of automated control systems to manage and monitor critical building infrastructure such as HVAC, utilities, and environmental controls. These systems ensure optimal conditions for pharmaceutical production, maintaining stringent regulatory compliance and enhancing operational efficiency."/>

@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edege S2S VPN(DMZ)"
-    id="id-3d63ef93d19541548c9f13dc0050aae0"/>
+    id="id-3d63ef93d19541548c9f13dc0050aae0"
+    documentation="Secure private network"/>

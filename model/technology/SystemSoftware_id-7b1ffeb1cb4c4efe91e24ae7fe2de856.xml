@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MTConnect"
-    id="id-7b1ffeb1cb4c4efe91e24ae7fe2de856"/>
+    id="id-7b1ffeb1cb4c4efe91e24ae7fe2de856"
+    documentation="MTConnect is an open-source protocol for interoperability in manufacturing. It standardizes data exchange between machines and software, providing real-time insights into equipment status, performance, and productivity."/>

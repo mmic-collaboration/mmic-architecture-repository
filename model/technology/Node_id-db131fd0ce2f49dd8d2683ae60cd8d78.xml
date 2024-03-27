@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PLC's"
-    id="id-db131fd0ce2f49dd8d2683ae60cd8d78"/>
+    id="id-db131fd0ce2f49dd8d2683ae60cd8d78"
+    documentation="Programmable Logic Controllers (PLCs) are industrial computers used in automation to control machinery and processes. They monitor inputs, make decisions based on pre-programmed logic, and control outputs. PLCs are crucial in various industries, from manufacturing to transportation, for their reliability, flexibility, and ease of programming."/>

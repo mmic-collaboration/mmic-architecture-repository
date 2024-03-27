@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital Membership Manufacturing Private Network"
-    id="id-9f94e546de82402f8a1f252866e473ef"/>
+    id="id-9f94e546de82402f8a1f252866e473ef"
+    documentation="This manufacturing private network is an exclusive communication infrastructure within a manufacturing facility, ensuring secure and reliable connectivity for machines, devices, and systems, while minimizing external access for enhanced data protection."/>

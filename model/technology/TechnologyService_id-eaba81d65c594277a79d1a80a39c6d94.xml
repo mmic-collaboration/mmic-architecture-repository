@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edge Private AZ HCI Cluster Service "
-    id="id-eaba81d65c594277a79d1a80a39c6d94"/>
+    id="id-eaba81d65c594277a79d1a80a39c6d94"
+    documentation="Az HCI based cluster deployed into the Edge layer"/>

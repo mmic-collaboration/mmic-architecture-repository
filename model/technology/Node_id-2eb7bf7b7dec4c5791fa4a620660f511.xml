@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cloud Connector | Industrial IoT third party Integrator"
-    id="id-2eb7bf7b7dec4c5791fa4a620660f511"/>
+    id="id-2eb7bf7b7dec4c5791fa4a620660f511"
+    documentation="An industrial IoT connector facilitates seamless communication between machinery, sensors, and centralized systems, enabling real-time data exchange and control in industrial environments. Built to withstand harsh conditions, it ensures reliable connectivity, enhances operational efficiency, and enables predictive maintenance, ultimately optimizing productivity and reducing downtime in industrial settings."/>
