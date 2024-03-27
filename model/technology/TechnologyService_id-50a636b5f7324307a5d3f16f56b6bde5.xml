@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edge HA Cluster Service"
-    id="id-50a636b5f7324307a5d3f16f56b6bde5"/>
+    id="id-50a636b5f7324307a5d3f16f56b6bde5"
+    documentation="Deploy  HA cluster at edge layer for resiliency'"/>

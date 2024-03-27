@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Software"
-    id="id-ccbf0b5a7a2a4a098b564b91e1ca9ad0"/>
+    id="id-ccbf0b5a7a2a4a098b564b91e1ca9ad0"
+    documentation="This software component will implement integration pattern to ensure gauranteed deliver of payload message."/>

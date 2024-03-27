@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Private HA Cluster Service"
-    id="id-1977c767d1a44cc58df5c67d30d0f0de"/>
+    id="id-1977c767d1a44cc58df5c67d30d0f0de"
+    documentation="Design and deploy HA cluster to upport resiliency within medicine manufacturing edge layer."/>
